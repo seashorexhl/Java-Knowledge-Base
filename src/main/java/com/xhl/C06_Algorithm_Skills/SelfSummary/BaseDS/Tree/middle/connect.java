@@ -1,6 +1,7 @@
 package com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Tree.middle;
 
-import com.xhl.Career_Growth.SelfSummary.BaseDS.Tree.Node;
+
+import com.xhl.C06_Algorithm_Skills.SelfSummary.AdvanceDS.BFS.Node;
 
 /**
  * @Author: xhl

@@ -6,7 +6,8 @@ import java.math.RoundingMode;
 import java.util.*;
 import java.util.stream.Collectors;
 
-import static com.xhl.Career_Growth.SelfSummary.AdvancedAL.Statistics.UserGenerator.getUserList;
+import static com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.Statistics.UserGenerator.getUserList;
+
 
 /**
  * @Author: xhl

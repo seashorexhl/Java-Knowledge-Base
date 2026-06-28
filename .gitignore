@@ -1,39 +1,54 @@
+# ==========================================
+# 1. 构建与编译产物 (Maven)
+# ==========================================
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-.kotlin
 
-### IntelliJ IDEA ###
-.idea/modules.xml
-.idea/jarRepositories.xml
-.idea/compiler.xml
-.idea/libraries/
+# ==========================================
+# 2. 项目特有目录与敏感文件
+# ==========================================
+# 日志目录：通常包含运行时产生的大量日志，不需要版本控制
+logs/
+*.log
+
+# 配置文件策略：
+# 保留 conf 目录下的通用配置模板，但忽略可能包含真实密码的文件
+# 建议团队约定：真实配置文件命名为 application-local.yml 或 *.secret
+conf/**/*local*
+conf/**/*secret*
+conf/**/*password*
+
+# 临时文件
+tmp/
+temp/
+
+# ==========================================
+# 3. IntelliJ IDEA (JetBrains系列)
+# ==========================================
+.idea/
+# 可选：如果你想共享运行配置和代码风格，取消下面两行的注释
+# !.idea/runConfigurations/
+# !.idea/codeStyles/
 *.iws
 *.iml
 *.ipr
+out/
 
-### Eclipse ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-build/
-!**/src/main/**/build/
-!**/src/test/**/build/
-
-### VS Code ###
-.vscode/
-
-### Mac OS ###
+# ==========================================
+# 4. 操作系统生成的垃圾文件
+# ==========================================
 .DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================================
+# 5. 其他常见忽略项
+# ==========================================
+# Node modules (如果前端有用到)
+node_modules/
+
+# 环境变量文件 (绝对不要提交)
+.env
+.env.local

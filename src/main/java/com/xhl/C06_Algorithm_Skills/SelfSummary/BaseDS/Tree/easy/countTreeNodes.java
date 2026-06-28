@@ -1,6 +1,8 @@
 package com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Tree.easy;
 
 
+import com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Tree.TreeNode;
+
 /**
  * @Author: xhl
  * @Date: 2026-06-22 12:12
