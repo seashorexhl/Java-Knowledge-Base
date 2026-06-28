@@ -1,0 +1,8 @@
+# 4. JVM 启动参数配置代码 生产环境调优示例
+java -Xms4g -Xmx4g \
+-XX:+UseZGC -XX:+ZGenerational \
+-XX:MaxGCPauseMillis=5 \
+-XX:ParallelGCThreads=8 \
+-XX:+HeapDumpOnOutOfMemoryError \
+-XX:HeapDumpPath=/var/log/heapdump.hprof \
+-jar myapp.jar

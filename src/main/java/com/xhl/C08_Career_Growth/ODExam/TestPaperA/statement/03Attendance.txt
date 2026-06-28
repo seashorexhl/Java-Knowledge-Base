@@ -1,0 +1,82 @@
+题目描述
+公司用一个字符串来表示员工的出勤信息
+
+absent：缺勤
+late：迟到
+leaveearly：早退
+present：正常上班
+现需根据员工出勤信息，判断本次是否能获得出勤奖，能获得出勤奖的条件如下：
+
+缺勤不超过一次；
+没有连续的迟到/早退；
+任意连续7次考勤，缺勤/迟到/早退不超过3次。
+输入描述
+用户的考勤数据字符串
+
+记录条数 >= 1；
+输入字符串长度 < 10000；
+不存在非法输入；
+如：
+
+2
+present
+present absent present present leaveearly present absent
+
+输出描述
+根据考勤数据字符串，如果能得到考勤奖，输出”true”；否则输出”false”，
+对于输入示例的结果应为：
+
+true false
+
+示例1
+输入
+
+2
+present
+present present
+1
+2
+3
+输出
+
+true true
+1
+说明
+
+无
+
+示例2
+输入
+
+2
+present
+present absent present present leaveearly present absent
+1
+2
+3
+输出
+
+true false
+1
+说明
+
+解题思路
+这个题目要求我们根据员工的出勤信息字符串来判断员工是否可以获得出勤奖。根据题目的描述，有三个条件来判断员工是否能够获得出勤奖。、
+
+1. 出勤奖条件
+员工要获得出勤奖，必须满足以下三个条件：
+
+缺勤不超过一次：即字符串中 absent 出现的次数不能超过1次。
+没有连续的迟到/早退：即字符串中不能有 late 和 leaveearly 这两种情况连续出现。
+任意连续7次考勤中，缺勤/迟到/早退不超过3次：在任何7次连续考勤记录中，absent、late 和 leaveearly 的总次数不能超过3次。
+2. 示例分析
+示例1：
+
+输入 2 present \n present present：两个员工的考勤记录分别是 present 和 present present。
+第一个员工没有缺勤、迟到或早退，因此符合所有条件，输出 true。
+第二个员工也符合所有条件，输出 true。
+示例2：
+
+输入 2 present \n present absent present present leaveearly present absent：两个员工的考勤记录分别是 present 和 present absent present present leaveearly present absent。
+第一个员工没有问题，输出 true。
+第二个员工的考勤记录包含了两个 absent，因此违反了第一个条件（缺勤不超过一次），所以输出 false。
