@@ -1,4 +1,4 @@
-package com.xhl.Architecture_Design.DesignPattern.CreationalPatterns.SingletonPattern;
+package com.xhl.C02_Architecture_Design.DesignPattern.CreationalPatterns.SingletonPattern;
 
 /**
  * @Author: xhl

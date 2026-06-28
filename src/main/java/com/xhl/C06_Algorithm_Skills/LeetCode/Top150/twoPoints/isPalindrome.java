@@ -1,4 +1,4 @@
-package com.xhl.Algorithm_Skills.LeetCode.Top150.twoPoints;
+package com.xhl.C06_Algorithm_Skills.LeetCode.Top150.twoPoints;
 
 /**
  * @Author: xhl

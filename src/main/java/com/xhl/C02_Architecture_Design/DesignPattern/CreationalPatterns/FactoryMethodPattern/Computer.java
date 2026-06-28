@@ -1,4 +1,4 @@
-package com.xhl.Architecture_Design.DesignPattern.CreationalPatterns.FactoryMethodPattern;
+package com.xhl.C02_Architecture_Design.DesignPattern.CreationalPatterns.FactoryMethodPattern;
 
 /**
  * @Author: xhl

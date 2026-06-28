@@ -1,4 +1,4 @@
-package com.xhl.Java_Core.java17.JVM;
+package com.xhl.C01_Java_Core.java17.JVM;
 
 /**
  * @Author: xhl

@@ -1,4 +1,4 @@
-package com.xhl.Java_Core.java17.SwitchPatternMatch;
+package com.xhl.C01_Java_Core.java17.SwitchPatternMatch;
 
 /**
  * @Author: xhl

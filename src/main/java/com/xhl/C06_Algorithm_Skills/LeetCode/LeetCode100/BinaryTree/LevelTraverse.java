@@ -1,4 +1,4 @@
-package com.xhl.Algorithm_Skills.LeetCode.LeetCode100.BinaryTree;
+package com.xhl.C06_Algorithm_Skills.LeetCode.LeetCode100.BinaryTree;
 
 import com.xhl.Career_Growth.SelfSummary.BaseDS.Tree.TreeNode;
 

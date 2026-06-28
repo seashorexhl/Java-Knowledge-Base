@@ -1,4 +1,4 @@
-package com.xhl.Algorithm_Skills.LeetCode.LeetCode100.Hash;
+package com.xhl.C06_Algorithm_Skills.LeetCode.LeetCode100.Hash;
 
 import java.util.HashMap;
 import java.util.Map;

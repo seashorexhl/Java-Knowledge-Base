@@ -1,4 +1,4 @@
-package com.xhl.Algorithm_Skills.LeetCode.Top150.Array;
+package com.xhl.C06_Algorithm_Skills.LeetCode.Top150.Array;
 
 /**
  * @Author: xhl
