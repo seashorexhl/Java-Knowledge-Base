@@ -1,4 +1,4 @@
-package com.xhl.Career_Growth.ODExam.IO;
+package com.xhl.C08_Career_Growth.ODExam.IO;
 
 import java.util.Scanner;
 
