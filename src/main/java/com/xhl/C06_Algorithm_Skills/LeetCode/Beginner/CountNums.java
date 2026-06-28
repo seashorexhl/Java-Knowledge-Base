@@ -1,4 +1,4 @@
-package com.xhl.Algorithm_Skills.LeetCode.Beginner;
+package com.xhl.C06_Algorithm_Skills.LeetCode.Beginner;
 
 import java.util.Collections;
 import java.util.LinkedList;

@@ -1,4 +1,4 @@
-package com.xhl.Architecture_Design.DesignPattern.BehavioralPatterns.Observer;
+package com.xhl.C02_Architecture_Design.DesignPattern.BehavioralPatterns.Observer;
 
 // 2. 被观察者（主题）接口
 public interface Subject {

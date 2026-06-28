@@ -1,4 +1,4 @@
-package com.xhl.Algorithm_Skills.LeetCode.Easy;
+package com.xhl.C06_Algorithm_Skills.LeetCode.Easy;
 
 import java.util.Arrays;
 import java.util.HashMap;

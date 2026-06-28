@@ -1,4 +1,4 @@
-package com.xhl.Java_Core.java17.SealedClasses;
+package com.xhl.C01_Java_Core.java17.SealedClasses;
 
 /**
  * @Author: xhl

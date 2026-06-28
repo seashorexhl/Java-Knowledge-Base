@@ -1,4 +1,4 @@
-package com.xhl.Career_Growth.ODExam.A200.middle.answer;
+package com.xhl.C08_Career_Growth.ODExam.A200.middle.answer;
 
 import java.util.Arrays;
 import java.util.Scanner;

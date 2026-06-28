@@ -1,4 +1,4 @@
-package com.xhl.Algorithm_Skills.LeetCode.Middle;
+package com.xhl.C06_Algorithm_Skills.LeetCode.Middle;
 
 import java.util.Scanner;
 

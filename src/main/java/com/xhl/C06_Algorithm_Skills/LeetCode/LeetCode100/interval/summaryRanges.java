@@ -1,4 +1,4 @@
-package com.xhl.Algorithm_Skills.LeetCode.LeetCode100.interval;
+package com.xhl.C06_Algorithm_Skills.LeetCode.LeetCode100.interval;
 
 import java.util.ArrayList;
 import java.util.Arrays;

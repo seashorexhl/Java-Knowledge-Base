@@ -1,4 +1,4 @@
-package com.xhl.Algorithm_Skills.LeetCode.LeetCode100.DP;
+package com.xhl.C06_Algorithm_Skills.LeetCode.LeetCode100.DP;
 
 import java.util.Scanner;
 

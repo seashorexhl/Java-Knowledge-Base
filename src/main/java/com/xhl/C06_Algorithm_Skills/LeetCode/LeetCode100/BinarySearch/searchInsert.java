@@ -1,4 +1,4 @@
-package com.xhl.Algorithm_Skills.LeetCode.LeetCode100.BinarySearch;
+package com.xhl.C06_Algorithm_Skills.LeetCode.LeetCode100.BinarySearch;
 
 import java.util.Scanner;
 

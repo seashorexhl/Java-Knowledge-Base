@@ -1,4 +1,4 @@
-package com.xhl.Algorithm_Skills.LeetCode.LeetCode100.Stack;
+package com.xhl.C06_Algorithm_Skills.LeetCode.LeetCode100.Stack;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package com.xhl.Java_Core.Multithreading;
+package com.xhl.C01_Java_Core.Multithreading;
 import java.time.format.DateTimeFormatter;
 import java.util.concurrent.DelayQueue;
 

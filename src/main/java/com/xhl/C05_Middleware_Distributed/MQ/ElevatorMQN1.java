@@ -1,4 +1,4 @@
-package com.xhl.Middleware_Distributed.MQ;
+package com.xhl.C05_Middleware_Distributed.MQ;
 
 /**
  * @Author: xhl

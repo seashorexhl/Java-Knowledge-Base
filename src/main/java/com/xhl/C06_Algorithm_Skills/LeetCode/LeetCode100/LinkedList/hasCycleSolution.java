@@ -1,4 +1,4 @@
-package com.xhl.Algorithm_Skills.LeetCode.LeetCode100.LinkedList;
+package com.xhl.C06_Algorithm_Skills.LeetCode.LeetCode100.LinkedList;
 
 import java.util.HashSet;
 import java.util.Set;
