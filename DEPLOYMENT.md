@@ -56,7 +56,6 @@ services:
   ai-assistant:
     build:
       context: .
-      dockerfile: deploy/Dockerfile
       args:
         - VITE_DASHSCOPE_API_KEY=your_api_key_here
     ports:
