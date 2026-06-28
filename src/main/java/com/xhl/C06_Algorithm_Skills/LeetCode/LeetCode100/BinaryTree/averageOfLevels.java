@@ -1,11 +1,12 @@
 package com.xhl.C06_Algorithm_Skills.LeetCode.LeetCode100.BinaryTree;
 
-import com.xhl.Career_Growth.SelfSummary.BaseDS.Tree.TreeNode;
+
+import com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Tree.TreeNode;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
-import java.util.Queue;
 import java.util.List;
+import java.util.Queue;
 
 /**
  * @Author: xhl

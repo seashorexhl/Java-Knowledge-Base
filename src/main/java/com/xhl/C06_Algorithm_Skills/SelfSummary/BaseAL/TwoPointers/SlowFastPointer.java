@@ -1,12 +1,14 @@
 package com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers;
 
-import com.xhl.Algorithm_Skills.LeetCode.LeetCode100.LinkedList.ListNode;
 
 /**
  * @Author: xhl
  * @Date: 2026-06-15 02:46
  * @Description: 1. 快慢指针（Floyd 判圈算法）
  */
+
+import com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Collection.List.LinkedList.ListNode;
+
 /**
  *  应用场景：
  *      链表环检测、寻找链表中点、删除链表倒数第 N 个节点等
