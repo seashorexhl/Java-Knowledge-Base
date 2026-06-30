@@ -24,7 +24,7 @@ public class TreeBuilder {
         // 预期输出: 5 4 8 11 13 4 7 2 1
     }
     /**
-     * 核心方法：将层序遍历的数组转换为 二叉树
+     * 核心方法：将层序遍历的 数组转换为 二叉树
      */
     public static TreeNode buildTree(Integer[] nums) {
         // 1. 边界防御：处理空数组或首元素为 null 的情况

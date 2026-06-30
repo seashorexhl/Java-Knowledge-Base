@@ -23,7 +23,7 @@ public class BSPreorderTraversal {
         System.out.println(bsP.PreorderTraversal(root));
 
     }
-    // 二叉树的 前序遍历
+    // 二 叉树的 前序遍历 返回 整数数组
     public List<Integer> PreorderTraversal(BSTreeNode root) {
         List<Integer> list = new LinkedList<>();
         if (root == null) {

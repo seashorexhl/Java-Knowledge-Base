@@ -6,7 +6,7 @@ import java.util.Queue;
 /**
  * @Author: xhl
  * @Date: 2026-06-04 20:39
- * @Description: 路径总和
+ * @Description:  路径总和
  */
 public class hasPathSumSolution {
 

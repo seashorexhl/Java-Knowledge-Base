@@ -25,7 +25,7 @@ public class invertTree {
         it.preorderRecursive(node);
 
     }
-
+    // 翻转
     public TreeNode invertTree(TreeNode root) {
         if (root == null) return null;
         TreeNode temp = root.left;
@@ -36,6 +36,7 @@ public class invertTree {
 
         return root;
     }
+    //
     public void preorderRecursive(TreeNode root) {
         if (root == null) return;
         System.out.print(root.val + " ");      // 访问根节点

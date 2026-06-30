@@ -3,7 +3,7 @@ package com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Tree;
 /**
  * @Author: xhl
  * @Date: 2026-06-04 22:38
- * @Description: 完全二叉树 的节点个数
+ * @Description:  完全二叉树 的节点个数
  */
 public class countNodesSolutions {
 
