@@ -1,3 +1,4 @@
+05 乘坐保密电梯 RidingSecretElevator
 (B卷,100分)- 乘坐保密电梯（Java & JS & Python）
 题目描述
 有一座保密大楼，你从0楼到达指定楼层m，必须这样的规则乘坐电梯：
