@@ -17,6 +17,7 @@ public class MaxLCS {
         System.out.println("最长的连续子串："+mlcs);
 
     }
+    //
     public static int maxLCS(String A, String B) {
         int lenA = A.length();
         int lenB = B.length();

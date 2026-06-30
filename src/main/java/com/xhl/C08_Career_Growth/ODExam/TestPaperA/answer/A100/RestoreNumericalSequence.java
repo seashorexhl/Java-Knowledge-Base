@@ -1,4 +1,4 @@
-package com.xhl.C08_Career_Growth.ODExam.TestPaperA.awnser.A100;
+package com.xhl.C08_Career_Growth.ODExam.TestPaperA.answer.A100;
 
 import java.util.HashMap;
 import java.util.Scanner;

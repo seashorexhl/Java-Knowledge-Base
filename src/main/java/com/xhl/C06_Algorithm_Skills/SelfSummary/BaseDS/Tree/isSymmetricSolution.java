@@ -6,7 +6,7 @@ import java.util.Queue;
 /**
  * @Author: xhl
  * @Date: 2026-06-04 18:40
- * @Description: 判断 二叉树 是否是 对称
+ * @Description: 101 判断 二叉树 是否是 对称
  */
 public class isSymmetricSolution {
     public static void main(String[] args) {

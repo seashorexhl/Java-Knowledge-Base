@@ -6,6 +6,7 @@ package com.xhl.C08_Career_Growth.ODExam.ODIO;
  * @Description: 链表节点的构建
  */
 public class ListNode {
+
     public int val;
     public ListNode next;
     public ListNode(int val) {

@@ -8,7 +8,7 @@ import java.util.*;
 /**
  * @Author: xhl
  * @Date: 2026-06-22 12:15
- * @Description: 105. 从前序与中序遍历序列构造二叉树
+ * @Description: 105. 从前序与中序遍历序列构造二叉树 ⭐⭐⭐
  *  递归 迭代
  */
 public class preMiddleBuildTree {
@@ -33,7 +33,9 @@ public class preMiddleBuildTree {
         //        pmt.printTree(node1);
         System.out.println(pmt.serialize(node1));
     }
-
+    /**
+     *  方法一：递归
+     * */
     public TreeNode myBuildTree(int[] preorder, int[] inorder, int preorder_left, int preorder_right, int inorder_left, int inorder_right) {
         if (preorder_left > preorder_right) {
             return null;
@@ -116,7 +118,7 @@ public class preMiddleBuildTree {
         return root;
     }
     /**
-     * 哈希表优化和数组索引传递
+     * 方法三：哈希表优化和数组索引传递
      * */
     public TreeNode buildTree3(int[] preorder, int[] inorder) {
         int m = preorder.length;
