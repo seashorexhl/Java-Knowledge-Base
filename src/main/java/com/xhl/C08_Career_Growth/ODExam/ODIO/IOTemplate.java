@@ -1,11 +1,11 @@
-package com.xhl.C08_Career_Growth.ODExam.IO;
+package com.xhl.C08_Career_Growth.ODExam.ODIO;
 
 import java.util.Scanner;
 
 /**
  * @Author: xhl
  * @Date: 2026-06-24 02:25
- * @Description:
+ * @Description: OD 输入输出流 最新 宝典
  */
 public class IOTemplate {
     public static void main(String[] args) {

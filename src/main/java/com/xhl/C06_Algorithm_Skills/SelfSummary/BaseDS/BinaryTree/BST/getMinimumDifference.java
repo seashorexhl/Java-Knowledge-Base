@@ -9,6 +9,7 @@ package com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.BinaryTree.BST;
  * 差值是一个正数，其数值等于两值之差的绝对值。
  */
 public class getMinimumDifference {
+
     //    方法一：中序遍历
     Integer pre;
     Integer ans;

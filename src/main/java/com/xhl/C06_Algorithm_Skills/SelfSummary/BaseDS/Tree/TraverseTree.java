@@ -140,7 +140,6 @@ public class TraverseTree {
 
         if (root == null) return;
         Queue<TreeNode> queue = new LinkedList<>();
-
         queue.offer(root); //根节点 入队
 
         // 循环

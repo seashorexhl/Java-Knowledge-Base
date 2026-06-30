@@ -1,4 +1,4 @@
-package com.xhl.C08_Career_Growth.ODExam.A177.Answer;
+package com.xhl.C08_Career_Growth.ODExam.E95.Answer.E63;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -7,38 +7,35 @@ import java.util.Scanner;
 
 /**
  * @Author: xhl
- * @Date: 2026-04-11 21:49
- * @Description: 01 VLAN资源池
- * /
-/**
- 输入描述
-    第一行为字符串格式的VLAN资源池，第二行为业务要申请的VLAN，VLAN的取值范围为[1,4094]之间的整数。
- 输出描述
-    从输入VLAN资源池中移除申请的VLAN后字符串格式的VLAN资源池，输出要求满足题目描述中的格式，并且按照VLAN从小到大升序输出。
-如果申请的VLAN不在原VLAN资源池内，输出原VLAN资源池升序排序后的字符串即可。
-*/
+ * @Date: 2026-06-30 19:50
+ * @Description: 03 VLAN资源池
+ */
 public class VLANResourcePool {
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+
         // 输入VLAN资源池
         String input = sc.nextLine();
         // 输入业务要申请的VLAN
-        Integer VLAN = Integer.parseInt(sc.nextLine());
+        Integer destVlan = Integer.parseInt(sc.nextLine());
+
         // 解析VLAN资源池
         List<Integer> vlanPool = parseVlanPool(input);
+
         // 对VLAN资源池进行升序排序
         Collections.sort(vlanPool);
+
         // 从VLAN资源池中移除申请的VLAN
-        vlanPool.remove(VLAN );
+        vlanPool.remove(destVlan);
+
         // 格式化VLAN资源池
         String result = formatVlanPool(vlanPool);
         System.out.println(result);
     }
 
     // 解析VLAN资源池
-    public static List<Integer>  parseVlanPool(String input) {
-        List<Integer> vlanPool = new ArrayList<>();
+    private static List<Integer> parseVlanPool(String input) {
+        List<Integer> vlanPool = new ArrayList<Integer>();
         // 根据逗号分割VLAN资源池中的VLAN
         String[] vlanGroup = input.split(",");
         for (String vlanItem : vlanGroup) {
@@ -58,6 +55,7 @@ public class VLANResourcePool {
         }
         return vlanPool;
     }
+
     // 格式化VLAN资源池
     private static String formatVlanPool(List<Integer> vlanPool) {
         StringBuilder result = new StringBuilder();

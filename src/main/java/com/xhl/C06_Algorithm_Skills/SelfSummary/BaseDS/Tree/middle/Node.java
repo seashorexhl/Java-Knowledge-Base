@@ -1,9 +1,9 @@
-package com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Tree;
+package com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Tree.middle;
 
 /**
  * @Author: xhl
  * @Date: 2026-06-22 13:02
- * @Description:
+ * @Description:  Node节点构建 针对 117. 填充每个节点的下一个右侧节点指针 II
  */
 public class Node {
     public int val;
