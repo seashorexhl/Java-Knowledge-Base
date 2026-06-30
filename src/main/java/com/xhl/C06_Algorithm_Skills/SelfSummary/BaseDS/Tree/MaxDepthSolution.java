@@ -6,7 +6,7 @@ import java.util.Queue;
 /**
  * @Author: xhl
  * @Date: 2026-06-04 01:13
- * @Description: 二叉树 的 最大深度
+ * @Description: 104 二叉树 的 最大深度
  *  方法一：用 traverse函数 遍历，维护depth变量。
  *  方法二：递归实现 左右子树的最大深度
  */
@@ -64,7 +64,7 @@ public class MaxDepthSolution  {
             System.out.print(root.val+" ");
         }
     /**
-     *  方法一：深度优先搜索 ***
+     *  方法一：深度优先搜索 ⭐⭐⭐
      * */
     public int maxDepth0(TreeNode root) {
         if (root == null) {

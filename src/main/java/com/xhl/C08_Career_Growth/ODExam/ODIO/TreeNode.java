@@ -3,7 +3,7 @@ package com.xhl.C08_Career_Growth.ODExam.ODIO;
 /**
  * @Author: xhl
  * @Date: 2026-06-30 23:00
- * @Description: 树的节点构建
+ * @Description: 树节点构建
  */
 public class TreeNode {
     public int val;

@@ -3,7 +3,7 @@ package com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Tree;
 /**
  * @Author: xhl
  * @Date: 2026-06-04 22:38
- * @Description:  完全二叉树 的节点个数
+ * @Description:  222 完全二叉树 的节点个数
  */
 public class countNodesSolutions {
 
@@ -16,7 +16,7 @@ public class countNodesSolutions {
         root.right.left = new TreeNode(6);
 
         countNodesSolutions cns = new countNodesSolutions();
-        System.out.println(cns.countNodes(root));
+        System.out.println("完全二叉树的节点数为："+ cns.countNodes(root));
 
     }
     // 二分查找+位运算
