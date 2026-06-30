@@ -1,11 +1,11 @@
-package com.xhl.C08_Career_Growth.ODExam.TestPaperA;
+package com.xhl.C08_Career_Growth.ODExam.TestPaperA.awnser.A100;
 
 import java.util.*;
 
 /**
  * @Author: xhl
  * @Date: 2026-06-25 21:58
- * @Description: 端口合并
+ * @Description: 06 端口合并 mergingPort
  */
 public class mergingPort {
     public static void main(String[] args) {

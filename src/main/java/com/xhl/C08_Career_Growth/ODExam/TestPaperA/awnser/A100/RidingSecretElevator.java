@@ -1,4 +1,4 @@
-package com.xhl.C08_Career_Growth.ODExam.TestPaperA;
+package com.xhl.C08_Career_Growth.ODExam.TestPaperA.awnser.A100;
 
 import java.util.*;
 import java.util.stream.Collectors;
@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 /**
  * @Author: xhl
  * @Date: 2026-06-25 20:54
- * @Description: 05 乘坐保密电梯
+ * @Description: 05 乘坐保密电梯 RidingSecretElevator
  *  数学转化 + 回溯组合
  *  给你一堆数，挑出一半（或一半多一个）的数做加法，剩下的做减法。要求加法的结果减去减法的结果，
  *  尽量等于目标值，但不能超过目标值。如果有多组答案，把最大的数放在最前面
