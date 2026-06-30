@@ -37,7 +37,7 @@ public class midPostBuildTree {
     }
 
     public TreeNode helper(int in_left, int in_right) {
-        // 如果这里没有节点构造二叉树了，就结束
+        // 如果这里没有节点构造 二 叉 树了，就结束
         if (in_left > in_right) {
             return null;
         }

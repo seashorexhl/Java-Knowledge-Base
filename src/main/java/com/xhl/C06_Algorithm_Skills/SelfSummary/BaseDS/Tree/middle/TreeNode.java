@@ -3,7 +3,7 @@ package com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Tree.middle;
 /**
  * @Author: xhl
  * @Date: 2026-06-29 21:51
- * @Description: TreeNode 类
+ * @Description: TreeNode 树的节点类
  *  定义如下 针对 buildTree
  */
 class TreeNode {
