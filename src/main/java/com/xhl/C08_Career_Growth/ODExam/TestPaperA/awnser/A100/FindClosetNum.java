@@ -1,4 +1,4 @@
-package com.xhl.C08_Career_Growth.ODExam.TestPaperA;
+package com.xhl.C08_Career_Growth.ODExam.TestPaperA.awnser.A100;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * @Author: xhl
  * @Date: 2026-06-25 22:01
- * @Description:  计算最接近的数
+ * @Description:  07 计算最接近的数 FindClosetNum
  */
 public class FindClosetNum {
     public static void main(String[] args) {
