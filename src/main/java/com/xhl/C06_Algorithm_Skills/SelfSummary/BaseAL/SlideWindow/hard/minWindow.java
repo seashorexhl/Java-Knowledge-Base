@@ -1,4 +1,4 @@
-package com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.SlideWindow;
+package com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.SlideWindow.hard;
 
 import java.util.HashMap;
 import java.util.Map;

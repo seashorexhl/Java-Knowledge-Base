@@ -1,4 +1,6 @@
 package com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers;
+import java.util.HashMap;
+import java.util.Map;
 
 /**
  * @Author: xhl
@@ -6,8 +8,6 @@ package com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers;
  * @Description: 3. 滑动窗口（可变大小的双指针）
  *
  */
-import java.util.HashMap;
-import java.util.Map;
 
 /**
  *  应用场景：
