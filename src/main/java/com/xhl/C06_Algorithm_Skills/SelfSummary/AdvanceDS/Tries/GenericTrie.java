@@ -4,6 +4,7 @@ package com.xhl.C06_Algorithm_Skills.SelfSummary.AdvanceDS.Tries;
  * @Author: xhl
  * @Date: 2026-06-12 14:15
  * @Description: 哈希映射实现
+ *  泛型字典树”或“通用前缀树”
  */
 /**
  * 核心应用场景
