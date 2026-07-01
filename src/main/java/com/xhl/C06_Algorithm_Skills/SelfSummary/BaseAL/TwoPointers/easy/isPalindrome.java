@@ -1,4 +1,4 @@
-package com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers;
+package com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.easy;
 
 import java.util.Scanner;
 
