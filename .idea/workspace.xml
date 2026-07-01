@@ -6,104 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e2cbcf97-3448-465b-8d35-77b683d9f8e0" name="更改" comment="changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A177/Answer/DivideApple.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A177/Answer/HotWebSiteCount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A177/Answer/LogCollectionSystem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A177/Answer/MemoryAllocation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A177/Answer/MiddleNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A177/Answer/ReplantPoplarEuphratica.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A177/Answer/SimpleDecompression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A177/Answer/TaskScheduling.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A177/Answer/VLANResourcePool.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A177/Statement/01VLANResourcePool.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A177/Statement/02CountNumGame.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A177/Statement/03ReplantPoplarEuphratica.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A177/Statement/15MemoryAllocation.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A177/Statement/17HotWebSiteCount.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A177/Statement/43Taskscheduling" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A177/Statement/54单向链表中间节点.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A177/Statement/61ThreeSearchTree.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A177/Statement/65GeneratorHafuman.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A177/Statement/DivideApple.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A177/Statement/LogCollectionSystem.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A177/Statement/OperationsLogSorting.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A177/Statement/SimpleDecompression.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A177/YouKnow.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A200/Test/ArrayBSTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A200/Test/EfficientTaskPlan.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A200/Test/EnhancedStr.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A200/middle/answer/ArtPerformanceViewing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A200/middle/answer/CalculateBSTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A200/middle/answer/DecodeString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A200/middle/answer/MaxTasksSupported.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A200/middle/answer/NumberGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A200/middle/answer/T9Input.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A200/middle/answer/omputerVirusInfection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A200/middle/statement/九宫格按键输入.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A200/middle/statement/二叉树计算.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A200/middle/statement/可以处理的最大任务数.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A200/middle/statement/数字游戏.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A200/middle/statement/电脑病毒感染.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A200/middle/statement/观看文艺汇演问题.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A200/middle/statement/解压报文压缩报文还原.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A200/statement/02CaculateBSTree.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A200/statement/10增强的strstr.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A200/statement/11EfficientTaskPlanning.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/A200/statement/39ArrayBSTree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/E95/Answer/E63/IPv4ToInt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/E95/Answer/E63/ReplantDeadPoplarSaplings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/E95/Answer/E63/VLANResourcePool.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/E95/Answer/E63/WeTeam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/E95/Answer/E63/decodeTLV.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/E95/StateMent/E32A200/(E卷,200分) - MELON的难题（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/E95/StateMent/E32A200/(E卷,200分) - 二叉树计算 （Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/E95/StateMent/E32A200/(E卷,200分) - 寻找符合要求的最长子串 （Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/E95/StateMent/E32A200/(E卷,200分) - 推荐多样性（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/E95/StateMent/E32A200/(E卷,200分) - 数字游戏（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/E95/StateMent/E32A200/(E卷,200分) - 智能驾驶（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/E95/StateMent/E32A200/(E卷,200分) - 最大相连男生数学生方阵（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/E95/StateMent/E32A200/(E卷,200分) - 树状结构查询（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/E95/StateMent/E32A200/(E卷,200分) - 特殊的加密算法（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/E95/StateMent/E32A200/(E卷,200分) - 电脑病毒感染（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/E95/StateMent/E32A200/(E卷,200分) - 观看文艺汇演问题（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/E95/StateMent/E32A200/(E卷,200分) - 计算网络信号信号强度（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/E95/StateMent/E32A200/(E卷,200分) - 跳格子3 （Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/E95/StateMent/E32A200/(E卷,200分)-字符串化繁为简（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/E95/StateMent/E32A200/(E卷,200分)-找单词（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/E95/StateMent/E32A200/(E卷,200分)-最大社交距离（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/E95/StateMent/E32A200/(E卷,200分)-查找充电设备组合（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/E95/StateMent/E32A200/(E卷,200分)-模拟目录管理（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/E95/StateMent/E32A200/(E卷,200分)-空栈压数（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/E95/StateMent/E32A200/(E卷,200分)-通过软盘拷贝文件（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/E95/StateMent/E63A100/(E卷,100分) - 字符串分割转换（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/E95/StateMent/E63A100/(E卷,100分) - 数字涂色（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/E95/StateMent/E63A100/(E卷,100分) - 最小的调整次数特异性双端队列（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/E95/StateMent/E63A100/(E卷,100分) - 服务器广播需要广播的服务器数量（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/E95/StateMent/E63A100/(E卷,100分) - 高矮个子排队（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/E95/StateMent/E63A100/(E卷,100分) -虚拟理财游戏（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/E95/StateMent/E63A100/(E卷,100分)-流量地球（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/LatestOD/E/HuaweiOD_MinSteps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/LatestOD/E/findDestination.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/ODIO/IOTemplate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/ODIO/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/ODIO/TreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A100/ContestScoring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A100/FindClosetNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A100/HappyMatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A100/RestoreNumericalSequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A100/RidingSecretElevator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A100/mergingPort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/Attendance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/statement/A100/01RestoreNumericalSequence.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/statement/A100/02HappyMatch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/statement/A100/03Attendance.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/statement/A100/04ContestScoring.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/statement/A100/05乘坐保密电梯.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/statement/A100/06端口合并.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/statement/A100/07计算最接近的数.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/statement/A100/08最小调整顺序次数、特异性双端队列.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/statement/A100/09猜数字.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/statement/A100/10增强的strstr.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -465,7 +367,23 @@
       <option name="project" value="LOCAL" />
       <updated>1782909556343</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="changes">
+      <option name="closed" value="true" />
+      <created>1782932242727</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1782932242727</updated>
+    </task>
+    <task id="LOCAL-00018" summary="changes">
+      <option name="closed" value="true" />
+      <created>1782932453427</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1782932453427</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
