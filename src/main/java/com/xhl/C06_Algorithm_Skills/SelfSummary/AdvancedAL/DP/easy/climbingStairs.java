@@ -1,14 +1,14 @@
-package com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP;
+package com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP.easy;
 
 /**
  * @Author: xhl
  * @Date: 2026-04-12 12:10
  * @Description: 爬楼梯问题  统计
  */
-public class ClimbingStairs {
+public class climbingStairs {
 
     public static void main(String[] args) {
-        ClimbingStairs cs = new ClimbingStairs();
+        climbingStairs cs = new climbingStairs();
         int n = 5;
         System.out.println("爬 " + n + " 阶楼梯的方法数: " + cs.climbStairs(n));
     }
