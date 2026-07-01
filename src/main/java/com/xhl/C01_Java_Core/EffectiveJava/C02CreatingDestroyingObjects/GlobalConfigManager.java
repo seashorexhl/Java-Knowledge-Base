@@ -3,7 +3,7 @@ package com.xhl.C01_Java_Core.EffectiveJava.C02CreatingDestroyingObjects;
 /**
  * @Author: xhl
  * @Date: 2026-07-01 07:57
- * @Description:  全局配置管理器
+ * @Description:  全局配置管理器 GlobalConfigManager
  */
 
 import java.io.IOException;
