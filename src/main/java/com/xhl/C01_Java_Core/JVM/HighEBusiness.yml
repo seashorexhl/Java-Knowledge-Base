@@ -1,0 +1,7 @@
+# 5.高并发电商系统 G1 配置：
+java -Xms8g -Xmx8g \
+-XX:+UseG1GC \
+-XX:MaxGCPauseMillis=100 \
+-XX:InitiatingHeapOccupancyPercent=40 \
+-XX:G1HeapRegionSize=16m \
+-jar e-commerce.jar
