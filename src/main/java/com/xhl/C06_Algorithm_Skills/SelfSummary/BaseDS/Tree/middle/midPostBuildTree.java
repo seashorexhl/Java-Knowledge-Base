@@ -9,15 +9,10 @@ import java.util.*;
  * @Author: xhl
  * @Date: 2026-06-22 13:00
  * @Description: 106. 从中序与后序遍历序列构造二叉树
+ *
  */
 public class midPostBuildTree {
-    /**
-     * 方法一：递归
-    */
-    int post_idx;
-    int[] postorder;
-    int[] inorder;
-    Map<Integer, Integer> idx_map = new HashMap<Integer, Integer>();
+
 
     static void main() {
         int[]  inorder = {9,3,15,20,7};
@@ -35,7 +30,13 @@ public class midPostBuildTree {
         System.out.println(mtp.serialize(node1));
 
     }
-
+    /**
+     * 方法一：递归
+     */
+    int post_idx;
+    int[] postorder;
+    int[] inorder;
+    Map<Integer, Integer> idx_map = new HashMap<>();
     public TreeNode helper(int in_left, int in_right) {
         // 如果这里没有节点构造 二 叉 树了，就结束
         if (in_left > in_right) {
@@ -81,7 +82,7 @@ public class midPostBuildTree {
             return null;
         }
         TreeNode root = new TreeNode(postorder[postorder.length - 1]);
-        Deque<TreeNode> stack = new LinkedList<TreeNode>();
+        Deque<TreeNode> stack = new LinkedList<>();
         stack.push(root);
         int inorderIndex = inorder.length - 1;
         for (int i = postorder.length - 2; i >= 0; i--) {
@@ -101,11 +102,33 @@ public class midPostBuildTree {
         }
         return root;
     }
+    /**
+     * 方法三：哈希表优化和数组索引传递
+     * */
+
+    public TreeNode buildTree3(int[] inorder, int[] postorder) {
+        int m = inorder.length;
+        int n = postorder.length;
+        if (m != n) {
+            return null;
+        }
+        Map<Integer,Integer> map = new HashMap<>(m);
+        for (int i = 0; i < m; i++) {
+            map.put(inorder[i], i);
+        }
+
+        return buildTree3(inorder,0,n-1,map,0,n-1);
+    }
+
+    private TreeNode buildTree3(int[] inorder, int inLeft, int inRight, Map<Integer, Integer> map, int postLeft, int postRight) {
+
+        return null;
+    }
 
     /**
-     * 打印树（前序打印）
-     * 返回一个包含树形结构的字符串列表，最后统一打印
-     */
+         * 打印树（前序打印）
+         * 返回一个包含树形结构的字符串列表，最后统一打印
+         */
     public String serialize(TreeNode root) {
         if (root == null) return "[]";
 
