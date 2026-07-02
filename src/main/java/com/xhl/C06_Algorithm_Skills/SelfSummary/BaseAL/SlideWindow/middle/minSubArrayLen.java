@@ -34,7 +34,7 @@ public class minSubArrayLen {
             sum += nums[end];
             while (sum >= s) {
                 ans = Math.min(ans, end - start + 1);
-                sum -= nums[start];
+                sum = sum - nums[start];
                 start++;
             }
             end++;

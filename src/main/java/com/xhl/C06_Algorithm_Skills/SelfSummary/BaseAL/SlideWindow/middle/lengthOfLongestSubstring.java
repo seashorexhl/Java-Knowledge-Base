@@ -6,12 +6,16 @@ import java.util.Map;
 /**
  * @Author: xhl
  * @Date: 2026-06-20 14:16
- * @Description: 📝 实战演示：无重复字符的最长子串 (LeetCode 3)
+ * @Description:  📝 实战演示：无重复字符的最长子串 (LeetCode 3)
  */
 public class lengthOfLongestSubstring {
     static void main() {
-
+        String s = "abcabcbb";
+        lengthOfLongestSubstring ls = new lengthOfLongestSubstring();
+        int i = ls.lengthOfLongestSubstring(s);
+        System.out.println(i);
     }
+    // 方法一：滑动窗口
     public int lengthOfLongestSubstring(String s) {
         int left = 0, right = 0;
         int res = 0;
