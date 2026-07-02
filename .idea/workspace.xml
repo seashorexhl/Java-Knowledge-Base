@@ -4,8 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2cbcf97-3448-465b-8d35-77b683d9f8e0" name="更改" comment="changes">
+    <list default="true" id="e2cbcf97-3448-465b-8d35-77b683d9f8e0" name="更改" comment="changes main">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/BFS/hard/ladderLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/BFS/middle/minMutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/BFS/middle/snakesAndLadders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/Graph/middle/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/Graph/middle/calcEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/Graph/middle/canFinish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/Graph/middle/cloneGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/Graph/middle/findOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/Graph/middle/numIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/Graph/middle/solve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Stack/easy/isValid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Stack/hard/calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Stack/middle/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Stack/middle/simplifyPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/lowestCommonAncestor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/Easy/averageOfLevels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/Easy/averageOfLevels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/middle/zigzagLevelOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/middle/zigzagLevelOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/LinkedList/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/LinkedList/hard/LRUCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Stack/middle/evalRPN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Stack/middle/evalRPN.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +44,12 @@
       <list>
         <option value="seashorexhl &lt;45226603+seashorexhl@users.noreply.github.com&gt;" />
       </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -76,6 +101,7 @@
     "Notification.DisplayName-DoNotAsk-untracked.files.overwritten": "未跟踪的文件会阻止合并",
     "Notification.DoNotAsk-untracked.files.overwritten": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -83,7 +109,7 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/lXH/git/Java-Knowledge-Base/docs/StudyResource",
+    "last_opened_file_path": "C:/Users/sanya/Desktop/git/Java-Knowledge-Base",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -92,7 +118,7 @@
     "project.structure.last.edited": "项目",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.testRunning",
+    "settings.editor.selected.configurable": "MavenSettings",
     "应用程序.BSPostorderTraversal.executor": "Run",
     "应用程序.BSPreorderTraversal.executor": "Run",
     "应用程序.ClimbingStairs.executor": "Run",
@@ -100,7 +126,7 @@
     "应用程序.HuffmanTree.executor": "Run",
     "应用程序.IPV4ToInt.executor": "Run",
     "应用程序.LevelTraverse.executor": "Run",
-    "应用程序.Main.executor": "Run",
+    "应用程序.Main.executor": "Debug",
     "应用程序.MaxDepthSolution.executor": "Run",
     "应用程序.Product.executor": "Run",
     "应用程序.TraverseTree.executor": "Run",
@@ -149,13 +175,13 @@
       <recent name="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.easy" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.isPalindrome">
-    <configuration name="climbingStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP.easy.climbingStairs" />
+  <component name="RunManager" selected="应用程序.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.Main" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP.easy.*" />
+          <option name="PATTERN" value="com.xhl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,11 +254,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Main" />
         <item itemvalue="应用程序.isPalindrome" />
         <item itemvalue="应用程序.wordBreak" />
         <item itemvalue="应用程序.rob" />
         <item itemvalue="应用程序.coinChange" />
-        <item itemvalue="应用程序.climbingStairs" />
       </list>
     </recent_temporary>
   </component>
@@ -412,7 +438,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782945047177</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="changes main">
+      <option name="closed" value="true" />
+      <created>1782946600667</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1782946600667</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -445,7 +479,8 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;#&#9;DEPLOYMENT.md" />
     <MESSAGE value="changes Effective Java" />
     <MESSAGE value="changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes" />
+    <MESSAGE value="changes main" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes main" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>

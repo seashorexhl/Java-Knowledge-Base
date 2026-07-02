@@ -5,7 +5,7 @@ import java.util.Stack;
 /**
  * @Author: xhl
  * @Date: 2026-06-27 16:34
- * @Description: Q2. 逆波兰表达式求值
+ * @Description: Q2. 逆波兰表达式求值 150. 逆波兰表达式求值
  */
 public class evalRPN {
     static void main() {

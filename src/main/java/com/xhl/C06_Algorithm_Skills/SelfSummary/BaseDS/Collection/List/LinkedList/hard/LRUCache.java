@@ -1,7 +1,7 @@
-package com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Collection.List.LinkedList;
+package com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Collection.List.LinkedList.hard;
 
-import java.util.Map;
 import java.util.HashMap;
+import java.util.Map;
 
 /**
  * @Author: xhl
