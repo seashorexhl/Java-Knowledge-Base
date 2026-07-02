@@ -1,4 +1,4 @@
-package com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DivideConquer;
+package com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DivideConquer.easy;
 
 /**
  * @Author: xhl
