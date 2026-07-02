@@ -10,7 +10,6 @@ import java.util.List;
  *     1.确定递归函数的参数
  *     2.确定终止条件
  *     3.确定单层搜索逻辑
- *
  */
 public class backtrackTemplate {
 
