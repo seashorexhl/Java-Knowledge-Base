@@ -5,7 +5,66 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2cbcf97-3448-465b-8d35-77b683d9f8e0" name="更改" comment="changes main">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/PersonalAware/哲学.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/PersonalAware/哲学.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/Tries/hard/findWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/Matrix/MatrixUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Bitwise/Easy/hammingWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Bitwise/Easy/reverseBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Bitwise/Easy/singleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Bitwise/middle/rangeBitwiseAnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Bitwise/middle/singleNumberB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/interval/easy/summaryRanges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/interval/middle/InsertInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/interval/middle/findMinArrowShots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/interval/middle/mergeRanges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Stack/MonotonicStack/单调栈.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/String/hard/candy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/String/hard/fullJustify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/String/hard/trap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(100分) - 开心消消乐（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(100分) - 恢复数字序列（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(100分) - 考勤信息（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(100分)- 乘坐保密电梯（Java &amp; JS &amp; Python）.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(100分)- 最小调整顺序次数、特异性双端队列（Java &amp; JS &amp; Python）.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(100分)- 比赛评分（Java &amp; JS &amp; Python）.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(100分)- 端口合并（Java &amp; JS &amp; Python）.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(100分)- 计算最接近的数（Java &amp; JS &amp; Python &amp; C）.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(100分)-增强的strstr（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(100分)-猜数字（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(200分)- 区间交集（Java &amp; JS &amp; Python）.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(200分)- 字符串拼接（Java &amp; JS &amp; Python &amp; C）.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(200分)- 字符串解密（Java &amp; JS &amp; Python）.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(200分)- 田忌赛马（Java &amp; JS &amp; Python &amp; C）.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(200分)- 贪心歌手（Java &amp; JS &amp; Python &amp; C）.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(200分)- 高效的任务规划（Java &amp; JS &amp; Python &amp; C）.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(200分)-字母组合过滤组合字符串（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A100/guessNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A100/specificDeque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C02_Architecture_Design/架构与设计.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C02_Architecture_Design/架构与设计.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/SlideWindow/hard/findSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/SlideWindow/hard/findSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/BSPostorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/BinaryTree/BSPostorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/BSPreorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/BinaryTree/BSPreorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/BST/BSTreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/BinaryTree/BST/BSTreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/BST/getMinimumDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/BinaryTree/BST/easy/getMinimumDifference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/BST/isValidBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/BinaryTree/BST/middle/isValidBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/BST/kthSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/BinaryTree/BST/middle/kthSmallest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/BSTreeTraverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/BinaryTree/BSTreeTraverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/Easy/BSMaxDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/BinaryTree/easy/BSMaxDepth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/Easy/averageOfLevels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/BinaryTree/easy/averageOfLevels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/Easy/getMinimumDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/BinaryTree/easy/getMinimumDifference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/TreeTraverse.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/BinaryTree/TreeTraverse.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/countNodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/BinaryTree/countNodes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/middle/BSTIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/BinaryTree/middle/BSTIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/middle/levelOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/BinaryTree/middle/levelOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/middle/lowestCommonAncestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/BinaryTree/middle/lowestCommonAncestor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/middle/rightSideView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/BinaryTree/middle/rightSideView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/middle/zigzagLevelOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/BinaryTree/middle/zigzagLevelOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/minDepthBSTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/BinaryTree/minDepthBSTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/hard/maxPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/BinaryTree/hard/maxPathSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/DS和AL.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/DS和AL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/ODIO/IOTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/ODIO/IOTemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/Attendance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A100/Attendance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,75 +127,78 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Maven.Java-Knowledge-Base [clean].executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Notification.DisplayName-DoNotAsk-untracked.files.overwritten&quot;: &quot;未跟踪的文件会阻止合并&quot;,
-    &quot;Notification.DoNotAsk-untracked.files.overwritten&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/sanya/Desktop/git/Java-Knowledge-Base&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
-    &quot;应用程序.BSPostorderTraversal.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.BSPreorderTraversal.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ClimbingStairs.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.HuaweiOD_MinSteps.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.HuffmanTree.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.IPV4ToInt.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.LevelTraverse.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Main.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.MaxDepthSolution.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Product.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.TraverseTree.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.TreeBuilder.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.climbStairs.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.climbingStairs.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.coinChange.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Stack.MonotonicStack.portTrafficStatistics.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.connect.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.countNodesSolutions.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.countTreeNodes.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.decodeTLV.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.hasPathSum.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.hasPathSumSolution.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.invertTree.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.isPalindrome.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.isSymmetric.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.isSymmetricSolution.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.lengthOfLongestSubstring.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.levelTraverse.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.maxDepth.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.midPostBuildTree.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.minDepth.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.portTrafficStatistics.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.preMiddleBuildTree.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.prePostBuildTree.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.rob.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.wordBreak.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Maven.Java-Knowledge-Base [clean].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Notification.DisplayName-DoNotAsk-untracked.files.overwritten": "未跟踪的文件会阻止合并",
+    "Notification.DoNotAsk-untracked.files.overwritten": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/sanya/Desktop/Java-Knowledge-Base/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "应用程序.BSPostorderTraversal.executor": "Run",
+    "应用程序.BSPreorderTraversal.executor": "Run",
+    "应用程序.ClimbingStairs.executor": "Run",
+    "应用程序.HuaweiOD_MinSteps.executor": "Run",
+    "应用程序.HuffmanTree.executor": "Run",
+    "应用程序.IPV4ToInt.executor": "Run",
+    "应用程序.LevelTraverse.executor": "Run",
+    "应用程序.Main.executor": "Run",
+    "应用程序.MaxDepthSolution.executor": "Run",
+    "应用程序.Product.executor": "Run",
+    "应用程序.TraverseTree.executor": "Run",
+    "应用程序.TreeBuilder.executor": "Run",
+    "应用程序.climbStairs.executor": "Run",
+    "应用程序.climbingStairs.executor": "Run",
+    "应用程序.coinChange.executor": "Run",
+    "应用程序.com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Stack.MonotonicStack.portTrafficStatistics.executor": "Run",
+    "应用程序.connect.executor": "Run",
+    "应用程序.countNodesSolutions.executor": "Run",
+    "应用程序.countTreeNodes.executor": "Run",
+    "应用程序.decodeTLV.executor": "Debug",
+    "应用程序.getMinimumDifference.executor": "Run",
+    "应用程序.hasPathSum.executor": "Run",
+    "应用程序.hasPathSumSolution.executor": "Run",
+    "应用程序.invertTree.executor": "Run",
+    "应用程序.isPalindrome.executor": "Run",
+    "应用程序.isSymmetric.executor": "Debug",
+    "应用程序.isSymmetricSolution.executor": "Run",
+    "应用程序.lengthOfLongestSubstring.executor": "Run",
+    "应用程序.levelTraverse.executor": "Run",
+    "应用程序.maxDepth.executor": "Run",
+    "应用程序.midPostBuildTree.executor": "Run",
+    "应用程序.minDepth.executor": "Run",
+    "应用程序.portTrafficStatistics.executor": "Run",
+    "应用程序.preMiddleBuildTree.executor": "Run",
+    "应用程序.prePostBuildTree.executor": "Run",
+    "应用程序.rob.executor": "Run",
+    "应用程序.wordBreak.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.xhl.C01_Java_Core.EffectiveJava.C02CreatingDestroyingObjects" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sanya\Desktop\Java-Knowledge-Base\src\main\java\com\xhl\C06_Algorithm_Skills\SelfSummary\BaseAL" />
+      <recent name="C:\Users\sanya\Desktop\Java-Knowledge-Base\src\main\java\com\xhl\C08_Career_Growth\ODExam\DoList\statement" />
       <recent name="C:\Users\sanya\Desktop\git\Java-Knowledge-Base" />
       <recent name="C:\lXH\git\Java-Knowledge-Base\docs\StudyResource" />
       <recent name="C:\lXH\git\Java-Knowledge-Base\docs\StudyRoot" />
@@ -152,7 +214,7 @@
       <recent name="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.easy" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.lengthOfLongestSubstring">
+  <component name="RunManager" selected="应用程序.getMinimumDifference">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xhl.Main" />
       <module name="Java-Knowledge-Base" />
@@ -166,12 +228,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.easy.isPalindrome" />
+    <configuration name="getMinimumDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Tree.BinaryTree.BST.easy.getMinimumDifference" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.easy.*" />
+          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Tree.BinaryTree.BST.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,11 +282,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.getMinimumDifference" />
         <item itemvalue="应用程序.wordBreak" />
         <item itemvalue="应用程序.rob" />
         <item itemvalue="应用程序.Main" />
         <item itemvalue="应用程序.lengthOfLongestSubstring" />
-        <item itemvalue="应用程序.isPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -420,7 +482,15 @@
       <option name="project" value="LOCAL" />
       <updated>1783032616779</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="changes main">
+      <option name="closed" value="true" />
+      <created>1783033026633</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1783033026633</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

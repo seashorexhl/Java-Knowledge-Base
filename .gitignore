@@ -3,24 +3,15 @@
 # ==========================================
 target/
 !.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
 
 # ==========================================
 # 2. 项目特有目录与敏感文件
 # ==========================================
-# 日志目录：通常包含运行时产生的大量日志，不需要版本控制
 logs/
 *.log
-
-# 配置文件策略：
-# 保留 conf 目录下的通用配置模板，但忽略可能包含真实密码的文件
-# 建议团队约定：真实配置文件命名为 application-local.yml 或 *.secret
 conf/**/*local*
 conf/**/*secret*
 conf/**/*password*
-
-# 临时文件
 tmp/
 temp/
 
@@ -28,9 +19,6 @@ temp/
 # 3. IntelliJ IDEA (JetBrains系列)
 # ==========================================
 .idea/
-# 可选：如果你想共享运行配置和代码风格，取消下面两行的注释
-# !.idea/runConfigurations/
-# !.idea/codeStyles/
 *.iws
 *.iml
 *.ipr
@@ -46,44 +34,12 @@ desktop.ini
 # ==========================================
 # 5. 其他常见忽略项
 # ==========================================
-# Node modules (如果前端有用到)
 node_modules/
-
-# 环境变量文件 (绝对不要提交)
 .env
 .env.local
-/docs/StudyResource/1_《Java面试手册》.pdf
-/docs/Interview Feature/01开篇词.pdf
-/docs/StudyRoot/2-8Path.png
-/docs/Interview Feature/02JAVA并发篇.pdf
-/docs/Interview Feature/03JAVA网络通信篇.pdf
-/docs/Interview Feature/04JVM调优篇.pdf
-/docs/Interview Feature/05消息队列篇.pdf
-/docs/Interview Feature/06缓存篇.pdf
-/docs/Interview Feature/07微服务篇.pdf
-/docs/Interview Feature/08Spring底层篇.pdf
-/docs/Interview Feature/09MySQL数据库篇.pdf
-/docs/Interview Feature/10搜索引擎篇.pdf
-/docs/Interview Feature/11安全验证篇.pdf
-/docs/StudyRoot/30Up.png
-/docs/StudyRoot/dx.png
-/docs/StudyResource/Java 并发编程手册.pdf
-/docs/DesignPatterns/Java中常见设计模式面试题.doc
-/docs/StudyResource/JAVA核心知识点整理.pdf
-/docs/DSAL/leetcode算法资料.pdf
-/docs/Reactor/Reactor 单线程模型.png
-/docs/Reactor/Reactor 多线程模型.png
-/docs/DesignPatterns/【Java面试题总结4】JavaWeb、网络、设计模式综合篇(附答案).pdf
-/docs/StudyResource/【高清电子版】EffectiveJava（中文版第三版）.pdf
-/docs/StudyResource/专业技能梳理.pdf
-/docs/Reactor/主从reactor.png
-/docs/StudyResource/代码大全.pdf
-/docs/关于docs.txt
-/docs/StudyResource/技术评估表&&项目.xlsx
-/docs/DesignPatterns/设计模式面试题.docx
-/docs/StudyResource/阿里、京东、蚂蚁等大厂面试真题解析.pdf
-/docs/StudyResource/阿里巴巴java性能调优实战.pdf
-/docs/StudyResource/阿里巴巴手册-泰山版.pdf
-/docs/StudyResource/阿里面试技术手册.pdf
-/docs/StudyResource/面试专题课堂笔记.zip
-/docs/StudyResource/面试场景题.pdf
+
+# 忽略编译生成的字节码文件
+*.class
+
+# 忽略工具 jar 包
+bfg.jar

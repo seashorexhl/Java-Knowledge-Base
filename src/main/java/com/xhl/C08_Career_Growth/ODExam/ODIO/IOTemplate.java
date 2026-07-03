@@ -13,7 +13,7 @@ public class IOTemplate {
         while (sc.hasNext()) {
             // 示例：读取一行字符串，按空格分割
             String[] line = sc.nextLine().trim().split("\\s+");
-//            int n = Integer.parseInt(line);
+            // int n = Integer.parseInt(line);
 
             // 示例：读取一行以逗号分隔的数组
             // String[] arrStr = sc.nextLine().trim().split(",");
