@@ -15,7 +15,7 @@ public class StringReverse {
             String s = new StringBuilder(str).reverse().toString();
             System.out.println(s);
         }
-
+        sc.close();
     }
 
 }

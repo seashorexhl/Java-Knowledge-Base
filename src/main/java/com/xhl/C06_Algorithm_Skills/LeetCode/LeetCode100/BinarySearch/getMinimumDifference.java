@@ -3,6 +3,8 @@ package com.xhl.C06_Algorithm_Skills.LeetCode.LeetCode100.BinarySearch;
 
 import com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Tree.TreeNode;
 
+import java.util.Scanner;
+
 /**
  * @Author: xhl
  * @Date: 2026-06-08 19:06
@@ -12,8 +14,11 @@ import com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Tree.TreeNode;
  */
 public class getMinimumDifference {
     public static void main(String[] args) {
-        
+        Scanner sc = new Scanner(System.in);
 
+
+
+        sc.close();
     }
     public int getMinimumDifference(TreeNode root) {
 

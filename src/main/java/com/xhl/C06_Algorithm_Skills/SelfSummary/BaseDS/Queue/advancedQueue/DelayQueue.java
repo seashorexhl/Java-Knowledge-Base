@@ -1,4 +1,4 @@
-package com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Queue.baseQueue;
+package com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Queue.advancedQueue;
 
 /**
  * @Author: xhl

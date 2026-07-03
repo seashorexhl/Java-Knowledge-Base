@@ -16,6 +16,7 @@ public class LCS {
             LCS lcs = new LCS();
             System.out.println(lcs.LCSubstring(str));
         }
+        sc.close();
     }
     public int LCSubstring(String str) {
         HashSet<Character> set = new HashSet<>();
