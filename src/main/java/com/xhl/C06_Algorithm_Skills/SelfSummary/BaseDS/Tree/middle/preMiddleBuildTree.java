@@ -12,20 +12,6 @@ import java.util.*;
  *  递归 迭代
  */
 public class preMiddleBuildTree {
-    /**
-     *  方法一：递归
-     * */
-    private Map<Integer, Integer> indexMap;
-
-    /**
-     * 思路 ⭐⭐⭐
-     * 找根节点：看前序/后序数组的边界（前序看左边界，后序看右边界）。
-     * 定大小：只要有了中序遍历，或者有了前/后序中左子树的根节点，就能算出 leftSize（左子树节点个数）。
-     * 切分数组：
-     * 中序遍历永远是根据 inIndex 从中间劈开。
-     * 前序/后序遍历永远是根据算出来的 leftSize 进行等长截取。
-     * */
-
     public static void main(String[] args) {
         int[] preorder = {3,9,20,15,7};
         int[] inorder = {9,3,15,20,7};
@@ -44,6 +30,20 @@ public class preMiddleBuildTree {
         //        pmt.printTree(node1);
         System.out.println(pmt.serialize(node1));
     }
+    /**
+     *  方法一：递归
+     * */
+    private Map<Integer, Integer> indexMap;
+
+    /**
+     * 思路 ⭐⭐⭐
+     * 找根节点：看前序/后序数组的边界（前序看左边界，后序看右边界）。
+     * 定大小：只要有了中序遍历，或者有了前/后序中左子树的根节点，就能算出 leftSize（左子树节点个数）。
+     * 切分数组：
+     * 中序遍历永远是根据 inIndex 从中间劈开。
+     * 前序/后序遍历永远是根据算出来的 leftSize 进行等长截取。
+     * */
+    // 辅助 函数
     public TreeNode myBuildTree(int[] preorder, int[] inorder, int preorder_left, int preorder_right, int inorder_left, int inorder_right) {
         if (preorder_left > preorder_right) {
             return null;
@@ -66,7 +66,7 @@ public class preMiddleBuildTree {
         root.right = myBuildTree(preorder, inorder, preorder_left + size_left_subtree + 1, preorder_right, inorder_root + 1, inorder_right);
         return root;
     }
-
+    // 递归方法
     public TreeNode buildTree(int[] preorder, int[] inorder) {
         int n = preorder.length;
         // 构造哈希映射，帮助我们快速定位根节点

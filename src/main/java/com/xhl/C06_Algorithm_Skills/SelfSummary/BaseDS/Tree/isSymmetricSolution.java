@@ -20,7 +20,9 @@ public class isSymmetricSolution {
         isSymmetricSolution is= new isSymmetricSolution();
         System.out.println(is.isSymmetric(root));
     }
-    /*方法一:递归*/
+    /**
+     * 方法一:递归
+     * */
     public boolean isSymmetric(TreeNode root) {
         if (root == null) return true;
         return checkSymmetric(root.left,root.right);
@@ -31,13 +33,15 @@ public class isSymmetricSolution {
         if (p == null || q == null) return false;
         return  (p.val == q.val) && checkSymmetric(p.left,q.right) && checkSymmetric(p.right,q.left);
     }
-    /*方法二:迭代方法求解*/
+    /**
+     * 方法二:迭代方法求解
+     * */
     public boolean isSymmetric1(TreeNode root) {
             return check(root, root);
     }
 
     public boolean check(TreeNode u, TreeNode v) {
-        Queue<TreeNode> q = new LinkedList<TreeNode>();
+        Queue<TreeNode> q = new LinkedList<>();
         q.offer(u);
         q.offer(v);
         while (!q.isEmpty()) {

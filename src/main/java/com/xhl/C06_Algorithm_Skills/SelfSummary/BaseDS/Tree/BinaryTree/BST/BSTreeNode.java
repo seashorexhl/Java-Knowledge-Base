@@ -12,7 +12,9 @@ public class BSTreeNode {
     public  BSTreeNode right;
 
     public BSTreeNode() {}
-    public BSTreeNode(int val) { this.val = val; }
+    public BSTreeNode(int val) {
+        this.val = val;
+    }
     public BSTreeNode(int val,  BSTreeNode left,  BSTreeNode right) {
         this.val = val;
         this.left = left;

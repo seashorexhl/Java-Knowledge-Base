@@ -24,6 +24,7 @@ public class kthSmallest {
         int k = 3;
 
         kthSmallest ks = new kthSmallest();
+        System.out.print("二 叉搜索树中 第K 小的元素:");
         System.out.println(ks.kthSmallest(root,k));
 
 

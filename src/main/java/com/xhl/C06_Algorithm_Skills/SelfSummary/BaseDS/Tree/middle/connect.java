@@ -10,7 +10,7 @@ import java.util.Queue;
  * @Author: xhl
  * @Date: 2026-06-22 13:01
  * @Description: 117. 填充每个节点的下一个右侧节点指针 II
- * 层序遍历 +
+ * 层序遍历 + Next 指针
  */
 public class connect {
     // 方法二：使用已建立的 next 指针
@@ -75,7 +75,7 @@ public class connect {
         }
         return root;
     }
-
+    //
     public void handle(Node p) {
         if (last != null) {
             last.next = p;
