@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2cbcf97-3448-465b-8d35-77b683d9f8e0" name="更改" comment="changes main" />
+    <list default="true" id="e2cbcf97-3448-465b-8d35-77b683d9f8e0" name="更改" comment="changes main">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A200/combinedString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A200/efficientScheduling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A200/greedySinger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A200/horseRacingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A200/intervalIntersection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A200/stringConcate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A200/stringDecryption.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A100/Attendance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A100/Attendance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/DFS/DFSSolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/DFS/DFSSolution.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,6 +103,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "MavenSettings",
+    "应用程序.Attendance.executor": "Run",
     "应用程序.BSPostorderTraversal.executor": "Run",
     "应用程序.BSPreorderTraversal.executor": "Run",
     "应用程序.ClimbingStairs.executor": "Run",
@@ -159,7 +171,20 @@
       <recent name="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.easy" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.preMiddleBuildTree">
+  <component name="RunManager" selected="应用程序.Attendance">
+    <configuration name="Attendance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C08_Career_Growth.ODExam.TestPaperA.answer.A100.Attendance" />
+      <module name="Java-Knowledge-Base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xhl.C08_Career_Growth.ODExam.TestPaperA.answer.A100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="averageOfLevels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Tree.BinaryTree.easy.averageOfLevels" />
       <module name="Java-Knowledge-Base" />
@@ -199,19 +224,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="midPostBuildTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Tree.middle.midPostBuildTree" />
-      <module name="Java-Knowledge-Base" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Tree.middle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="preMiddleBuildTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Tree.middle.preMiddleBuildTree" />
       <module name="Java-Knowledge-Base" />
@@ -227,11 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Attendance" />
         <item itemvalue="应用程序.preMiddleBuildTree" />
         <item itemvalue="应用程序.maxPathSum" />
         <item itemvalue="应用程序.kthSmallest" />
         <item itemvalue="应用程序.averageOfLevels" />
-        <item itemvalue="应用程序.midPostBuildTree" />
       </list>
     </recent_temporary>
   </component>
@@ -475,7 +487,15 @@
       <option name="project" value="LOCAL" />
       <updated>1783165184150</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="changes main">
+      <option name="closed" value="true" />
+      <created>1783165624641</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1783165624641</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
