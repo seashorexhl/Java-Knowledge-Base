@@ -4,36 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2cbcf97-3448-465b-8d35-77b683d9f8e0" name="更改" comment="changes main">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/BFS/BFSSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/BFS/BFSSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/DFS/DFSSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/DFS/DFSSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/BinaryTree/BST/BSTreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/BinaryTree/BST/BSTreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/BinaryTree/BST/middle/kthSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/BinaryTree/BST/middle/kthSmallest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/BinaryTree/easy/averageOfLevels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/BinaryTree/easy/averageOfLevels.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/BinaryTree/hard/maxPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/BinaryTree/hard/maxPathSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/TraverseTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/TraverseTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/TreeBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/TreeBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/countNodesSolutions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/countNodesSolutions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/hasPathSumSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/hasPathSumSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/isSymmetricSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/isSymmetricSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/connect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/connect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/flattenBSTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/flattenBSTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/midPostBuildTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/midPostBuildTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/preMiddleBuildTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/preMiddleBuildTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/BFS/BFSSolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/BFS/BFSSolution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/DFS/DFSSolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/DFS/DFSSolution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/TraverseTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/TraverseTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/TreeBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/TreeBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/countNodesSolutions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/countNodesSolutions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/hasPathSumSolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/hasPathSumSolution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/isSymmetricSolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/isSymmetricSolution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/flattenBSTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/flattenBSTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/midPostBuildTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/midPostBuildTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/preMiddleBuildTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/preMiddleBuildTree.class" afterDir="false" />
-    </list>
+    <list default="true" id="e2cbcf97-3448-465b-8d35-77b683d9f8e0" name="更改" comment="changes main" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -496,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1783139732323</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="changes main">
+      <option name="closed" value="true" />
+      <created>1783165184150</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1783165184150</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
