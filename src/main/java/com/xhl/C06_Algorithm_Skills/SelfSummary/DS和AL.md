@@ -97,6 +97,7 @@
         进阶算法与数据结构：DFS、BFS、DP（背包、路径规划等）、Prefix Sum、Backtracking、Union-Find、Graph
         （最短路径）、Tree（二叉树遍历）。
         其他：RegExp（正则表达式在字符串题中非常实用）、Statistics（统计频率）。
+
     2. 建议战略性放弃或仅作了解（低性价比考点）
         扩展数据结构：RB 红黑树、B 树、B+ 树、Segment Tree 线段树。这些在 OD 机考中几乎不考，
         手撕代码难度过大，建议直接跳过，把时间留给 DP 和 DFS/BFS。

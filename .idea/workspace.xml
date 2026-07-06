@@ -5,16 +5,459 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2cbcf97-3448-465b-8d35-77b683d9f8e0" name="更改" comment="changes main">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A200/combinedString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A200/efficientScheduling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A200/greedySinger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A200/horseRacingStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A200/intervalIntersection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A200/stringConcate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A200/stringDecryption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/SlideWindow/easy/containsNearbyDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/SlideWindow/easy/findLHS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/SlideWindow/easy/longestNiceSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Heap/hard/MedianFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Heap/hard/MedianSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Heap/hard/findMaximizedCapital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Heap/middle/findKthLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Heap/middle/kSmallestPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/DoList/answer/HappyMatchGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/DoList/answer/RestoreNumericalSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/DoList/answer/attendanceInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/DoList/answer/takeSecureElevator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A100/Attendance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A100/Attendance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/DFS/DFSSolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/DFS/DFSSolution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/TwoPointers/easy/isSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/TwoPointers/easy/isSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/LinkedList/easy/mergeTwoLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/LinkedList/easy/mergeTwoLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/LinkedList/middle/partition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/LinkedList/middle/partition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/LinkedList/middle/rotateRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/LinkedList/middle/rotateRight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/关于List.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/关于List.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/DS和AL.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/DS和AL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/算法与技能.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(100分) - 开心消消乐（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/DoList/statement/(100分) - 开心消消乐（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(100分) - 恢复数字序列（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/DoList/statement/(100分) - 恢复数字序列（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(100分) - 考勤信息（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/DoList/statement/(100分) - 考勤信息（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(100分)- 乘坐保密电梯（Java &amp; JS &amp; Python）.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/DoList/statement/(100分)- 乘坐保密电梯（Java &amp; JS &amp; Python）.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(100分)- 最小调整顺序次数、特异性双端队列（Java &amp; JS &amp; Python）.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/DoList/statement/(100分)- 最小调整顺序次数、特异性双端队列（Java &amp; JS &amp; Python）.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(100分)- 比赛评分（Java &amp; JS &amp; Python）.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/DoList/statement/(100分)- 比赛评分（Java &amp; JS &amp; Python）.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(100分)- 端口合并（Java &amp; JS &amp; Python）.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/DoList/statement/(100分)- 端口合并（Java &amp; JS &amp; Python）.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(100分)- 计算最接近的数（Java &amp; JS &amp; Python &amp; C）.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/DoList/statement/(100分)- 计算最接近的数（Java &amp; JS &amp; Python &amp; C）.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(100分)-增强的strstr（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/DoList/statement/(100分)-增强的strstr（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(100分)-猜数字（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/DoList/statement/(100分)-猜数字（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(200分)- 区间交集（Java &amp; JS &amp; Python）.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/DoList/statement/(200分)- 区间交集（Java &amp; JS &amp; Python）.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(200分)- 字符串拼接（Java &amp; JS &amp; Python &amp; C）.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/DoList/statement/(200分)- 字符串拼接（Java &amp; JS &amp; Python &amp; C）.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(200分)- 字符串解密（Java &amp; JS &amp; Python）.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/DoList/statement/(200分)- 字符串解密（Java &amp; JS &amp; Python）.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(200分)- 田忌赛马（Java &amp; JS &amp; Python &amp; C）.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/DoList/statement/(200分)- 田忌赛马（Java &amp; JS &amp; Python &amp; C）.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(200分)- 贪心歌手（Java &amp; JS &amp; Python &amp; C）.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/DoList/statement/(200分)- 贪心歌手（Java &amp; JS &amp; Python &amp; C）.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(200分)- 高效的任务规划（Java &amp; JS &amp; Python &amp; C）.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/DoList/statement/(200分)- 高效的任务规划（Java &amp; JS &amp; Python &amp; C）.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/DoList/statement/(200分)-字母组合过滤组合字符串（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/DoList/statement/(200分)-字母组合过滤组合字符串（Java &amp; Python&amp; JS &amp; C++ &amp; C ）.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C08_Career_Growth/ODExam/ODTemplate/utils/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C02CreatingDestroyingObjects/AdminUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C02CreatingDestroyingObjects/GlobalConfigManager$ConfigBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C02CreatingDestroyingObjects/GlobalConfigManager$ConfigHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C02CreatingDestroyingObjects/GlobalConfigManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C02CreatingDestroyingObjects/NormalUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C02CreatingDestroyingObjects/StaticFactoryDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C02CreatingDestroyingObjects/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C03MethodsCommontoAllObjects/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C04ClassAndInterfaces/MessageSystem/BaseMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C04ClassAndInterfaces/MessageSystem/EmailMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C04ClassAndInterfaces/MessageSystem/MessageBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C04ClassAndInterfaces/MessageSystem/MessageSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C04ClassAndInterfaces/MessageSystem/MessageService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C04ClassAndInterfaces/MessageSystem/OuterClass$StaticInner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C04ClassAndInterfaces/MessageSystem/OuterClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C04ClassAndInterfaces/MessageSystem/SmsMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C05Generics/Favorites.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C05Generics/GenericBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C05Generics/HeterogeneousTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C05Generics/MessageDispatcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C05Generics/Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C06EnumsandAnnotations/AdvancedMath$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C06EnumsandAnnotations/AdvancedMath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C06EnumsandAnnotations/BasicMath$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C06EnumsandAnnotations/BasicMath$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C06EnumsandAnnotations/BasicMath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C06EnumsandAnnotations/ConfigEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C06EnumsandAnnotations/Database.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C06EnumsandAnnotations/DatabaseEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C06EnumsandAnnotations/MathTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C06EnumsandAnnotations/Operation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C06EnumsandAnnotations/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C06EnumsandAnnotations/TestMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C06EnumsandAnnotations/UserEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C06EnumsandAnnotations/WeaponStats.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C06EnumsandAnnotations/WeaponType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C07LambdaExpressionsandStreams/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C07LambdaExpressionsandStreams/StreamDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C08Methods/UserRegistrationService$User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C08Methods/UserRegistrationService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C09GenericsProgramming/CartPriceCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C10Exceptions/AccountNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C10Exceptions/BankTransferService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C10Exceptions/TransferFailedException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C11Concurrency/TaskScheduler$ExpensiveResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C11Concurrency/TaskScheduler$ExpensiveResourceHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C11Concurrency/TaskScheduler$Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C11Concurrency/TaskScheduler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C12Serialization/SafeUserSession$SerializationProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C12Serialization/SafeUserSession.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/EffectiveJava/C12Serialization/UserSession.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/JVM/JVMPerformance/G1GarbageCollector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/JVM/JVMPerformance/ParallelStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/JVM/JvmMemoryDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/JVM/MemoryLeakDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/JVM/MyCustomClassLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/JVM/MySpecialClassLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/JVM/StackDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/JVM/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/JVM/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/Multithreading/DelayQueueScheduler$DelayedTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/Multithreading/DelayQueueScheduler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/java17/SealedClasses/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/java17/SealedClasses/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/java17/SealedClasses/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/java17/SealedClasses/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C01_Java_Core/java17/SwitchPatternMatch/PatternMatching.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C02_Architecture_Design/DesignPattern/C01_CreationalPatterns/FactoryMethodPattern/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C02_Architecture_Design/DesignPattern/C01_CreationalPatterns/FactoryMethodPattern/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C02_Architecture_Design/DesignPattern/C01_CreationalPatterns/FactoryMethodPattern/ComputerFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C02_Architecture_Design/DesignPattern/C01_CreationalPatterns/FactoryMethodPattern/DesktopComputer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C02_Architecture_Design/DesignPattern/C01_CreationalPatterns/FactoryMethodPattern/DesktopComputerFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C02_Architecture_Design/DesignPattern/C01_CreationalPatterns/FactoryMethodPattern/LaptopComputer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C02_Architecture_Design/DesignPattern/C01_CreationalPatterns/FactoryMethodPattern/LaptopComputerFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C02_Architecture_Design/DesignPattern/C01_CreationalPatterns/SingletonPattern/DemoSingleThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C02_Architecture_Design/DesignPattern/C01_CreationalPatterns/SingletonPattern/HungrySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C02_Architecture_Design/DesignPattern/C01_CreationalPatterns/SingletonPattern/LazySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C02_Architecture_Design/DesignPattern/C01_CreationalPatterns/SingletonPattern/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C02_Architecture_Design/DesignPattern/C01_CreationalPatterns/SingletonPattern/StaticSingleton$SingletonHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C02_Architecture_Design/DesignPattern/C01_CreationalPatterns/SingletonPattern/StaticSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C02_Architecture_Design/DesignPattern/C02_StructuralPatterns/Decorator/Coffee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C02_Architecture_Design/DesignPattern/C02_StructuralPatterns/Decorator/CoffeeDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C02_Architecture_Design/DesignPattern/C02_StructuralPatterns/Decorator/CoffeeShop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C02_Architecture_Design/DesignPattern/C02_StructuralPatterns/Decorator/MilkDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C02_Architecture_Design/DesignPattern/C02_StructuralPatterns/Decorator/SimpleCoffee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C02_Architecture_Design/DesignPattern/C02_StructuralPatterns/Decorator/SugarDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C02_Architecture_Design/DesignPattern/C03_BehavioralPatterns/Observer/Investor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C02_Architecture_Design/DesignPattern/C03_BehavioralPatterns/Observer/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C02_Architecture_Design/DesignPattern/C03_BehavioralPatterns/Observer/ObserverClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C02_Architecture_Design/DesignPattern/C03_BehavioralPatterns/Observer/Stock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C02_Architecture_Design/DesignPattern/C03_BehavioralPatterns/Observer/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C05_Middleware_Distributed/MQ/DynamicAdaptiveMQ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C05_Middleware_Distributed/MQ/ElevatorMQ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C05_Middleware_Distributed/MQ/ElevatorMQN1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C05_Middleware_Distributed/MQ/SimpleMQ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C05_Middleware_Distributed/MQ/VideoStreamMQ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/Beginner/CountCharacter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/Beginner/CountNums.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/Beginner/LCS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/Beginner/StringReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/Easy/moveZeroes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/Easy/twoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/BinarySearch/getMinimumDifference.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/BinarySearch/searchInsert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/BinaryTree/PostorderTraversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/BinaryTree/averageOfLevels.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/BinaryTree/inorderTraversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/BinaryTree/preorderTraversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/DP/ClimbStairsDP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/DP/CoinChanges.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/DP/maximalSquareSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/DP/minFallingPathSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/GreedyAlgorithm/ActivitySelection$Activity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/GreedyAlgorithm/ActivitySelection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/GreedyAlgorithm/largestPerimeter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/GreedyAlgorithm/maximum69Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/Hash/twoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/Hash/wordPatterns.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/LinkedList/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/LinkedList/ListNodeSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/LinkedList/containsNearbyDuplicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/LinkedList/getIntersectionNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/LinkedList/hasCycleSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/LinkedList/isAnagram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/Skills/singleNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/Stack/isValid$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/Stack/isValid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/TwoPoints/moveZeroes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/interval/summaryRanges.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/Middle/MaxLCS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/Top150/Array/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/Top150/Array/Main1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/Top150/Array/lengthOfLastWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/Top150/Array/merge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/Top150/Array/moveZeroes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/Top150/Array/removeElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/Top150/String/longestCommonPrefix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/Top150/twoPoints/isPalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/LeetCode/Top150/twoPoints/isSubsequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/BFS/BFSSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/BFS/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/DFS/DFSSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/Graph/Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/Graph/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/Graph/Vertex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/Graph/dfsOnMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/Tree/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/Tree/TreeSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/Tries/GenericTrie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/Tries/Trie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/Tries/TrieNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/Tries/TrieNodeA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/Tries/middle/Trie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/Tries/middle/WordDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/Backtracking/GetSubsets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/Backtracking/backtrackTemplate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/DDDP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/DDP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/DynamicProgrammingTemplate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/easy/climbStairs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/easy/climbingStairs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/middle/coinChange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/middle/lengthOfLIS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/middle/rob.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/middle/wordBreak$TrieNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/middle/wordBreak.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/multiyDP/hard/maxProfitB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/multiyDP/hard/maxProfitC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/multiyDP/middle/isInterleave.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/multiyDP/middle/longestPalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/multiyDP/middle/maximalSquare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/multiyDP/middle/minDistance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/multiyDP/middle/minPathSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/multiyDP/middle/minimumTotal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/multiyDP/middle/uniquePathsWithObstacles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DivideConquer/DivideAndConquerTemplate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DivideConquer/sortedArrayToBST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/Enum/BusinessTypeEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/KMP/KMPAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/LFUCache/LFUCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/LRUCache/LRUCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/Matrix/transposeMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/PermutationsCombinations/PCSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/PermutationsCombinations/combinationSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/PermutationsCombinations/combine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/PermutationsCombinations/permute.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/PermutationsCombinations/permuteUnique.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/PermutationsCombinations/subsets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/PrefixSum/NumArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/PrefixSum/PrefixSumTemplate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/RegExp/canMakeSquare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/StateMachine/StateMachine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/Statistics/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/Statistics/UserGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/Statistics/summarize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/UnionFind/UnionFind.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/UnionFind/UnionFindSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/AugmentedDS/SimpleBloomFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/BaseConversion/baseConversion$BaseMToBaseN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/BaseConversion/baseConversion$DecimalToOtherBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/BaseConversion/baseConversion$ManualConversion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/BaseConversion/baseConversion$OtherBaseToDecimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/BaseConversion/baseConversion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/BinarySearch/binarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Bitwise/BasicBitwiseSolution$BasicBitwiseTemplate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Bitwise/BasicBitwiseSolution$BitTricksUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Bitwise/BasicBitwiseSolution$ShiftOperatorTemplate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Bitwise/BasicBitwiseSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Bitwise/Easy/addBinary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Cycle/CycleSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Cycle/MultiThreadCycleTemplate$MyPrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Cycle/MultiThreadCycleTemplate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Cycle/countGoodTriplets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Greedy/CoinChange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Greedy/GreedyAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Greedy/GreedySolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Greedy/easy/ActivateRunes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Greedy/easy/DeploymentDefenseTower.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Math/isPalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Math/plusOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Recursion/Parameters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Recursion/RecursionSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Recursion/RecursionTemplate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Recursion/ReturnType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Simulate/SimulateTemplate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Simulate/addDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Simulate/isPowerOfThree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Simulate/isPowerOfTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Simulate/subtractProductAndSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/SlideWindow/SlideWindowFrameWork.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/SlideWindow/SlidingWindowTemplate$FixedSlidingWindowTemplate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/SlideWindow/SlidingWindowTemplate$VariableSlidingWindowTemplate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/SlideWindow/SlidingWindowTemplate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/SlideWindow/lengthOfLongestSubstring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/SlideWindow/minSubArrayLen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/SlideWindow/minWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Sort/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Sort/HeapSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Sort/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Sort/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Sort/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Sort/Sort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Sort/selectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/TwoPointers/SlidingWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/TwoPointers/SlowFastPointer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/TwoPointers/TwoPointers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/TwoPointers/isPalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Array/ArrayLifeStyle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Array/maxScore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Array/middle/peakIndexInMountainArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Array/multiDArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BackTrackLifeStyle/permuteTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/BSPostorderTraversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/BSPreorderTraversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/BST/BSTreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/BST/getMinimumDifference.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/BST/isValidBST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/BST/kthSmallest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/BSTreeTraverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/Easy/BSMaxDepth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/Easy/averageOfLevels.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/Easy/getMinimumDifference.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/countNodes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/middle/BSTIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/middle/levelOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/middle/lowestCommonAncestor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/middle/rightSideView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/middle/zigzagLevelOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/minDepthBSTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/Collections/CollectionsTemplate$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/Collections/CollectionsTemplate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/Itearable/IteratorSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/ArrayList/ArrayListLifeStyle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/LinkedList/LRUCache$DLinkedNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/LinkedList/LRUCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/LinkedList/LinkedListLifeStyle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/LinkedList/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/LinkedList/easy/hasCycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/LinkedList/easy/mergeTwoLists.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/LinkedList/easy/reverseList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/LinkedList/hard/reverseKGroup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/LinkedList/middle/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/LinkedList/middle/addTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/LinkedList/middle/copyRandomList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/LinkedList/middle/deleteDuplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/LinkedList/middle/partition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/LinkedList/middle/removeNthFromEnd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/LinkedList/middle/reverseBetween.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/LinkedList/middle/rotateRight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/Map/HashMap/ConcurrentHashMapLifeStyle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/Map/HashMap/ConcurrentSkipListMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/Map/HashMap/Easy/canConstruct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/Map/HashMap/Easy/isAnagram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/Map/HashMap/HashMapLifeStyle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/Map/HashMap/IdentityHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/Map/HashMap/LinkedHashMapLifeStyle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/Map/HashMap/Metadata.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/Map/HashMap/WeakHashMapSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/Map/HashMap/numIdenticalPairs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/Map/TreeMap/TreeMapSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/Set/HashSet/ConcurrentSkipListSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/Set/HashSet/CopyOnWriteArraySet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/Set/HashSet/EnumSetEx/AuthService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/Set/HashSet/EnumSetEx/Permission.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/Set/HashSet/EnumSetEx/PermissionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/Set/HashSet/EnumSetEx/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/Set/HashSet/EnumSetSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/Set/HashSet/HashSetLifeStyle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/Set/HashSet/LinkedHashSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/Set/HashSet/MyHashSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/Set/HashSet/TreeSetSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/Set/TreeSet/TreeSetSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Heap/HeapOperationTemplate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Heap/ImageProcessing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Heap/MinHeapSolution$MinHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Heap/MinHeapSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Queue/Deque/DequeLifeStyle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Queue/MonotonicQueue/QuantumNetworkShuttle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Queue/advancedQueue/ArrayBlockingQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Queue/advancedQueue/CustomPriorityQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Queue/advancedQueue/LinkedBlockingQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Queue/advancedQueue/PriorityBlockingQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Queue/advancedQueue/SynchronousQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Queue/baseQueue/PriorityQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Queue/baseQueue/QueueLifeStyle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/RBTree/HuffmanNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/RBTree/HuffmanTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/RBTree/RedBlackTree$RBNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/RBTree/RedBlackTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Stack/ConcurrentLinkedDequeSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Stack/DequeSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Stack/MonotonicStack/easy/finalPrices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Stack/MonotonicStack/hard/largestRectangleArea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Stack/MonotonicStack/middle/dailyTemperatures.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Stack/MonotonicStack/nextGreaterElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Stack/MonotonicStack/portTrafficStatistics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Stack/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Stack/StackLifeStyle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Stack/middle/buildArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Stack/middle/evalRPN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Stack/middle/exclusiveTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/String/StringBufferSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/String/StringLifeStyle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/String/easy/EasyHex$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/String/easy/EasyHex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/String/easy/HexSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/String/easy/convertToBase7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/String/easy/firstStr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/String/easy/vowelStrings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/String/middle/strStrNth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/String/toLowerCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/MaxDepthSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/TraverseTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/TreeBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/countNodesSolutions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/easy/countTreeNodes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/easy/hasPathSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/easy/invertTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/easy/isSameTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/easy/isSymmetric.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/easy/maxDepth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/easy/minDepth$QueueNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/easy/minDepth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/hard/maxPathSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/hasPathSumSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/isSymmetricSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/connect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/flattenBSTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/midPostBuildTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/preMiddleBuildTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/prePostBuildTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/sumNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/A177/Answer/CountNumsGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/A177/Answer/DivideApple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/A177/Answer/HotWebSiteCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/A177/Answer/LogCollectionSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/A177/Answer/MemoryAllocation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/A177/Answer/MiddleNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/A177/Answer/ReplantPoplarEuphratica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/A177/Answer/SimpleDecompression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/A177/Answer/TaskScheduling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/A177/Answer/VLANResourcePool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/A200/Test/ArrayBSTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/A200/Test/EfficientTaskPlan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/A200/Test/EnhancedStr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/A200/middle/answer/ArtPerformanceViewing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/A200/middle/answer/CalculateBSTree$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/A200/middle/answer/CalculateBSTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/A200/middle/answer/DecodeString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/A200/middle/answer/MaxTasksSupported$Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/A200/middle/answer/MaxTasksSupported.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/A200/middle/answer/NumberGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/A200/middle/answer/T9Input.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/A200/middle/answer/omputerVirusInfection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/E95/Answer/E63/IPv4ToInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/E95/Answer/E63/ReplantDeadPoplarSaplings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/E95/Answer/E63/VLANResourcePool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/E95/Answer/E63/WeTeam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/E95/Answer/E63/decodeTLV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/LatestOD/E/HuaweiOD_MinSteps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/LatestOD/E/findDestination.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/TestPaperA/TSTree$Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/TestPaperA/TSTree$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/TestPaperA/TSTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A100/ContestScoring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A100/FindClosetNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A100/HappyMatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A100/RestoreNumericalSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A100/RidingSecretElevator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/A100/mergingPort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/C08_Career_Growth/ODExam/TestPaperA/answer/Attendance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xhl/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,6 +550,7 @@
     "应用程序.BSPostorderTraversal.executor": "Run",
     "应用程序.BSPreorderTraversal.executor": "Run",
     "应用程序.ClimbingStairs.executor": "Run",
+    "应用程序.HappyMatchGame.executor": "Run",
     "应用程序.HuaweiOD_MinSteps.executor": "Run",
     "应用程序.HuffmanTree.executor": "Run",
     "应用程序.IPV4ToInt.executor": "Run",
@@ -115,6 +559,7 @@
     "应用程序.Main.executor": "Run",
     "应用程序.MaxDepthSolution.executor": "Run",
     "应用程序.Product.executor": "Run",
+    "应用程序.RestoreNumericalSequence.executor": "Run",
     "应用程序.TraverseTree.executor": "Run",
     "应用程序.TreeBuilder.executor": "Run",
     "应用程序.averageOfLevels.executor": "Run",
@@ -124,9 +569,12 @@
     "应用程序.com.xhl.C01_Java_Core.EffectiveJava.C01Introduction.example.Main.executor": "Run",
     "应用程序.com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Stack.MonotonicStack.portTrafficStatistics.executor": "Run",
     "应用程序.connect.executor": "Run",
+    "应用程序.containsNearbyDuplicate.executor": "Run",
     "应用程序.countNodesSolutions.executor": "Run",
     "应用程序.countTreeNodes.executor": "Run",
     "应用程序.decodeTLV.executor": "Debug",
+    "应用程序.findKthLargest.executor": "Run",
+    "应用程序.findLHS.executor": "Run",
     "应用程序.flattenBSTree.executor": "Run",
     "应用程序.getMinimumDifference.executor": "Run",
     "应用程序.hasPathSum.executor": "Run",
@@ -138,8 +586,10 @@
     "应用程序.kthSmallest.executor": "Run",
     "应用程序.lengthOfLongestSubstring.executor": "Run",
     "应用程序.levelTraverse.executor": "Run",
+    "应用程序.longestNiceSubstring.executor": "Run",
     "应用程序.maxDepth.executor": "Run",
     "应用程序.maxPathSum.executor": "Run",
+    "应用程序.mergeTwoLists.executor": "Run",
     "应用程序.midPostBuildTree.executor": "Run",
     "应用程序.minDepth.executor": "Run",
     "应用程序.portTrafficStatistics.executor": "Run",
@@ -171,13 +621,13 @@
       <recent name="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.easy" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Attendance">
-    <configuration name="Attendance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C08_Career_Growth.ODExam.TestPaperA.answer.A100.Attendance" />
+  <component name="RunManager" selected="应用程序.longestNiceSubstring">
+    <configuration name="HappyMatchGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C08_Career_Growth.ODExam.TestPaperA.answer.DoList.answer.HappyMatchGame" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C08_Career_Growth.ODExam.TestPaperA.answer.A100.*" />
+          <option name="PATTERN" value="com.xhl.C08_Career_Growth.ODExam.TestPaperA.answer.DoList.answer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,12 +635,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="averageOfLevels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Tree.BinaryTree.easy.averageOfLevels" />
+    <configuration name="RestoreNumericalSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C08_Career_Growth.ODExam.TestPaperA.answer.DoList.answer.RestoreNumericalSequence" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Tree.BinaryTree.easy.*" />
+          <option name="PATTERN" value="com.xhl.C08_Career_Growth.ODExam.TestPaperA.answer.DoList.answer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,12 +648,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="kthSmallest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Tree.BinaryTree.BST.middle.kthSmallest" />
+    <configuration name="containsNearbyDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.SlideWindow.easy.containsNearbyDuplicate" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Tree.BinaryTree.BST.middle.*" />
+          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.SlideWindow.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,12 +661,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="maxPathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Tree.BinaryTree.hard.maxPathSum" />
+    <configuration name="findLHS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.SlideWindow.easy.findLHS" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Tree.BinaryTree.hard.*" />
+          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.SlideWindow.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,12 +674,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="preMiddleBuildTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Tree.middle.preMiddleBuildTree" />
+    <configuration name="longestNiceSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.SlideWindow.easy.longestNiceSubstring" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Tree.middle.*" />
+          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.SlideWindow.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,11 +689,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Attendance" />
-        <item itemvalue="应用程序.preMiddleBuildTree" />
-        <item itemvalue="应用程序.maxPathSum" />
-        <item itemvalue="应用程序.kthSmallest" />
-        <item itemvalue="应用程序.averageOfLevels" />
+        <item itemvalue="应用程序.longestNiceSubstring" />
+        <item itemvalue="应用程序.findLHS" />
+        <item itemvalue="应用程序.containsNearbyDuplicate" />
+        <item itemvalue="应用程序.HappyMatchGame" />
+        <item itemvalue="应用程序.RestoreNumericalSequence" />
       </list>
     </recent_temporary>
   </component>
@@ -495,7 +945,15 @@
       <option name="project" value="LOCAL" />
       <updated>1783165624641</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="changes main">
+      <option name="closed" value="true" />
+      <created>1783172344614</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1783172344614</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

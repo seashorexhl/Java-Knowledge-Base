@@ -12,12 +12,32 @@ import com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Collection.List.LinkedLis
  * 你应当 保留 两个分区中每个节点的初始相对位置。
  */
 public class partition {
-    static void main() {
+    public  static void main(String[] args) {
+        ListNode  head = new ListNode(1);
+        head.next = new ListNode(4);
+        head.next.next = new ListNode(5);
 
     }
+
+    //    方法一：模拟
+
     public ListNode partition(ListNode head, int x) {
-
-
-        return  null;
+        ListNode small = new ListNode(0);
+        ListNode smallHead = small;
+        ListNode large = new ListNode(0);
+        ListNode largeHead = large;
+        while (head != null) {
+            if (head.val < x) {
+                small.next = head;
+                small = small.next;
+            } else {
+                large.next = head;
+                large = large.next;
+            }
+            head = head.next;
+        }
+        large.next = null;
+        small.next = largeHead.next;
+        return smallHead.next;
     }
 }
