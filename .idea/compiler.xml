@@ -10,5 +10,8 @@
         <module name="Java-Knowledge-Base" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Java-Knowledge-Base" target="25" />
+    </bytecodeTargetLevel>
   </component>
 </project>
