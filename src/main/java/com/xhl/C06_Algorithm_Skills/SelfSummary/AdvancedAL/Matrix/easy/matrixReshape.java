@@ -19,7 +19,7 @@ public class matrixReshape {
         }
     }
     // 相同的 行遍历顺序
-    public int[][] matrixReshape(int[][] mat, int r, int c) {
+    public int[][] matrixReshapex(int[][] mat, int r, int c) {
         int row = mat.length;
         int col = mat[0].length;
         int[][] res = new int[r][c];

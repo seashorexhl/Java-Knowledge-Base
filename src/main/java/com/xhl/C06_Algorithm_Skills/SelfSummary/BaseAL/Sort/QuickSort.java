@@ -6,6 +6,7 @@ import java.util.Arrays;
  * @Author: xhl
  * @Date: 2026-06-08 05:25
  * @Description: 4.排序-快速排序
+ *  不断寻找元素的正确位置，并以此为界缩小问题规模
  */
 public class QuickSort {
     public static void main(String[] args) {
@@ -15,7 +16,33 @@ public class QuickSort {
         System.out.println(Arrays.toString(arr));
 
     }
+    /**
+     *  快速排序：
+     *  1.选基准 pivot
+     *  2.分区 Partition
+     *  3.递归 Recursion
+     * */
+    public void quickSort(int[] arr, int left, int right) {
+        if (left < right) {
+            int pivotIndex = partition(arr, left, right);
+            quickSort(arr, left, pivotIndex - 1);
+            quickSort(arr, pivotIndex + 1, right);
+        }
+    }
+    private int partition1(int[] arr, int left, int right) {
+        int pivot = arr[right]; // 选最右为基准
+        int i = left;
+        for (int j = left; j < right; j++) {
+            if (arr[j] <= pivot) {
+                swap(arr, i, j);
+                i++;
+            }
+        }
+        swap(arr, i, right);
+        return i;
+    }
     // 快速排序
+
     // 主入口方法
     public void quickSort(int[] nums) {
         if (nums == null || nums.length <= 1) return;

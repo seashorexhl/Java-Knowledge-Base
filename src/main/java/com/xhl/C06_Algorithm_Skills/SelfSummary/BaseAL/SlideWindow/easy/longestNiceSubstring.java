@@ -7,7 +7,6 @@ package com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.SlideWindow.easy;
  */
 public class longestNiceSubstring {
     // 方法一：枚举
-    // 方法二：分治
     private int maxPos;
     private int maxLen;
     // 方法三： 滑动窗口
@@ -80,6 +79,7 @@ public class longestNiceSubstring {
             ++pos;
         }
     }
+    // 方法二：分治
 
     public String longestNiceSubstring2(String s) {
         this.maxPos1 = 0;

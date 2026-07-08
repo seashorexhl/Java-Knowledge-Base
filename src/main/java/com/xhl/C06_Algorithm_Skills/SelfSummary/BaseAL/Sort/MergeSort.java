@@ -4,11 +4,13 @@ package com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.Sort;
  * @Author: xhl
  * @Date: 2026-06-09 00:16
  * @Description: 5.归并排序
+ *
  */
 public class MergeSort {
     static void main() {
 
     }
+    // 归并排序
     public static void mergeSort(int[] arr, int left, int right) {
         if (left < right) {
             int mid = left + (right - left) / 2; // 防溢出

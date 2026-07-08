@@ -6,4 +6,5 @@ package com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Queue.advancedQueue;
  * @Description:
  */
 public class TransferQueue {
+
 }
