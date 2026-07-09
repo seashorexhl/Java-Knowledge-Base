@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2cbcf97-3448-465b-8d35-77b683d9f8e0" name="更改" comment="changes main">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C02_Architecture_Design/DesignPattern/Img/创建型模式.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C02_Architecture_Design/DesignPattern/Img/创建型模式.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C02_Architecture_Design/DesignPattern/Img/结构型模式.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C02_Architecture_Design/DesignPattern/Img/结构型模式.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C02_Architecture_Design/DesignPattern/Img/行为型模式.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C02_Architecture_Design/DesignPattern/Img/行为型模式.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C02_Architecture_Design/DesignPattern/Img/设计模式之间的关系.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C02_Architecture_Design/DesignPattern/Img/设计模式之间的关系.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Greedy/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL/Greedy/CoinChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
