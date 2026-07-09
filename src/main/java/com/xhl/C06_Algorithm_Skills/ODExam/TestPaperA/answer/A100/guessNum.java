@@ -1,4 +1,4 @@
-package com.xhl.C08_Career_Growth.ODExam.TestPaperA.answer.A100;
+package com.xhl.C06_Algorithm_Skills.ODExam.TestPaperA.answer.A100;
 
 import java.util.ArrayList;
 import java.util.List;

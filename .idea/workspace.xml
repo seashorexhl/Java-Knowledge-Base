@@ -85,6 +85,7 @@
     &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
     &quot;git.auto.fetch.suggestion.counter&quot;: &quot;1&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sanya/Desktop/Java-Knowledge-Base/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseAL&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/sanya/Desktop/Java-Knowledge-Base&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -95,40 +96,63 @@
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;应用程序.Attendance.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.BSPostorderTraversal.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.BSPreorderTraversal.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.ClimbingStairs.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.HappyMatchGame.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.HuaweiOD_MinSteps.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.HuffmanTree.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.IPV4ToInt.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.LevelTraverse.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Main.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.LinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Main.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.MaxDepthSolution.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.Product.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.RestoreNumericalSequence.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.TraverseTree.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.TreeBuilder.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.averageOfLevels.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.climbStairs.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.climbingStairs.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.coinChange.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.com.xhl.C01_Java_Core.EffectiveJava.C01Introduction.example.Main.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Stack.MonotonicStack.portTrafficStatistics.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.connect.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.containsNearbyDuplicate.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.convert.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.countNodesSolutions.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.countTreeNodes.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.decodeTLV.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.findKthLargest.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.findLHS.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.flattenBSTree.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.gameOfLife.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.getMinimumDifference.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.hasPathSum.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.hasPathSumSolution.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.invertTree.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.isPalindrome.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.isSymmetric.executor&quot;: &quot;Debug&quot;,
     &quot;应用程序.isSymmetricSolution.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.isValidSudoku.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.kthSmallest.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lengthOfLongestSubstring.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.levelTraverse.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.longestNiceSubstring.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.matrixReshape.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.maxDepth.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.maxPathSum.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.mergeTwoLists.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.midPostBuildTree.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.minDepth.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.portTrafficStatistics.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.preMiddleBuildTree.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.prePostBuildTree.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.rob.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.rotateImage.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.setZeroes.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.validPath.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.wordBreak.executor&quot;: &quot;Run&quot;
   }
 }</component>
@@ -137,27 +161,30 @@
       <recent name="com.xhl.C01_Java_Core.EffectiveJava.C02CreatingDestroyingObjects" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sanya\Desktop\Java-Knowledge-Base\src\main\java\com\xhl\C06_Algorithm_Skills\SelfSummary\BaseAL" />
+      <recent name="C:\Users\sanya\Desktop\Java-Knowledge-Base\src\main\java\com\xhl\C08_Career_Growth\ODExam\DoList\statement" />
+      <recent name="C:\Users\sanya\Desktop\git\Java-Knowledge-Base" />
       <recent name="C:\lXH\git\Java-Knowledge-Base\docs\StudyResource" />
       <recent name="C:\lXH\git\Java-Knowledge-Base\docs\StudyRoot" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sanya\Desktop\Java-Knowledge-Base\src\main\java\com\xhl\C02_Architecture_Design\DesignPattern\Img" />
+      <recent name="C:\Users\sanya\Desktop\Java-Knowledge-Base\src\main\java\com\xhl\C01_Java_Core\EffectiveJava\C01Introduction" />
+      <recent name="C:\Users\sanya\Desktop\Java-Knowledge-Base\src\main\java\com\xhl\C01_Java_Core\EffectiveJava" />
+      <recent name="C:\Users\sanya\Desktop\git\Java-Knowledge-Base\src\main\java\com\xhl\C05_Middleware_Distributed" />
       <recent name="C:\lXH\git\Java-Knowledge-Base\deploy" />
-      <recent name="C:\lXH\git\Java-Knowledge-Base\docs\StudyResource" />
-      <recent name="C:\lXH\git\Java-Knowledge-Base\docs\Interview Feature" />
-      <recent name="C:\lXH\git\Java-Knowledge-Base\docs\DSAL" />
-      <recent name="C:\lXH\git\Java-Knowledge-Base\src\main\java\com\xhl\C03_Enterprise_Frameworks\Spring" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.easy" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.Main" />
+  <component name="RunManager" selected="应用程序.gameOfLife">
+    <configuration name="convert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.String.middle.convert" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.*" />
+          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.String.middle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +192,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="coinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP.middle.coinChange" />
+    <configuration name="gameOfLife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.Matrix.middle.gameOfLife" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP.middle.*" />
+          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.Matrix.middle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,12 +205,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.easy.isPalindrome" />
+    <configuration name="isValidSudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.Matrix.middle.isValidSudoku" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.easy.*" />
+          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.Matrix.middle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,12 +218,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP.middle.rob" />
+    <configuration name="rotateImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.Matrix.middle.rotateImage" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP.middle.*" />
+          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.Matrix.middle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,12 +231,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="wordBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP.middle.wordBreak" />
+    <configuration name="setZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.Matrix.middle.setZeroes" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP.middle.*" />
+          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.Matrix.middle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Main" />
-        <item itemvalue="应用程序.isPalindrome" />
-        <item itemvalue="应用程序.wordBreak" />
-        <item itemvalue="应用程序.rob" />
-        <item itemvalue="应用程序.coinChange" />
+        <item itemvalue="应用程序.setZeroes" />
+        <item itemvalue="应用程序.rotateImage" />
+        <item itemvalue="应用程序.isValidSudoku" />
+        <item itemvalue="应用程序.gameOfLife" />
+        <item itemvalue="应用程序.convert" />
       </list>
     </recent_temporary>
   </component>
@@ -420,6 +447,111 @@
       <updated>1783560458131</updated>
     </task>
     <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00023" summary="changes main">
+      <option name="closed" value="true" />
+      <created>1783032616779</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1783032616779</updated>
+    </task>
+    <task id="LOCAL-00024" summary="changes main">
+      <option name="closed" value="true" />
+      <created>1783033026633</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1783033026633</updated>
+    </task>
+    <task id="LOCAL-00025" summary="changes main">
+      <option name="closed" value="true" />
+      <created>1783086966180</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1783086966180</updated>
+    </task>
+    <task id="LOCAL-00026" summary="changes main">
+      <option name="closed" value="true" />
+      <created>1783111691856</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1783111691857</updated>
+    </task>
+    <task id="LOCAL-00027" summary="changes main">
+      <option name="closed" value="true" />
+      <created>1783112030411</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1783112030411</updated>
+    </task>
+    <task id="LOCAL-00028" summary="changes main">
+      <option name="closed" value="true" />
+      <created>1783139732323</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1783139732323</updated>
+    </task>
+    <task id="LOCAL-00029" summary="changes main">
+      <option name="closed" value="true" />
+      <created>1783165184150</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1783165184150</updated>
+    </task>
+    <task id="LOCAL-00030" summary="changes main">
+      <option name="closed" value="true" />
+      <created>1783165624641</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1783165624641</updated>
+    </task>
+    <task id="LOCAL-00031" summary="changes main">
+      <option name="closed" value="true" />
+      <created>1783172344614</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1783172344614</updated>
+    </task>
+    <task id="LOCAL-00032" summary="changes main">
+      <option name="closed" value="true" />
+      <created>1783370255277</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1783370255277</updated>
+    </task>
+    <task id="LOCAL-00033" summary="changes main">
+      <option name="closed" value="true" />
+      <created>1783380663062</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1783380663062</updated>
+    </task>
+    <task id="LOCAL-00034" summary="changes main">
+      <option name="closed" value="true" />
+      <created>1783386248383</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1783386248383</updated>
+    </task>
+    <task id="LOCAL-00035" summary="changes main">
+      <option name="closed" value="true" />
+      <created>1783448698644</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1783448698644</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
