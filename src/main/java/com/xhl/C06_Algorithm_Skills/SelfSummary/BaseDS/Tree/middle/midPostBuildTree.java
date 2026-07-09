@@ -125,7 +125,7 @@ public class midPostBuildTree {
         return null;
     }
 
-    /**
+        /**
          * 打印树（前序打印）
          * 返回一个包含树形结构的字符串列表，最后统一打印
          */
@@ -155,6 +155,7 @@ public class midPostBuildTree {
 
         return "[" + String.join(",", result) + "]";
     }
+    // 打印
     private void printTree(TreeNode node) {
         List<String> res = printTreeHelper(node, 0);
         System.out.println(Arrays.toString(res.toArray()));

@@ -34,6 +34,7 @@ public class CountCharacter {
         for (int i = 0; i < 4; i++) {
             System.out.print(nums[i]+" ");
         }
+        sc.close();
     }
 
 

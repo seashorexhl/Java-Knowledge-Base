@@ -22,16 +22,17 @@ public class hasPathSumSolution {
         int sum2 =4;
         System.out.println("是否存在和为"+sum+"的路径？"+hps.hasPathSumRe(root,sum2));
     }
-    // 方法一：广度优先搜索
+    // 方法一：广度优先搜索 BFS
     public boolean hasPathSum(TreeNode root, int sum) {
         if (root == null) {
             return false;
         }
-        Queue<TreeNode> queNode = new LinkedList<TreeNode>();
-        Queue<Integer> queVal = new LinkedList<Integer>();
+        Queue<TreeNode> queNode = new LinkedList<>();
+        Queue<Integer> queVal = new LinkedList<>();
 
         queNode.offer(root);
         queVal.offer(root.val);
+
         while (!queNode.isEmpty()) {
             TreeNode now = queNode.poll();
             int temp = queVal.poll();

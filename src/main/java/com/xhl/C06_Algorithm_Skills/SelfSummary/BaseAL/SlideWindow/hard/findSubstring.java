@@ -5,7 +5,7 @@ import java.util.List;
 /**
  * @Author: xhl
  * @Date: 2026-07-02 06:15
- * @Description:
+ * @Description:  30. 串联所有单词的子串
  */
 public class findSubstring {
     static void main() {

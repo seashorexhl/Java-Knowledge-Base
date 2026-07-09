@@ -6,6 +6,7 @@ import java.util.Arrays;
  * @Author: xhl
  * @Date: 2026-06-09 00:16
  * @Description: 3.插入排序
+ *
  */
 public class InsertionSort {
     static void main(String[] args) {
@@ -13,6 +14,7 @@ public class InsertionSort {
         insertionSort(arr);
         System.out.println(Arrays.toString(arr));
     }
+    //
     public static void insertionSort(int[] arr) {
         for (int i = 1; i < arr.length; i++) {
             int key = arr[i];

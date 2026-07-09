@@ -18,7 +18,7 @@ public class ClimbStairsDP {
             System.out.println("方法二、多少种不同的方法可以爬到楼顶:"+ssdp.climbStairs1(n));
             System.out.println("方法三、多少种不同的方法可以爬到楼顶:"+ssdp.climbStairs2(n));
         }
-
+        sc.close();
     }
     // 使用循环自底向上计算
     public int climbStairs(int n) {

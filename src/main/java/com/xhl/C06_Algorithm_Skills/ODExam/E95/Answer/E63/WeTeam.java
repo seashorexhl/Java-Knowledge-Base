@@ -65,6 +65,7 @@ public class WeTeam {
                 System.out.println("da pian zi");
             }
         }
+        sc.close();
     }
 
     // 查找节点，用于判断两个人是否在同一个团队

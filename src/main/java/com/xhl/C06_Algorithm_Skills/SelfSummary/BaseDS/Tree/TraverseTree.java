@@ -8,6 +8,9 @@ import java.util.Stack;
  * @Author: xhl
  * @Date: 2026-06-04 13:12
  * @Description: 树的遍历 基础框架 ⭐⭐⭐⭐⭐
+ *  前序 中序 后序遍历 递归+迭代
+ *  层序遍历 BFS 广度优先遍历
+ *
  */
 public class TraverseTree {
     public static void main(String[] args) {

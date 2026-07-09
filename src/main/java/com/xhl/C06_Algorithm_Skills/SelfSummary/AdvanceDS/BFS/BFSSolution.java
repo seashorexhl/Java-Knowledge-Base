@@ -4,6 +4,7 @@ package com.xhl.C06_Algorithm_Skills.SelfSummary.AdvanceDS.BFS;
  * @Author: xhl
  * @Date: 2026-06-10 23:07
  * @Description: BFS 广度优先遍历算法 通用模板
+ *  队列 Queue
  */
 import java.util.Queue;
 import java.util.Set;

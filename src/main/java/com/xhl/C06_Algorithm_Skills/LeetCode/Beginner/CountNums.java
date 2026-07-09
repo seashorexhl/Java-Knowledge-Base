@@ -39,7 +39,7 @@ public class CountNums {
             // 输出换行符
             System.out.println();
         }
-
+        sc.close();
     }
     public static List<Integer> find_last_person(List<Integer> numbers, int M) {
         // 遍历numbers数组

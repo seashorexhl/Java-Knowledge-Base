@@ -9,7 +9,7 @@ import java.util.LinkedList;
  * @Author: xhl
  * @Date: 2026-06-15 05:19
  * @Description: 双端队列 Deque
- *
+ *  双端队列接口与实现
  */
 public class DequeLifeStyle {
 

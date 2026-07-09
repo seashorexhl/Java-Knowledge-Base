@@ -3,7 +3,7 @@ package com.xhl.C01_Java_Core.java17.SealedClasses;
 /**
  * @Author: xhl
  * @Date: 2026-04-06 00:14
- * @Description:
+ * @Description: 长方形 继承 形状
  */
 public final class Rectangle extends Shape {
     private double width;
