@@ -6,7 +6,7 @@ import java.util.Arrays;
  * @Author: xhl
  * @Date: 2026-06-08 05:40
  * @Description: 1.冒泡排序
- *  相邻元素两两比较，将较大的元素像气泡一样“浮”到数组末尾。每一轮确定一个最大值。
+ * 相邻元素两两比较，将较大的元素像气泡一样“浮”到数组末尾。每一轮确定一个最大值。
  */
 public class BubbleSort {
     public static void main(String[] args) {

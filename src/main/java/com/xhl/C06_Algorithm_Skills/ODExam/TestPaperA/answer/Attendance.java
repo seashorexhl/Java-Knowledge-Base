@@ -1,4 +1,4 @@
-package com.xhl.C08_Career_Growth.ODExam.TestPaperA.answer.A100;
+package com.xhl.C06_Algorithm_Skills.ODExam.TestPaperA.answer;
 
 import java.util.Scanner;
 
@@ -18,15 +18,15 @@ public class Attendance {
 
         // 遍历处理每个测试用例
         while (testCases-- > 0) {
-            // 读取并分割每个测试用例的考勤记录
-            String[] attendanceRecords = input.nextLine().trim().split(" ");
-            // 判断是否能获得考勤奖，并追加结果到results
-            results.append(canReceiveAward(attendanceRecords) ? "true" : "false");
-            // 如果还有剩余测试用例，追加一个空格分隔
-            if (testCases > 0) {
-                results.append(" ");
-            }
+        // 读取并分割每个测试用例的考勤记录
+        String[] attendanceRecords = input.nextLine().trim().split(" ");
+        // 判断是否能获得考勤奖，并追加结果到results
+        results.append(canReceiveAward(attendanceRecords) ? "true" : "false");
+        // 如果还有剩余测试用例，追加一个空格分隔
+        if (testCases > 0) {
+            results.append(" ");
         }
+    }
         // 输出所有测试用例的结果
         System.out.println(results.toString());
         // 关闭Scanner
