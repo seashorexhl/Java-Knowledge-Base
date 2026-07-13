@@ -97,18 +97,32 @@ public class flattenBSTree {
      */
     public void flatten3(TreeNode root) {
         TreeNode curr = root;
+        // 检查当前节点 curr 有没有左子树
+
         while (curr != null) {
+            // 【动作1：备份】先把左子树存起来，因为等下要修改指针，怕弄丢了
+
             if (curr.left != null) {
+                // 【动作2：找位置】去左子树里，找到“最右下角”的那个节点（也就是左子树的最末端）
+
                 TreeNode next = curr.left;
                 // 左子树中 找到最右边的节点
                 TreeNode pre = next;
                 while (pre.right != null) {
                     pre = pre.right;
                 }
+                // 【动作3：接尾巴】把 curr 原本的右子树，挂到左子树的最右下角上
+
                 pre.right = curr.right;
+                // 【动作4：断左链】左子树已经处理完了，把原来的左指针清空（符合题目要求）
+
                 curr.left = null;
+                // 【动作5：移主干】把刚刚备份的左子树（next），挪到 curr 的右边来
+
                 curr.right = next;
             }
+            // 【动作6：往下走】当前节点的左边已经被拍平到右边了，
+
             curr = curr.right;
         }
     }

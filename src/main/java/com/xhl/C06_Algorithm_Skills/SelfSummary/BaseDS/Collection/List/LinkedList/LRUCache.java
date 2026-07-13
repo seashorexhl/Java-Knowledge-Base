@@ -1,7 +1,7 @@
 package com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Collection.List.LinkedList;
 
-import java.util.Map;
 import java.util.HashMap;
+import java.util.Map;
 
 /**
  * @Author: xhl
@@ -10,7 +10,7 @@ import java.util.HashMap;
  *
  */
 public class LRUCache  {
-    private Map<Integer, DLinkedNode> cache = new HashMap<Integer, DLinkedNode>();
+    private Map<Integer, DLinkedNode> cache = new HashMap<>();
     private int size;
     private int capacity;
     private DLinkedNode head, tail;

@@ -15,12 +15,21 @@ public class partition {
     public  static void main(String[] args) {
         ListNode  head = new ListNode(1);
         head.next = new ListNode(4);
-        head.next.next = new ListNode(5);
+        head.next.next = new ListNode(3);
+        head.next.next.next = new ListNode(2);
+        head.next.next.next.next = new ListNode(5);
+        head.next.next.next.next.next = new ListNode(2);
+        int x= 3;
 
+        partition pt = new partition();
+        ListNode node = pt.partition(head, x);
+        while (node != null) {
+            System.out.println(node.val);
+            node = node.next;
+        }
     }
 
     //    方法一：模拟
-
     public ListNode partition(ListNode head, int x) {
         ListNode small = new ListNode(0);
         ListNode smallHead = small;
