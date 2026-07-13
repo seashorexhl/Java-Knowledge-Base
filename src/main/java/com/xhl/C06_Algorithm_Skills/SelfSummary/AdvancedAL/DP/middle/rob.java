@@ -13,7 +13,7 @@ public class rob {
         int[] nums = {2,7,9,3,1};
         rob r = new rob();
         int rob = r.rob(nums);
-        System.out.println(rob);
+        System.out.println("夜之内能够偷窃到的最高金额:"+rob);
     }
     // 方法一: 动态规划
     public int rob(int[] nums) {

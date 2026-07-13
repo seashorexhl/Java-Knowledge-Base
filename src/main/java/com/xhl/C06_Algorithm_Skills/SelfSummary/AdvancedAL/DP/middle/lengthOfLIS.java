@@ -8,7 +8,9 @@ package com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP.middle;
 public class lengthOfLIS {
     static void main() {
         int[] nums  = {10,9,2,5,3,7,101,18};
-
+        lengthOfLIS ll = new lengthOfLIS();
+        int lengthOfLIS = ll.lengthOfLIS(nums);
+        System.out.println(lengthOfLIS);
     }
     //方法一：动态规划
     public int lengthOfLIS(int[] nums) {
