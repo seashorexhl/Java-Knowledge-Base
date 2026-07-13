@@ -2,9 +2,6 @@ package com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Tree.BinaryTree.hard;
 
 import com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Tree.TreeNode;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * @Author: xhl
  * @Date: 2026-06-30 16:46
@@ -48,21 +45,5 @@ public class maxPathSum {
         // 返回节点的最大贡献值
         return Math.max(left, right) + node.val;
     }
-    /**
-     *  DFS 遍历
-     * */
-    //判断树中是否存在一条从根节点到叶子节点的路径，使得路径上所有节点的值加起来等于 target
-    public List<Integer> Traverse(TreeNode root, int target) {
-        List<Integer> res = new ArrayList<>();
-
-        if (root == null) {
-            return null;
-        }
-
-
-
-        return  res;
-    }
-
 
 }

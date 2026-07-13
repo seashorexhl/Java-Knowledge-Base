@@ -35,7 +35,7 @@ public class averageOfLevels {
         }
         return averages;
     }
-    // DFS
+    // DFS 方法
     public void dfs(TreeNode root,int level,List<Integer> counts,List<Double> sums){
         if(root == null){
             return;

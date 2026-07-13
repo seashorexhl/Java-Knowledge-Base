@@ -9,6 +9,7 @@ import java.util.*;
  * @Author: xhl
  * @Date: 2026-06-22 13:03
  * @Description:  114. 二 叉树展开为链表
+ *
  */
 public class flattenBSTree {
     static void main() {
@@ -23,9 +24,8 @@ public class flattenBSTree {
         fb.flatten(root);
         printTree(root);
     }
-    // 打印
     /**
-     * 辅助方法：按层序遍历打印 二叉树 （用于验证结果）
+     * 辅助方法：按BFS层序遍历打印 二叉树 （用于验证结果）
      */
     public static void printTree(TreeNode root) {
         if (root == null) return;
@@ -43,19 +43,22 @@ public class flattenBSTree {
         System.out.println();
     }
 
-    // 方法一：前序遍历
+    /**
+     * 方法一：前序遍历
+     */
     public void flatten(TreeNode root) {
         List<TreeNode> list = new ArrayList<>();
-        preTraverse(root,list);
+        preTraverse(root, list);
         int size = list.size();
         for (int i = 1; i < size; i++) {
-            TreeNode prev = list.get(i-1);
+            TreeNode prev = list.get(i - 1);
             TreeNode cur = list.get(i);
             prev.left = null;
             prev.right = cur;
         }
     }
 
+    // 前序遍历
     private void preTraverse(TreeNode root, List<TreeNode> list) {
         if (root != null) {
             list.add(root);
@@ -63,10 +66,13 @@ public class flattenBSTree {
             preTraverse(root.right, list);
         }
     }
-    // 方法二：前序遍历和展开同步进行
+
+    /**
+     * 方法二：前序遍历和展开同步进行
+     */
     public void flatten1(TreeNode root) {
-        List<TreeNode> list = new ArrayList<TreeNode>();
-        Deque<TreeNode> stack = new LinkedList<TreeNode>();
+        List<TreeNode> list = new ArrayList<>();
+        Deque<TreeNode> stack = new LinkedList<>();
         TreeNode node = root;
         while (node != null || !stack.isEmpty()) {
             while (node != null) {
@@ -85,6 +91,25 @@ public class flattenBSTree {
         }
     }
 
-
-
+    /**
+     * 方法三：寻找前驱节点
+     * 将二叉树原地展开为单链表,左子树的最右节点，恰好是右子树的前驱节点.
+     */
+    public void flatten3(TreeNode root) {
+        TreeNode curr = root;
+        while (curr != null) {
+            if (curr.left != null) {
+                TreeNode next = curr.left;
+                // 左子树中 找到最右边的节点
+                TreeNode pre = next;
+                while (pre.right != null) {
+                    pre = pre.right;
+                }
+                pre.right = curr.right;
+                curr.left = null;
+                curr.right = next;
+            }
+            curr = curr.right;
+        }
+    }
 }

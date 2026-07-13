@@ -28,4 +28,6 @@ public class removeElement {
         }
         return left;
     }
+    // 双指针
+
 }

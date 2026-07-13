@@ -7,6 +7,7 @@ package com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.SlideWindow;
  */
 public class SlideWindowFrameWork {
     static void main() {
+        String s = "Lxh is a good boy!";
 
     }
     /**

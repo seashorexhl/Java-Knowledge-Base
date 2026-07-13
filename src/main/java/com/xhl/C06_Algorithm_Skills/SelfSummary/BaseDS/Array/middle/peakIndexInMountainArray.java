@@ -25,7 +25,6 @@ public class peakIndexInMountainArray {
             }
         }
         return ans;
-
     }
     // 方法二： 二分查找
     public int peakIndexInMountainArray1(int[] arr) {

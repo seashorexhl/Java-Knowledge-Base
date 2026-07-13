@@ -7,11 +7,27 @@ package com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.Bitwise.Easy;
  */
 public class hammingWeight {
     static void main() {
+        int n =11;
 
     }
-
+    // 方法一：循环检查二进制位
     public int hammingWeight(int n) {
-
-        return Integer.bitCount(n);
+        int ret = 0;
+        for (int i = 0; i < 32; i++) {
+            if ((n & (1 << i)) != 0) {
+                ret++;
+            }
+        }
+        return ret;
     }
+    // 方法二：位运算优化
+    public int hammingWeight1(int n) {
+        int ret = 0;
+        while (n != 0) {
+            n &= n - 1;
+            ret++;
+        }
+        return ret;
+    }
+
 }

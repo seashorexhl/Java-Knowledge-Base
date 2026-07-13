@@ -12,7 +12,7 @@ public class LinkedListLifeStyle {
     public static void main(String[] args) {
         //初始化 一个 存储 Int 类型的双链表
         LinkedList<Integer> nums = new LinkedList<>();
-        // 初始化 一个存储String 类型的双链表
+        // 初始化 一个存储 String 类型的双链表
         LinkedList<String> Strings = new LinkedList<>();
         /*常用方法*/
         //判断链表是否为空
