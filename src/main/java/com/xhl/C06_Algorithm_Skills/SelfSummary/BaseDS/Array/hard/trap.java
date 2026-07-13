@@ -15,7 +15,10 @@ public class trap {
         System.out.println("下雨之后能接多少雨水:" + trap);
     }
 
-    // 方法一：动态规划 对于每一个位置，它能接的水量 = min(左侧最高柱子, 右侧最高柱子) - 当前柱子高度
+    /**
+     * 方法一：动态规划
+     * */
+    // 对于每一个位置，它能接的水量 = min(左侧最高柱子, 右侧最高柱子) - 当前柱子高度
     public static int trap(int[] height) {
         int n = height.length;
         // 边界处理：如果没有柱子，直接返回 0
@@ -45,7 +48,9 @@ public class trap {
         return ans;
     }
 
-    // 方法二：单调栈
+    /**
+     *  方法二：单调栈
+     * */
     public int trap1(int[] height) {
         int ans = 0;
         // 使用双端队列作为单调栈，里面存储的是柱子的【索引】
@@ -78,7 +83,9 @@ public class trap {
         }
         return ans;
     }
-    // 双指针
+    /**
+     *  方法三：双指针
+     * */
     public int trap2(int[] height) {
         int ans = 0;
         // 1. 初始化左右指针，分别指向数组的最左端和最右端

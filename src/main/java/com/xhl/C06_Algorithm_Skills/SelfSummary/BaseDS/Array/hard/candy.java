@@ -1,4 +1,4 @@
-package com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.String.hard;
+package com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Array.hard;
 
 /**
  * @Author: xhl

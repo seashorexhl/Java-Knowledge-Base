@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2cbcf97-3448-465b-8d35-77b683d9f8e0" name="更改" comment="changes develop">
+    <list default="true" id="e2cbcf97-3448-465b-8d35-77b683d9f8e0" name="更改" comment="changes develop 7.13">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/middle/deleteAndEarn.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/ODExam/A2026/easy100/May/calculateWriteIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/ODExam/A2026/easy100/May/calculateWriteIndex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/Graph/Vertex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvanceDS/Graph/Vertex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/LinkedList/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/LinkedList/LRUCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/LinkedList/middle/partition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/LinkedList/middle/partition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/LinkedList/middle/rotateRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/LinkedList/middle/rotateRight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/LinkedList/关于链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Collection/List/LinkedList/关于链表.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/flattenBSTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/flattenBSTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/DP/CoinChanges.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/DP/CoinChanges.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/DP/minFallingPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/DP/minFallingPathSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/middle/coinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/middle/coinChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Array/hard/trap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Array/hard/trap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/String/hard/candy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/BaseDS/Array/hard/candy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,6 +131,7 @@
     "应用程序.countNodesSolutions.executor": "Run",
     "应用程序.countTreeNodes.executor": "Run",
     "应用程序.decodeTLV.executor": "Debug",
+    "应用程序.deleteAndEarn.executor": "Run",
     "应用程序.findKthLargest.executor": "Run",
     "应用程序.findLHS.executor": "Run",
     "应用程序.findSubstring.executor": "Run",
@@ -204,7 +204,20 @@
       <recent name="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.easy" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.partition">
+  <component name="RunManager" selected="应用程序.CoinChanges">
+    <configuration name="CoinChanges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.LeetCode.LeetCode100.DP.CoinChanges" />
+      <module name="Java-Knowledge-Base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.LeetCode.LeetCode100.DP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="calculateWriteIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.ODExam.A2026.easy100.May.calculateWriteIndex" />
       <module name="Java-Knowledge-Base" />
@@ -218,12 +231,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="flattenBSTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Tree.middle.flattenBSTree" />
+    <configuration name="coinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP.middle.coinChange" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Tree.middle.*" />
+          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP.middle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,25 +244,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gameResult" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.ODExam.A2026.easy100.June.gameResult" />
+    <configuration name="deleteAndEarn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP.middle.deleteAndEarn" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.ODExam.A2026.easy100.June.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="max_depth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.ODExam.A2026.easy100.April.max_depth" />
-      <module name="Java-Knowledge-Base" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.ODExam.A2026.easy100.April.*" />
+          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP.middle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,11 +272,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.CoinChanges" />
+        <item itemvalue="应用程序.coinChange" />
+        <item itemvalue="应用程序.deleteAndEarn" />
         <item itemvalue="应用程序.partition" />
         <item itemvalue="应用程序.calculateWriteIndex" />
-        <item itemvalue="应用程序.flattenBSTree" />
-        <item itemvalue="应用程序.max_depth" />
-        <item itemvalue="应用程序.gameResult" />
       </list>
     </recent_temporary>
   </component>
@@ -480,13 +480,13 @@
       <option name="project" value="LOCAL" />
       <updated>1783901832057</updated>
     </task>
-    <task id="LOCAL-00025" summary="changes main">
+    <task id="LOCAL-00025" summary="changes develop 7.13">
       <option name="closed" value="true" />
-      <created>1783086966180</created>
+      <created>1783915871361</created>
       <option name="number" value="00025" />
       <option name="presentableId" value="LOCAL-00025" />
       <option name="project" value="LOCAL" />
-      <updated>1783086966180</updated>
+      <updated>1783915871361</updated>
     </task>
     <task id="LOCAL-00026" summary="changes main">
       <option name="closed" value="true" />
@@ -568,7 +568,7 @@
       <option name="project" value="LOCAL" />
       <updated>1783448698644</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -603,7 +603,8 @@
     <MESSAGE value="changes" />
     <MESSAGE value="changes main" />
     <MESSAGE value="changes develop" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes develop" />
+    <MESSAGE value="changes develop 7.13" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes develop 7.13" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>

@@ -18,7 +18,9 @@ public class minFallingPathSum {
         System.out.println("下降路径 最小和 为：");
         System.out.println(obj.minFallingPathSum(matrix));
     }
-    /* 动态规划方法 */
+    /**
+     *  方法一：动态规划
+     * */
     public int minFallingPathSum(int[][] matrix) {
         int n = matrix.length;
         int[][] dp = new int[n][n];
@@ -37,4 +39,5 @@ public class minFallingPathSum {
         }
         return Arrays.stream(dp[n - 1]).min().getAsInt();
     }
+
 }
