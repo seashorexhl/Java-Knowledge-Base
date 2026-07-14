@@ -8,7 +8,7 @@ package com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP;
  *  2.确定递推公式
  *  3.初始化 DP 数组
  *  4.确定遍历顺序
- *  5.举例推导DP 数组
+ *  5.举例推导 DP 数组
  */
 public class DynamicProgrammingTemplate {
 

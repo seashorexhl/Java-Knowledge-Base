@@ -10,7 +10,7 @@ public class lengthOfLIS {
         int[] nums  = {10,9,2,5,3,7,101,18};
         lengthOfLIS ll = new lengthOfLIS();
         int lengthOfLIS = ll.lengthOfLIS(nums);
-        System.out.println(lengthOfLIS);
+        System.out.println("最长递增子序列长度为： " + lengthOfLIS);
     }
     //方法一：动态规划
     public int lengthOfLIS(int[] nums) {
