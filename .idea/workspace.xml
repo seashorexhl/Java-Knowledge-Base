@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2cbcf97-3448-465b-8d35-77b683d9f8e0" name="更改" comment="changes develop 7.14">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/ODExam/A2026/easy100/April/mergeLogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/middle/change.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/DP/CoinChanges.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/DP/CoinChanges.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/DDP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/hard/numDistinct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/hard/numDistinct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/middle/coinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/middle/coinChange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/multiyDP/middle/minDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/multiyDP/middle/minDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/动态规划.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/动态规划.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,6 +165,7 @@
     "应用程序.maxEvents.executor": "Run",
     "应用程序.maxPathSum.executor": "Run",
     "应用程序.max_depth.executor": "Run",
+    "应用程序.mergeLogs.executor": "Run",
     "应用程序.mergeTwoLists.executor": "Run",
     "应用程序.midPostBuildTree.executor": "Run",
     "应用程序.minDepth.executor": "Run",
@@ -204,7 +212,20 @@
       <recent name="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.easy" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.minDistance">
+  <component name="RunManager" selected="应用程序.mergeLogs">
+    <configuration name="coinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP.middle.coinChange" />
+      <module name="Java-Knowledge-Base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP.middle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="lengthOfLIS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP.middle.lengthOfLIS" />
       <module name="Java-Knowledge-Base" />
@@ -231,6 +252,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="mergeLogs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.ODExam.A2026.easy100.April.mergeLogs" />
+      <module name="Java-Knowledge-Base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.ODExam.A2026.easy100.April.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="minDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP.multiyDP.middle.minDistance" />
       <module name="Java-Knowledge-Base" />
@@ -244,39 +278,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="numDistinct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP.hard.numDistinct" />
-      <module name="Java-Knowledge-Base" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP.hard.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="rob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP.middle.rob" />
-      <module name="Java-Knowledge-Base" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP.middle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.mergeLogs" />
+        <item itemvalue="应用程序.coinChange" />
         <item itemvalue="应用程序.minDistance" />
         <item itemvalue="应用程序.lengthOfLIS" />
         <item itemvalue="应用程序.maxEnvelopes" />
-        <item itemvalue="应用程序.numDistinct" />
-        <item itemvalue="应用程序.rob" />
       </list>
     </recent_temporary>
   </component>
@@ -512,13 +520,13 @@
       <option name="project" value="LOCAL" />
       <updated>1783988025702</updated>
     </task>
-    <task id="LOCAL-00029" summary="changes main">
+    <task id="LOCAL-00029" summary="changes develop 7.14">
       <option name="closed" value="true" />
-      <created>1783165184150</created>
+      <created>1783995481162</created>
       <option name="number" value="00029" />
       <option name="presentableId" value="LOCAL-00029" />
       <option name="project" value="LOCAL" />
-      <updated>1783165184150</updated>
+      <updated>1783995481162</updated>
     </task>
     <task id="LOCAL-00030" summary="changes main">
       <option name="closed" value="true" />
@@ -568,7 +576,7 @@
       <option name="project" value="LOCAL" />
       <updated>1783448698644</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

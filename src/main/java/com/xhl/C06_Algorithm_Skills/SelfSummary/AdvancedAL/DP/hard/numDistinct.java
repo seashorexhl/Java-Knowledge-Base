@@ -4,6 +4,7 @@ package com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP.hard;
  * @Author: xhl
  * @Date: 2026-07-14 05:21
  * @Description: 115. 不同的子序列
+ * 给你两个字符串 s 和 t ，统计并返回在 s 的 子序列 中 t 出现的个数。
  */
 public class numDistinct {
     static void main() {
