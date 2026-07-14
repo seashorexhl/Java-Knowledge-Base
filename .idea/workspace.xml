@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2cbcf97-3448-465b-8d35-77b683d9f8e0" name="更改" comment="changes develop 7.14">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/ODExam/A2026/easy100/April/mergeLogs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/middle/change.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/ODExam/A2026/easy100/April/BirthdayCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/ODExam/A2026/easy100/April/CommandProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/ODExam/A2026/easy100/April/extractFeature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/ODExam/A2026/easy100/April/ledController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/ODExam/A2026/easy100/April/sortResolutions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/ODExam/A2026/middle200/Apirl/findShortestPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/ODExam/A2026/middle200/Apirl/minAPCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/DP/CoinChanges.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/LeetCode/LeetCode100/DP/CoinChanges.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/DDP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/hard/numDistinct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/hard/numDistinct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/middle/coinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/middle/coinChange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/multiyDP/middle/minDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/multiyDP/middle/minDistance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/动态规划.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/SelfSummary/AdvancedAL/DP/动态规划.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/ODExam/A2026/easy100/April/mergeLogs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C06_Algorithm_Skills/ODExam/A2026/easy100/April/mergeLogs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,6 +137,7 @@
     "应用程序.deleteAndEarn.executor": "Run",
     "应用程序.findKthLargest.executor": "Run",
     "应用程序.findLHS.executor": "Run",
+    "应用程序.findShortestPath.executor": "Run",
     "应用程序.findSubstring.executor": "Run",
     "应用程序.flattenBSTree.executor": "Run",
     "应用程序.gameOfLife.executor": "Run",
@@ -154,6 +155,7 @@
     "应用程序.isValidSudoku.executor": "Run",
     "应用程序.kthSmallest.executor": "Run",
     "应用程序.lastStoneWeight.executor": "Run",
+    "应用程序.ledController.executor": "Run",
     "应用程序.lengthOfLIS.executor": "Run",
     "应用程序.lengthOfLongestSubstring.executor": "Run",
     "应用程序.levelTraverse.executor": "Run",
@@ -168,6 +170,7 @@
     "应用程序.mergeLogs.executor": "Run",
     "应用程序.mergeTwoLists.executor": "Run",
     "应用程序.midPostBuildTree.executor": "Run",
+    "应用程序.minAPCount.executor": "Run",
     "应用程序.minDepth.executor": "Run",
     "应用程序.minDistance.executor": "Run",
     "应用程序.minWindow.executor": "Run",
@@ -183,6 +186,7 @@
     "应用程序.rotateImage.executor": "Run",
     "应用程序.rx_processing.executor": "Run",
     "应用程序.setZeroes.executor": "Run",
+    "应用程序.sortResolutions.executor": "Run",
     "应用程序.taskScheduling.executor": "Run",
     "应用程序.trap.executor": "Run",
     "应用程序.validPath.executor": "Run",
@@ -212,13 +216,13 @@
       <recent name="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.easy" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.mergeLogs">
-    <configuration name="coinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP.middle.coinChange" />
+  <component name="RunManager" selected="应用程序.minAPCount">
+    <configuration name="findShortestPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.ODExam.A2026.middle200.Apirl.findShortestPath" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP.middle.*" />
+          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.ODExam.A2026.middle200.Apirl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,25 +230,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lengthOfLIS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP.middle.lengthOfLIS" />
+    <configuration name="ledController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.ODExam.A2026.easy100.April.ledController" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP.middle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="maxEnvelopes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP.hard.maxEnvelopes" />
-      <module name="Java-Knowledge-Base" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP.hard.*" />
+          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.ODExam.A2026.easy100.April.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -265,12 +256,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="minDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP.multiyDP.middle.minDistance" />
+    <configuration name="minAPCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.ODExam.A2026.middle200.Apirl.minAPCount" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.SelfSummary.AdvancedAL.DP.multiyDP.middle.*" />
+          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.ODExam.A2026.middle200.Apirl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sortResolutions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C06_Algorithm_Skills.ODExam.A2026.easy100.April.sortResolutions" />
+      <module name="Java-Knowledge-Base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xhl.C06_Algorithm_Skills.ODExam.A2026.easy100.April.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -280,11 +284,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.minAPCount" />
+        <item itemvalue="应用程序.sortResolutions" />
+        <item itemvalue="应用程序.ledController" />
+        <item itemvalue="应用程序.findShortestPath" />
         <item itemvalue="应用程序.mergeLogs" />
-        <item itemvalue="应用程序.coinChange" />
-        <item itemvalue="应用程序.minDistance" />
-        <item itemvalue="应用程序.lengthOfLIS" />
-        <item itemvalue="应用程序.maxEnvelopes" />
       </list>
     </recent_temporary>
   </component>
@@ -528,13 +532,13 @@
       <option name="project" value="LOCAL" />
       <updated>1783995481162</updated>
     </task>
-    <task id="LOCAL-00030" summary="changes main">
+    <task id="LOCAL-00030" summary="changes develop 7.14">
       <option name="closed" value="true" />
-      <created>1783165624641</created>
+      <created>1784003070392</created>
       <option name="number" value="00030" />
       <option name="presentableId" value="LOCAL-00030" />
       <option name="project" value="LOCAL" />
-      <updated>1783165624641</updated>
+      <updated>1784003070392</updated>
     </task>
     <task id="LOCAL-00031" summary="changes main">
       <option name="closed" value="true" />
@@ -576,7 +580,7 @@
       <option name="project" value="LOCAL" />
       <updated>1783448698644</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
