@@ -6,11 +6,14 @@ import java.util.stream.Collectors;
 /**
  * @Author: xhl
  * @Date: 2026-06-02 18:03
- * @Description: 数组的 基本操作 生命周期 创建、访问、修改、销毁 多维数组
+ * @Description: 数组的 基本操作
+ *  生命周期 创建、访问、修改、销毁 多维数组 常用 API
  */
 public class ArrayLifeStyle {
     public static void main(String[] args) {
-        /*初始化*/
+        /**
+         *  初始化
+         * */
         // 一维数组
         int[] array = new int[5];
         int[] nums = {10,20,30,40,50,60,70,80,90,100};
@@ -52,7 +55,9 @@ public class ArrayLifeStyle {
             array[i] = i+1; //赋值
         }
 
-        /*访问*/
+        /**
+         *  访问
+         * */
         // 1.正常 For循环 遍历
         System.out.println("打印 array 数组中的所有元素：");
         for (int i = 0; i < array.length; i++) {
@@ -67,14 +72,26 @@ public class ArrayLifeStyle {
         if(array.length == 0){
             return;
         }
-        /*销毁*/
+        /**
+         * 销毁
+         * */
             /*在 Java 中,数组的 内存管理 是由 虚拟机 进行的,当一个 数组不再被引用时,它会被自动标记为垃圾,
         JVM 会再适当的时候 收回其占用的内存,因此程序员 不需要手动销毁数组.*/
 
-        /*常用API*/
+        /**
+         * 常用API
+         * 1. 排序方法 (Sorting) sort() parallelSort()
+         * 2. 查找方法 (Searching)  binarySearch()
+         * 3. 比较与相等性判断 (Comparison) equals() compare()
+         * 4. 复制方法 (Copying)    copyOf() copyOfRange()
+         * 5. 填充方法 (Filling) fill()
+         * 6. 转换与输出方法 (Conversion & Output) toString() deepToString() asList()
+         * 7. 其他实用方法    stream() hashCode() setAll()
+         * */
         Arrays.sort(array);
         Arrays.stream(array).forEach(num -> System.out.print(num + " "));
         Arrays.stream(array).forEach(System.out::println);
+        Arrays.fill(array, array.length-1);
         int i = Arrays.binarySearch(array, 8);
         System.out.println("二分查找值为8的下标："+i);
 
