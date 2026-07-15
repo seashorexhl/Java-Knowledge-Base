@@ -1,0 +1,17 @@
+package com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.interval.middle;
+
+/**
+ * @Author: xhl
+ * @Date: 2026-07-02 06:28
+ * @Description: 452. 用最少数量的箭引爆气球
+ */
+public class findMinArrowShots {
+    static void main() {
+
+    }
+
+    public int findMinArrowShots(int[][] points) {
+
+        return 0;
+    }
+}

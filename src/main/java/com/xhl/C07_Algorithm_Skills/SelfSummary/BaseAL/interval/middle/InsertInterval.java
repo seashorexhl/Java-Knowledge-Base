@@ -1,0 +1,19 @@
+package com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.interval.middle;
+
+/**
+ * @Author: xhl
+ * @Date: 2026-07-02 06:26
+ * @Description: 57. 插入区间
+ */
+public class InsertInterval {
+    static void main() {
+
+    }
+
+    public int[][] insert(int[][] intervals, int[] newInterval) {
+
+
+        return null;
+    }
+
+}
