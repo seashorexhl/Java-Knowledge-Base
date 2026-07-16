@@ -5,7 +5,7 @@ import com.xhl.C04_Enterprise_Frameworks.NativeUtil.Util.JavaFileMerger;
 /**
  * @Author: xhl
  * @Date: 2026-07-15 10:21
- * @Description:    主程序中使用 工具类 ⭐⭐⭐ \C06_Algorithm_Skills\ODExam\A2026
+ * @Description:    主程序中使用 工具类 ⭐⭐⭐ \C07_Algorithm_Skills\ODExam\A2026
  */
 public class MainTest {
     public static void main(String[] args) {

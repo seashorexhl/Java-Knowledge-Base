@@ -9,6 +9,8 @@ import java.util.List;
  */
 public class targetProfitZone {
     static void main() {
+        String[] ops = {};
+        int[] vals = {};
 
     }
 

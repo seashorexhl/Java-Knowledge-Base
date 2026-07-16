@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * @Author: xhl
  * @Date: 2026-06-23 14:57
- * @Description: 状态机
+ * @Description: 状态机 StateMachine
  *  可以理解为 状态标志位
  *          或者 状态切换
  *          1.字符串匹配

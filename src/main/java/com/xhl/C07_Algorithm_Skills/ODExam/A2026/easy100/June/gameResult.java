@@ -15,6 +15,7 @@ public class gameResult {
         head.next.next = new ListNode(7);
         head.next.next.next = new ListNode(13);
         head.next.next.next.next = new ListNode(8);
+
         System.out.println(gameResult(head));
     }
 

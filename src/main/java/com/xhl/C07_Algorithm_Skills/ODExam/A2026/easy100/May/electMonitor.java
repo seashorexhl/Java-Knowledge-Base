@@ -6,6 +6,7 @@ import java.util.*;
  * @Author: xhl
  * @Date: 2026-07-10 03:07
  * @Description: 小学生班长选举-100分
+ * 字符串处理 + 哈希表  + 集合操作
  */
 public class electMonitor {
     static void main(String[] args) {
