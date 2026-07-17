@@ -42,10 +42,12 @@ public class containsNearbyDuplicate {
         // 循环结束都没有返回 true，说明没有重复元素
         return false;
     }
-    // 方法一：哈希表
+    /**
+     * 方法一：哈希表
+     * */
 
     public boolean containsNearbyDuplicate(int[] nums, int k) {
-        Map<Integer, Integer> map = new HashMap<Integer, Integer>();
+        Map<Integer, Integer> map = new HashMap<>();
         int length = nums.length;
         for (int i = 0; i < length; i++) {
             int num = nums[i];
@@ -55,9 +57,10 @@ public class containsNearbyDuplicate {
             map.put(num, i);
         }
         return false;
-
     }
-    // 方法二：滑动窗口
+    /**
+     * 方法二：滑动窗口
+     */
     public boolean containsNearbyDuplicate1(int[] nums, int k) {
         Set<Integer> set = new HashSet<>();
         int length = nums.length;

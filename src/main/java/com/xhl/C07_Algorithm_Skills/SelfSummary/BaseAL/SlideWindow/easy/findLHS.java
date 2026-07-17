@@ -9,6 +9,7 @@ import java.util.Map;
  * @Author: xhl
  * @Date: 2026-07-06 22:09
  * @Description: 594. 最长和谐子序列
+ *
  */
 public class findLHS {
     static void main() {

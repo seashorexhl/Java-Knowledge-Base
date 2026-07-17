@@ -4,6 +4,8 @@ package com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.SlideWindow.easy;
  * @Author: xhl
  * @Date: 2026-07-07 01:07
  * @Description:   1763. 最长的美好子字符串
+ *  1.枚举 + 位运算
+ *  2.滑动窗口
  */
 public class longestNiceSubstring {
     // 方法一：枚举
@@ -19,7 +21,7 @@ public class longestNiceSubstring {
         String s1 = lns.longestNiceSubstring(s);
         System.out.println("最长的美好子字符串：" + s1);
     }
-
+    // 滑动窗口
     public String longestNiceSubstring(String s) {
         int n = s.length();
         int maxPos = 0;
@@ -41,7 +43,7 @@ public class longestNiceSubstring {
         }
         return s.substring(maxPos, maxPos + maxLen);
     }
-
+    //
     public String longestNiceSubstring1(String s) {
         this.maxPos = 0;
         this.maxLen = 0;
@@ -95,7 +97,7 @@ public class longestNiceSubstring {
         }
         return s.substring(maxPos1, maxPos1 + maxLen1);
     }
-
+    // 检查
     public void check(String s, int typeNum) {
         int[] lowerCnt = new int[26];
         int[] upperCnt = new int[26];
