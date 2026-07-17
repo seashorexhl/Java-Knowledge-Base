@@ -27,7 +27,9 @@ public class minimumSumSubarray {
         int i = ms.minimumSumSubarray(nums, l, r);
         System.out.println("Minimum Sum Subarray is: " + i);
     }
-    //    方法一：暴力枚举
+    /**
+     * 方法一：暴力枚举
+     * */
     public int minimumSumSubarray(List<Integer> nums, int l, int r) {
         Integer[] a = nums.toArray(Integer[]::new);
         int ans = Integer.MAX_VALUE;
@@ -42,7 +44,9 @@ public class minimumSumSubarray {
         }
         return ans == Integer.MAX_VALUE ? -1 : ans;
     }
-    //    方法二：前缀和+定长滑窗+有序集合
+    /**
+     *  方法二：前缀和+定长滑窗+有序集合
+     * */
     public int minimumSumSubarray1(List<Integer> nums, int l, int r) {
         Integer[] a = nums.toArray(Integer[]::new);
         int ans = Integer.MAX_VALUE;
