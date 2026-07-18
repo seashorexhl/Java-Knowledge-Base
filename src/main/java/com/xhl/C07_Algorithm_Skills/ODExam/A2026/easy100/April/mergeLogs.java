@@ -7,7 +7,7 @@ import java.util.List;
  * @Author: xhl
  * @Date: 2026-07-14 11:56
  * @Description: API请求日志去重分析 100分
- *  滑动窗口 + 单次遍历分组
+ *  双指针  + 单次遍历分组统计
  *  将连续相同的日志路径进行合并，并计算该路径下的平均响应时间。
  */
 public class mergeLogs {

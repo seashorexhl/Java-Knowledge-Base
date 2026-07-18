@@ -15,6 +15,7 @@ import java.util.*;
  * 输出格式：输出所有合法的构建顺序，模块之间用空格分隔，按字典序排序。
  */
 public class buildOrder {
+
     static void main(String[] args) {
         String[] modules = {"user","auth","database","api"};
         String[][] dependencies = {{"user","auth"},{"auth","database"},{"api","database"}};

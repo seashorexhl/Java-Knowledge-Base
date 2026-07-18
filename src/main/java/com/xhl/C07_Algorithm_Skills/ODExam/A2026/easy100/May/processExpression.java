@@ -7,7 +7,7 @@ import java.util.List;
  * @Author: xhl
  * @Date: 2026-07-10 03:05
  * @Description: 简单表达式运算-100分
- *  进制转换、位运算、数组越界、异常处理
+ *  进制转换 + 位运算 + 数组越界 + 异常处理
  */
 public class processExpression {
     // 主测试方法

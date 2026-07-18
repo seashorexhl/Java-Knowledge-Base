@@ -11,6 +11,7 @@ import java.util.*;
  * 所有空地？如果不能按条件完成覆盖，请返回﹣1
  */
 public class minAPCount {
+
     public  static void main(String[] args) {
         // n*m的网格 # 墙壁 . 空地
         char[][] grid= {{'.','.','.','#','.','.','.'},

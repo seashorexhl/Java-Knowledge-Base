@@ -6,6 +6,7 @@ package com.xhl.C07_Algorithm_Skills.ODExam.A2026.middle200.May;
  * @Description: 充电桩最优布局规划-200分
  */
 public class maxChargeSum {
+
     static void main(String[] args) {
 
     }

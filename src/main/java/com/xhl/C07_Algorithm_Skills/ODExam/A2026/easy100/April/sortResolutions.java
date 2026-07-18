@@ -8,7 +8,9 @@ import java.util.List;
 /**
  * @Author: xhl
  * @Date: 2026-07-14 13:53
- * @Description: 完善核心代码编程--分辨率排序--100分
+ * @Description: 完善核心代码编程--分辨率排序--100分 ⭐⭐⭐
+ *  多级自定义排序 + 面向对象的数据封装  + 字符串解析与数据清洗
+ *
  */
 public class sortResolutions {
     static void main(String[] args) {
@@ -17,7 +19,7 @@ public class sortResolutions {
         String sorted = sr.sortResolutions(input);
         System.out.println(sorted);
     }
-    //
+    // 多级自定义排序 + 面向对象的数据封装  + 字符串解析与数据清洗
     public String sortResolutions(String input) {
         String[] resolutions = input.split(" ");
         List<Resolution> list = new ArrayList<>();
@@ -54,7 +56,7 @@ public class sortResolutions {
         else if (w >= 1920 && h >= 1080) return 2;
         else return 1;
     }
-
+    // 面向对象的数据封装
     static class Resolution {
         String resStr;
         int clarity;

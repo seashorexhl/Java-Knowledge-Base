@@ -7,6 +7,7 @@ import java.util.List;
  * @Author: xhl
  * @Date: 2026-07-10 03:10
  * @Description: 链表数字游戏-100分
+ *  链表 遍历 与 状态模拟 + 字符串处理与数字特征提取
  */
 public class gameResult {
     static void main(String[] args) {

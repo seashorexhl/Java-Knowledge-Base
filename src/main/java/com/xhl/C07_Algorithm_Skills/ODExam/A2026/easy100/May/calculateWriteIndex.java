@@ -4,6 +4,7 @@ package com.xhl.C07_Algorithm_Skills.ODExam.A2026.easy100.May;
  * @Author: xhl
  * @Date: 2026-07-10 02:35
  * @Description: 循环内存存取计算-100分
+ *
  * 计算把数据包写入环形缓冲区后，write_index的位置。如果在写入新的数据时，环形缓冲区放不下，则返回-1。
  */
 public class calculateWriteIndex {

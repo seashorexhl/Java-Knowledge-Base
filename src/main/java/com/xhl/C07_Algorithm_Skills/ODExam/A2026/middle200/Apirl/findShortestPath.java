@@ -10,6 +10,7 @@ import java.util.Queue;
  * @Description: 题目三 直捣黄龙 200分 ⭐⭐⭐
  */
 public class findShortestPath {
+
     static void main(String[] args) {
         int n = 3;
         // 哨兵放在左上角和右下角，不影响中间的最短路径

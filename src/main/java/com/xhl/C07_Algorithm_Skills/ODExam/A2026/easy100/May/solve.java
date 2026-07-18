@@ -9,7 +9,7 @@ import java.util.Stack;
  * @Author: xhl
  * @Date: 2026-07-10 02:53
  * @Description:    数据包优先级窗口查找-100分 ⭐⭐⭐⭐⭐
- * 滑动窗口
+ *  单调栈 + 滑动窗口 + 字符串解析
  * 题目描述：给定n个数据包，每个数据包包含id和priority。维护一个大小为k的滑动窗口，
  * 对于每个窗口，找出窗口内每个数据包右边第一个 priority 更高的数据包 id。
  */
@@ -27,7 +27,9 @@ public class solve {
         List<List<Integer>> res = sol.solve(n, k, packets);
         System.out.println(res.toString());
     }
-    // 单调栈
+    /**
+     * 单调栈
+     * */
     public List<List<Integer>> solve(int n, int k, List<String> packets) {
         List<List<Integer>> result = new ArrayList<>();
         if(k>n){

@@ -8,6 +8,7 @@ import java.util.List;
  * @Description: 社交网络相同爱好好友查询-200分
  */
 public class queryFriends {
+
     static void main(String[] args) {
 
     }

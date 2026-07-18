@@ -6,6 +6,7 @@ package com.xhl.C07_Algorithm_Skills.ODExam.A2026.middle200.May;
  * @Description: 多模态版本的最优调度-200分
  */
 public class maxAccuracy {
+
     static void main() {
 
     }

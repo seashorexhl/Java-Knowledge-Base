@@ -4,7 +4,7 @@ package com.xhl.C07_Algorithm_Skills.ODExam.A2026.easy100.May;
  * @Author: xhl
  * @Date: 2026-07-10 02:50
  * @Description:    美观的灯笼-100分
- *
+ *  数组遍历 + 滑动窗口
  */
 /**
  * 输入
@@ -19,7 +19,7 @@ public class findLongestNonIncreasing {
         findLongestNonIncreasing(arr);
 
     }
-    //
+    // 数组遍历 + 滑动窗口
     public static void findLongestNonIncreasing(int[] arr) {
         int maxLen = 0;
         int start = 0;

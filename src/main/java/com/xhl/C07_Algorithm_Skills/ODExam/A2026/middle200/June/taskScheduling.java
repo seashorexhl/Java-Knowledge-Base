@@ -16,6 +16,7 @@ import java.util.Scanner;
      * 时间复杂度：𝑂(2𝑛×𝑛)，其中 𝑛为任务数，2𝑛≈106对于 𝑛=20可接受。
      * */
 public class taskScheduling {
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         // 1. 第一行单独读取 n

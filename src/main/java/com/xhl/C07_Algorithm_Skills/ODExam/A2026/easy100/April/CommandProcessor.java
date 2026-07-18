@@ -7,6 +7,7 @@ import java.util.Map;
  * @Author: xhl
  * @Date: 2026-07-14 13:32
  * @Description: 题目二 配置操作失败数量统计 100分
+ *
  * 题目描述：模拟一个系统的命令行 配置，包含添加、修改、删除三项操作，详情如下：
  * 添加操作命令：add_rule rule_id=1 rule_index=18
  * 修改操作命令：mod_rule rule_id=1 rule_index=100

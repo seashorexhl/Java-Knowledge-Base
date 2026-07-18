@@ -9,6 +9,7 @@ import java.util.Queue;
  * @Author: xhl
  * @Date: 2026-07-10 03:11
  * @Description:    企业内部门的最大层级-100分
+ *  层序遍历（BFS）
  */
 public class max_depth {
     static void main(String[] args) {
@@ -16,7 +17,7 @@ public class max_depth {
         max_depth md = new max_depth();
         System.out.println("企业内部门的最大层级: "+ md.max_depth(arr));
     }
-
+    //
     public int max_depth(String[] arr) {
         if (arr.length == 0 || "#".equals(arr[0])) return 0;
         int n = arr.length;

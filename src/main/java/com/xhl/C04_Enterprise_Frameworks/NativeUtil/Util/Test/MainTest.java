@@ -9,7 +9,7 @@ import com.xhl.C04_Enterprise_Frameworks.NativeUtil.Util.JavaFileMerger;
  */
 public class MainTest {
     public static void main(String[] args) {
-        String sourceDir = "C:\\Users\\sanya\\Desktop\\Java-Knowledge-Base\\src\\main\\java\\com\\xhl";
+        String sourceDir = "C:\\Users\\sanya\\Desktop\\Java-Knowledge-Base\\src\\main\\java\\com\\xhl\\C07_Algorithm_Skills\\ODExam\\A2026";
         String targetFile = "C:\\Users\\sanya\\Desktop\\Contents.txt";
 
         // 调用工具类 (默认按路径排序)

@@ -7,6 +7,7 @@ import java.util.List;
  * @Author: xhl
  * @Date: 2026-07-10 03:02
  * @Description: 等距二进制判断-100分
+ *  位运算 + 字符串计解析
  * 题目描述：对于一个二进制数，我们定义相邻两个1之间0的数量为他们两个之间的距离，如1001011，相邻两个1之间的距离从左到右分别为2、1、0。
  * 现在如果一个整数转化为二进制数满足如下条件：
  * 1）包含不少于3个1
@@ -22,7 +23,7 @@ public class isEquidistantBinary {
         System.out.println("等距二进制，请输出它的距离:"+equidistantBinary);
 
     }
-    //
+    // 位运算 + 字符串解析
     public static int isEquidistantBinary(int n) {
         if (n == 0) {
             return -1;

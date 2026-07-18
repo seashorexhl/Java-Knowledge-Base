@@ -6,8 +6,8 @@ import java.util.*;
  * @Author: xhl
  * @Date: 2026-07-10 02:32
  * @Description: 物流仓库货物调配优化-100分
+ * 贪心策略 + 优先队列（堆）
  * 计算在不超过k次操作的情况下，仓库处理完所有货物的最短总处理时间。
- * 贪心策略
  */
 public class minProcessingTime {
     static void main(String[] args) {

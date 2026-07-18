@@ -7,6 +7,7 @@ import java.util.stream.Collectors;
  * @Author: xhl
  * @Date: 2026-07-10 05:11
  * @Description:    0607核心代码编程-内网IP有效性校验-100分
+ *  字符串解析 + 正则表达式 +  复杂对象的自定义排序
  */
 public class IPSorter {
 
@@ -60,7 +61,7 @@ public class IPSorter {
         }
         return "10".equals(segs[0]);
     }
-
+    // 排序
     public static List<String> sort(List<String> ips) {
         List<IPRecord> records = new ArrayList<>();
         for (String ip : ips) {
@@ -77,7 +78,7 @@ public class IPSorter {
                 .map(r -> r.ip)
                 .collect(java.util.stream.Collectors.toList());
     }
-
+    //  实现 Comparable 接口 重写了 compareTo 方法
     static class IPRecord implements Comparable<IPRecord> {
         int p2, p3, p4;
         String ip;

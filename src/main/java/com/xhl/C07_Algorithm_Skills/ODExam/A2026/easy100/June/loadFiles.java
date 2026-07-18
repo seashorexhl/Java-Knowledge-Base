@@ -6,6 +6,7 @@ import java.util.*;
  * @Author: xhl
  * @Date: 2026-07-10 05:08
  * @Description:    0603-返回所有加载的AGENTS.md文件ID列表-100分
+ *  建图（邻接表） + 图的遍历（BFS/DFS） + 去重防环
  */
 public class loadFiles {
     static void main() {
@@ -17,8 +18,9 @@ public class loadFiles {
 
         System.out.println(list);
     }
-
-    //
+    /**
+     * 方法一：线性 遍历 法
+     * */
     public List<Integer> loadFiles1(int[] idList, int[] parentList, int loadId) {
         List<Integer> res = new ArrayList<>();
 
@@ -33,7 +35,9 @@ public class loadFiles {
         Collections.sort(res);
         return res;
     }
-
+    /**
+     *  建图 + BFS 遍历法
+     * */
     // 多叉树（或图）的向下遍历  数据结构构建、BFS 模板代码的编写、以及边界条件（防环）的处理
     public List<Integer> loadFiles(int[] idList, int[] parentList, int loadId) {
         // 1. 【数据预处理】构建父子关系映射表（空间换时间）

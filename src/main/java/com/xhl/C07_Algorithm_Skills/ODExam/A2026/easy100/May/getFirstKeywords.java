@@ -6,7 +6,7 @@ import java.util.*;
  * @Author: xhl
  * @Date: 2026-07-10 01:31
  * @Description: 匹配命令行前缀的关键字-100分
- *
+ *  字符串的 前缀匹配 + 状态边界处理以及集合的排序去重
  */
 
 public class getFirstKeywords {

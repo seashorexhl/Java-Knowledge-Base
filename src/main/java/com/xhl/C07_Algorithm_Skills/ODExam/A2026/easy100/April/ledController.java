@@ -4,6 +4,7 @@ package com.xhl.C07_Algorithm_Skills.ODExam.A2026.easy100.April;
  * @Author: xhl
  * @Date: 2026-07-14 13:48
  * @Description: 完善核心代码编程-8位LED控制器-100分
+ *  位运算 + 字符串解析与指令集模拟 + 状态压缩
  * 输入：L0L1L2D1
  * 输出：5
  */
@@ -14,7 +15,7 @@ public class ledController {
         int led = lc.ledController(instructions);
         System.out.println(led);
     }
-
+    // 位运算与 掩码操作 + 状态压缩思想
     public int ledController(String instructions) {
         int state = 0;
         for (int i = 0; i < instructions.length(); i += 2) {

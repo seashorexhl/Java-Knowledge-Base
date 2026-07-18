@@ -8,6 +8,7 @@ import java.util.List;
  * @Description:    寻找孤立水站-200分
  */
 public class findIsolatedStations {
+
     static void main(String[] args) {
 
     }

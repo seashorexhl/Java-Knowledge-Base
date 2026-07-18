@@ -4,6 +4,7 @@ package com.xhl.C07_Algorithm_Skills.ODExam.A2026.easy100.May;
  * @Author: xhl
  * @Date: 2026-07-10 03:08
  * @Description: Skill执行链完整性检测-100分
+ *  动态规划
  *  在给定的一个技能类型数组中，找到最长的、符合特定规则的连续子数组的长度。
  *  规则总结:
  * 子链必须以基础类型（0）开头

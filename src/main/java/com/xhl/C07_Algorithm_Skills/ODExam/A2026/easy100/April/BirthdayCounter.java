@@ -7,6 +7,7 @@ import java.util.Map;
  * @Author: xhl
  * @Date: 2026-07-14 12:42
  * @Description: 题目一: 准备生日礼物 100分
+ *  字符串处理 + 哈希表
  */
 public class BirthdayCounter {
     static void main(String[] args) {

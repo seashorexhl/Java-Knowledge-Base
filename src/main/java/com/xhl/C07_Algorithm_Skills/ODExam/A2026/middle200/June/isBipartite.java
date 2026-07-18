@@ -9,6 +9,7 @@ import java.util.List;
  * @Description: 0603-资源隔离分组校验-200分
  */
 public class isBipartite {
+
     static void main() {
          int n = 2;
          List<int[]> list = new ArrayList<>();

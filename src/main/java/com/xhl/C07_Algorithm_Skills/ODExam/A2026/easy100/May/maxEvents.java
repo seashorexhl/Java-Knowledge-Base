@@ -7,6 +7,7 @@ import java.util.Scanner;
  * @Author: xhl
  * @Date: 2026-07-10 01:06
  * @Description: 最大化游戏试玩资格分发-100分
+ *  贪心算法
  */
 public class maxEvents {
 
