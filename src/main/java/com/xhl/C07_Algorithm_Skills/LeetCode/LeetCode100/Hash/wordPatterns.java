@@ -7,6 +7,7 @@ import java.util.Map;
  * @Author: xhl
  * @Date: 2026-06-09 16:16
  * @Description: 单词规律
+ *  哈希表
  */
 public class wordPatterns {
 
