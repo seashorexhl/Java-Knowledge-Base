@@ -19,7 +19,9 @@ public class dailyTemperatures {
         System.out.println(Arrays.toString(ints));
 
     }
-    // 方法一：暴力
+    /**
+     *  方法一：暴力
+     * */
     public int[] dailyTemperatures(int[] temperatures) {
         int length = temperatures.length;
         int[] ans = new int[length];
@@ -40,7 +42,9 @@ public class dailyTemperatures {
         return ans;
 
     }
-    //  方法二：单调栈
+    /**
+     *  方法二：单调栈
+     * */
     public int[] dailyTemperatures1(int[] temperatures) {
         int length = temperatures.length;
         int[] ans = new int[length];
