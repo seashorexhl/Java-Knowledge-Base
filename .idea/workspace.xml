@@ -5,14 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2cbcf97-3448-465b-8d35-77b683d9f8e0" name="更改" comment="changes develop 7.18 晚上">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/Queue/baseQueue/PriorityQueueSolve.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/DP/DynamicPrograming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/DP/DynamicPrograming.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/MonotonicStack/单调栈.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/MonotonicStack/单调栈.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/TwoPointers/easy/isPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/TwoPointers/easy/isPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/TwoPointers/easy/isSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/TwoPointers/easy/isSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/TwoPointers/middle/maxArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/TwoPointers/middle/maxArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/TwoPointers/middle/threeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/TwoPointers/middle/threeSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/TwoPointers/middle/twoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/TwoPointers/middle/twoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/DP/动态规划.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/DP/动态规划.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/常用 算法.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/常用 算法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/Heap/middle/findKthLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/Heap/middle/findKthLargest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/Heap/middle/kSmallestPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/Heap/middle/kSmallestPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/Queue/advancedQueue/TransferQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/Queue/advancedQueue/TransferQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/Queue/baseQueue/PriorityQueue.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,6 +220,7 @@
     "应用程序.taskScheduling.executor": "Run",
     "应用程序.threeSum.executor": "Run",
     "应用程序.trap.executor": "Run",
+    "应用程序.twoSum.executor": "Run",
     "应用程序.validPath.executor": "Run",
     "应用程序.wordBreak.executor": "Run",
     "应用程序.zigzagLevelOrder.executor": "Debug"
@@ -651,7 +652,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784372495407</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="changes develop 7.18 晚上">
+      <option name="closed" value="true" />
+      <created>1784375641812</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1784375641812</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

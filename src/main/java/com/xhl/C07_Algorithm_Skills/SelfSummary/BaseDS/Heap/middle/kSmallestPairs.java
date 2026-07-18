@@ -8,6 +8,7 @@ import java.util.PriorityQueue;
  * @Author: xhl
  * @Date: 2026-07-05 06:46
  * @Description:    373. 查找和最小的 K 对数字
+ *  PriorityQueue 优先级 队列
  */
 public class kSmallestPairs {
     static void main() {
@@ -38,7 +39,9 @@ public class kSmallestPairs {
         return ans;
     }
 
-    // 方法二：二分查找
+    /**
+     *  方法二：二分查找
+     * */
     public List<List<Integer>> kSmallestPairs1(int[] nums1, int[] nums2, int k) {
         int m = nums1.length;
         int n = nums2.length;

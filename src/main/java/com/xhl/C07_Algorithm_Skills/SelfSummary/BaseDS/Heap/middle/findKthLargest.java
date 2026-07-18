@@ -4,6 +4,7 @@ package com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.Heap.middle;
  * @Author: xhl
  * @Date: 2026-07-05 06:46
  * @Description:    215. 数组中的第K个最大元素
+ *   优先级 队列/堆
  */
 public class findKthLargest {
     static void main() {
@@ -18,7 +19,9 @@ public class findKthLargest {
         int kthLargest1 = fk.findKthLargest1(nums, k);
         System.out.println("数组中的第K个最大元素:"+kthLargest1);
     }
-    // 方法一：基于快速排序的选择方法
+    /**
+     *     方法一：基于快速排序的选择方法
+     * */
     int quickselect(int[] nums, int l, int r, int k) {
         if (l == r) return nums[k];
         int x = nums[l], i = l - 1, j = r + 1;
@@ -39,7 +42,9 @@ public class findKthLargest {
         return quickselect(_nums, 0, n - 1, n - k);
     }
 
-    // 方法二：基于堆排序的选择方法
+    /**
+     *  方法二：基于堆排序的选择方法
+     * */
     public int findKthLargest1(int[] nums, int k) {
         int heapSize = nums.length;
         buildMaxHeap(nums, heapSize);
@@ -70,7 +75,7 @@ public class findKthLargest {
             maxHeapify(a, largest, heapSize);
         }
     }
-
+    // 交换
     public void swap(int[] a, int i, int j) {
         int temp = a[i];
         a[i] = a[j];
