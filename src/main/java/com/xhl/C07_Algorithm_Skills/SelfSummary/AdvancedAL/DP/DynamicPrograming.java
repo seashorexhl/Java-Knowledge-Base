@@ -3,7 +3,8 @@ package com.xhl.C07_Algorithm_Skills.SelfSummary.AdvancedAL.DP;
 /**
  * @Author: xhl
  * @Date: 2026-07-18 18:31
- * @Description: 动态规划
+ * @Description: 动态规划 模板
+ *
  */
 public class DynamicPrograming {
     static void main(String[] args) {

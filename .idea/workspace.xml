@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2cbcf97-3448-465b-8d35-77b683d9f8e0" name="更改" comment="changes develop 7.18 下午">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/DP/DynamicPrograming.java" afterDir="false" />
+    <list default="true" id="e2cbcf97-3448-465b-8d35-77b683d9f8e0" name="更改" comment="changes develop 7.18 晚上">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/DP/动态规划.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/DP/动态规划.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/MonotonicStack/MonotonicStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/MonotonicStack/MonotonicStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/DP/DynamicPrograming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/DP/DynamicPrograming.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/MonotonicStack/单调栈.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/MonotonicStack/单调栈.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/TwoPointers/easy/isPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/TwoPointers/easy/isPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/TwoPointers/easy/isSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/TwoPointers/easy/isSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/TwoPointers/middle/maxArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/TwoPointers/middle/maxArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/TwoPointers/middle/threeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/TwoPointers/middle/threeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/TwoPointers/middle/twoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/TwoPointers/middle/twoSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,154 +75,156 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Maven.Java-Knowledge-Base [clean].executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Notification.DisplayName-DoNotAsk-untracked.files.overwritten&quot;: &quot;未跟踪的文件会阻止合并&quot;,
-    &quot;Notification.DoNotAsk-untracked.files.overwritten&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
-    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;1&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/sanya/Desktop/Java-Knowledge-Base&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;应用程序.Attendance.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.BSPostorderTraversal.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.BSPreorderTraversal.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.CanMakeSquare.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ClimbingStairs.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.CoinChanges.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.CommandFileLister.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.CommandProcessor.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.GetAllFile.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.GetAllFileSolution.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.HappyMatchGame.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.HuaweiOD_MinSteps.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.HuffmanTree.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.IPSorter.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.IPV4ToInt.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.LevelTraverse.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.LinkedList.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Main.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.MainTest.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.MaxDepthSolution.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.NativeFileLister.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Product.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.RecursiveJavaFileLister.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.RestoreNumericalSequence.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.StringElimination.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.TraverseTree.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.TreeBuilder.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.WriteJavaFilesContentsToTxt.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.WriteJavaFilesToTxt.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.averageOfLevels.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.buildOrder.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.calculateElectricityCost.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.calculateWriteIndex.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.canMakeSquare.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.candy.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.classify_ip.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.climbStairs.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.climbingStairs.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.coinChange.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.com.xhl.C01_Java_Core.EffectiveJava.C01Introduction.example.Main.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.com.xhl.C03_Enterprise_Frameworks.NativeUtil.Util.Test.MainTest.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Stack.MonotonicStack.portTrafficStatistics.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.connect.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.containsNearbyDuplicate.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.convert.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.correctEssays.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.countGoodSubstrings.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.countNodesSolutions.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.countSchemes.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.countTreeNodes.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.countWays.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.decodeTLV.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.deleteAndEarn.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.electMonitor.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.findKthLargest.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.findLHS.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.findMaxDivisibleNumber.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.findShortestPath.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.findSubstring.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.flattenBSTree.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.gameOfLife.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.gameResult.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.getFirstKeywords.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.getFlowRatesStat.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.getMinimumDifference.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.hasPathSum.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.hasPathSumSolution.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.intToRoman.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.invertTree.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.isEquidistantBinary.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.isPalindrome.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.isSymmetric.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.isSymmetricSolution.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.isValidSudoku.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.kthSmallest.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.lastStoneWeight.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.ledController.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.lengthOfLIS.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.lengthOfLongestSubstring.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.levelTraverse.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.loadFiles.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.longestNiceSubstring.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.longestValidSubchain.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.matrixReshape.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.maxDepth.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.maxEnvelopes.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.maxEvents.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.maxPathSum.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.max_depth.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.mergeLogs.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.mergeTwoLists.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.midPostBuildTree.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.minAPCount.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.minDepth.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.minDistance.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.minProcessingTime.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.minWindow.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.numDistinct.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.partition.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.portTrafficStatistics.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.preMiddleBuildTree.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.prePostBuildTree.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.processExpression.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.processInstructions.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.processTasks.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.regexReplace.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.removeElement.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.rob.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.rotateImage.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.rx_processing.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.setZeroes.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.solve.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.sortResolutions.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.targetProfitZone.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.taskScheduling.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.trap.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.validPath.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.wordBreak.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.zigzagLevelOrder.executor&quot;: &quot;Debug&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Maven.Java-Knowledge-Base [clean].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Notification.DisplayName-DoNotAsk-untracked.files.overwritten": "未跟踪的文件会阻止合并",
+    "Notification.DoNotAsk-untracked.files.overwritten": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "develop",
+    "git.auto.fetch.suggestion.counter": "1",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/sanya/Desktop/Java-Knowledge-Base",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "应用程序.Attendance.executor": "Run",
+    "应用程序.BSPostorderTraversal.executor": "Run",
+    "应用程序.BSPreorderTraversal.executor": "Run",
+    "应用程序.CanMakeSquare.executor": "Run",
+    "应用程序.ClimbingStairs.executor": "Run",
+    "应用程序.CoinChanges.executor": "Run",
+    "应用程序.CommandFileLister.executor": "Run",
+    "应用程序.CommandProcessor.executor": "Run",
+    "应用程序.GetAllFile.executor": "Run",
+    "应用程序.GetAllFileSolution.executor": "Run",
+    "应用程序.HappyMatchGame.executor": "Run",
+    "应用程序.HuaweiOD_MinSteps.executor": "Run",
+    "应用程序.HuffmanTree.executor": "Run",
+    "应用程序.IPSorter.executor": "Run",
+    "应用程序.IPV4ToInt.executor": "Run",
+    "应用程序.LevelTraverse.executor": "Run",
+    "应用程序.LinkedList.executor": "Run",
+    "应用程序.Main.executor": "Run",
+    "应用程序.MainTest.executor": "Run",
+    "应用程序.MaxDepthSolution.executor": "Run",
+    "应用程序.NativeFileLister.executor": "Run",
+    "应用程序.Product.executor": "Run",
+    "应用程序.RecursiveJavaFileLister.executor": "Run",
+    "应用程序.RestoreNumericalSequence.executor": "Run",
+    "应用程序.StringElimination.executor": "Run",
+    "应用程序.TraverseTree.executor": "Run",
+    "应用程序.TreeBuilder.executor": "Run",
+    "应用程序.WriteJavaFilesContentsToTxt.executor": "Run",
+    "应用程序.WriteJavaFilesToTxt.executor": "Run",
+    "应用程序.averageOfLevels.executor": "Run",
+    "应用程序.buildOrder.executor": "Run",
+    "应用程序.calculateElectricityCost.executor": "Run",
+    "应用程序.calculateWriteIndex.executor": "Debug",
+    "应用程序.canMakeSquare.executor": "Run",
+    "应用程序.candy.executor": "Run",
+    "应用程序.classify_ip.executor": "Run",
+    "应用程序.climbStairs.executor": "Run",
+    "应用程序.climbingStairs.executor": "Run",
+    "应用程序.coinChange.executor": "Run",
+    "应用程序.com.xhl.C01_Java_Core.EffectiveJava.C01Introduction.example.Main.executor": "Run",
+    "应用程序.com.xhl.C03_Enterprise_Frameworks.NativeUtil.Util.Test.MainTest.executor": "Run",
+    "应用程序.com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Stack.MonotonicStack.portTrafficStatistics.executor": "Run",
+    "应用程序.connect.executor": "Run",
+    "应用程序.containsNearbyDuplicate.executor": "Run",
+    "应用程序.convert.executor": "Run",
+    "应用程序.correctEssays.executor": "Run",
+    "应用程序.countGoodSubstrings.executor": "Run",
+    "应用程序.countNodesSolutions.executor": "Run",
+    "应用程序.countSchemes.executor": "Run",
+    "应用程序.countTreeNodes.executor": "Run",
+    "应用程序.countWays.executor": "Run",
+    "应用程序.decodeTLV.executor": "Debug",
+    "应用程序.deleteAndEarn.executor": "Run",
+    "应用程序.electMonitor.executor": "Run",
+    "应用程序.findKthLargest.executor": "Run",
+    "应用程序.findLHS.executor": "Run",
+    "应用程序.findMaxDivisibleNumber.executor": "Run",
+    "应用程序.findShortestPath.executor": "Run",
+    "应用程序.findSubstring.executor": "Run",
+    "应用程序.flattenBSTree.executor": "Run",
+    "应用程序.gameOfLife.executor": "Run",
+    "应用程序.gameResult.executor": "Run",
+    "应用程序.getFirstKeywords.executor": "Run",
+    "应用程序.getFlowRatesStat.executor": "Run",
+    "应用程序.getMinimumDifference.executor": "Run",
+    "应用程序.hasPathSum.executor": "Run",
+    "应用程序.hasPathSumSolution.executor": "Run",
+    "应用程序.intToRoman.executor": "Run",
+    "应用程序.invertTree.executor": "Run",
+    "应用程序.isEquidistantBinary.executor": "Run",
+    "应用程序.isPalindrome.executor": "Run",
+    "应用程序.isSubsequence.executor": "Run",
+    "应用程序.isSymmetric.executor": "Debug",
+    "应用程序.isSymmetricSolution.executor": "Run",
+    "应用程序.isValidSudoku.executor": "Run",
+    "应用程序.kthSmallest.executor": "Run",
+    "应用程序.lastStoneWeight.executor": "Run",
+    "应用程序.ledController.executor": "Run",
+    "应用程序.lengthOfLIS.executor": "Run",
+    "应用程序.lengthOfLongestSubstring.executor": "Run",
+    "应用程序.levelTraverse.executor": "Run",
+    "应用程序.loadFiles.executor": "Run",
+    "应用程序.longestNiceSubstring.executor": "Run",
+    "应用程序.longestValidSubchain.executor": "Run",
+    "应用程序.matrixReshape.executor": "Run",
+    "应用程序.maxDepth.executor": "Run",
+    "应用程序.maxEnvelopes.executor": "Debug",
+    "应用程序.maxEvents.executor": "Run",
+    "应用程序.maxPathSum.executor": "Run",
+    "应用程序.max_depth.executor": "Run",
+    "应用程序.mergeLogs.executor": "Run",
+    "应用程序.mergeTwoLists.executor": "Run",
+    "应用程序.midPostBuildTree.executor": "Run",
+    "应用程序.minAPCount.executor": "Run",
+    "应用程序.minDepth.executor": "Run",
+    "应用程序.minDistance.executor": "Run",
+    "应用程序.minProcessingTime.executor": "Run",
+    "应用程序.minWindow.executor": "Run",
+    "应用程序.numDistinct.executor": "Run",
+    "应用程序.partition.executor": "Run",
+    "应用程序.portTrafficStatistics.executor": "Run",
+    "应用程序.preMiddleBuildTree.executor": "Run",
+    "应用程序.prePostBuildTree.executor": "Run",
+    "应用程序.processExpression.executor": "Run",
+    "应用程序.processInstructions.executor": "Run",
+    "应用程序.processTasks.executor": "Run",
+    "应用程序.regexReplace.executor": "Run",
+    "应用程序.removeElement.executor": "Run",
+    "应用程序.rob.executor": "Run",
+    "应用程序.rotateImage.executor": "Run",
+    "应用程序.rx_processing.executor": "Run",
+    "应用程序.setZeroes.executor": "Run",
+    "应用程序.solve.executor": "Run",
+    "应用程序.sortResolutions.executor": "Run",
+    "应用程序.targetProfitZone.executor": "Run",
+    "应用程序.taskScheduling.executor": "Run",
+    "应用程序.threeSum.executor": "Run",
+    "应用程序.trap.executor": "Run",
+    "应用程序.validPath.executor": "Run",
+    "应用程序.wordBreak.executor": "Run",
+    "应用程序.zigzagLevelOrder.executor": "Debug"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.xhl.C01_Java_Core.EffectiveJava.C02CreatingDestroyingObjects" />
@@ -241,20 +247,7 @@
       <recent name="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.easy" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Main">
-    <configuration name="CommandProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.ODExam.A2026.easy100.April.CommandProcessor" />
-      <module name="Java-Knowledge-Base" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.ODExam.A2026.easy100.April.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.twoSum">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xhl.Main" />
       <module name="Java-Knowledge-Base" />
@@ -281,12 +274,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="countGoodSubstrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.SlideWindow.easy.countGoodSubstrings" />
+    <configuration name="isSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.easy.isSubsequence" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.SlideWindow.easy.*" />
+          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,12 +287,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="targetProfitZone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.ODExam.A2026.easy100.June.targetProfitZone" />
+    <configuration name="threeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.middle.threeSum" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.ODExam.A2026.easy100.June.*" />
+          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.middle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="twoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.middle.twoSum" />
+      <module name="Java-Knowledge-Base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.middle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -309,11 +315,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.twoSum" />
+        <item itemvalue="应用程序.threeSum" />
+        <item itemvalue="应用程序.isSubsequence" />
         <item itemvalue="应用程序.Main" />
         <item itemvalue="应用程序.MainTest" />
-        <item itemvalue="应用程序.targetProfitZone" />
-        <item itemvalue="应用程序.countGoodSubstrings" />
-        <item itemvalue="应用程序.CommandProcessor" />
       </list>
     </recent_temporary>
   </component>
@@ -637,7 +643,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784370627172</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="changes develop 7.18 晚上">
+      <option name="closed" value="true" />
+      <created>1784372495407</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1784372495407</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -679,7 +693,8 @@
     <MESSAGE value="changes develop 7.17 晚上" />
     <MESSAGE value="changes develop 7.18 中午" />
     <MESSAGE value="changes develop 7.18 下午" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes develop 7.18 下午" />
+    <MESSAGE value="changes develop 7.18 晚上" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes develop 7.18 晚上" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>

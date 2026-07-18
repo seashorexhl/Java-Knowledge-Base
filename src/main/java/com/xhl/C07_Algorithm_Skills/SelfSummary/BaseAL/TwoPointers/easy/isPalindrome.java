@@ -6,6 +6,7 @@ import java.util.Scanner;
  * @Author: xhl
  * @Date: 2026-06-23 20:52
  * @Description: 125. 验证回文串
+ *  双指针
  */
 public class isPalindrome {
     static void main() {
@@ -15,7 +16,9 @@ public class isPalindrome {
         boolean palindrome = is.isPalindrome(s);
         System.out.printf("是否是 回文串？"+palindrome);
     }
-    //方法一：筛选 + 判断
+    /**
+     *  方法一：筛选 + 判断
+     * */
     public boolean isPalindrome(String s) {
         StringBuffer sb = new StringBuffer();
         int len = s.length();
@@ -28,7 +31,9 @@ public class isPalindrome {
         StringBuffer snew = new StringBuffer(sb).reverse();
         return sb.toString().equals(snew.toString());
     }
-    // 方法二 ：双指针
+    /**
+     *  方法二 ：双指针
+     * */
     public boolean isPalindrome1(String s) {
         StringBuffer sgood = new StringBuffer();
         int length = s.length();
@@ -49,7 +54,9 @@ public class isPalindrome {
         }
         return true;
     }
-    //方法二：在原字符串上直接判断
+    /**
+     * 方法二：在原字符串上直接判断
+     * */
     public boolean isPalindrome2(String s) {
         int n = s.length();
         int left = 0, right = n - 1;
