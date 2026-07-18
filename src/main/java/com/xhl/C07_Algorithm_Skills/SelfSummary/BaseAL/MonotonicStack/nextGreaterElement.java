@@ -1,4 +1,4 @@
-package com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.Stack.MonotonicStack;
+package com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.MonotonicStack;
 
 import java.util.*;
 

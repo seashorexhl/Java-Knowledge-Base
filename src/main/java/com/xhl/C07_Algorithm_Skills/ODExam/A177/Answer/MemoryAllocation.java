@@ -1,4 +1,4 @@
-package com.xhl.C09_Career_Growth.ODExam.A177.Answer;
+package com.xhl.C07_Algorithm_Skills.ODExam.A177.Answer;
 
 import java.util.ArrayList;
 import java.util.Arrays;

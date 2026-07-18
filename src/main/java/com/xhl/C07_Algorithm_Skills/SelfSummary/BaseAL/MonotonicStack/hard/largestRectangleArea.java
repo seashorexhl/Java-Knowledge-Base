@@ -1,4 +1,4 @@
-package com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.Stack.MonotonicStack.hard;
+package com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.MonotonicStack.hard;
 
 import java.util.ArrayDeque;
 import java.util.Arrays;

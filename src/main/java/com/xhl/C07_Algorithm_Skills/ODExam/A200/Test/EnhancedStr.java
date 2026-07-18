@@ -1,4 +1,4 @@
-package com.xhl.C09_Career_Growth.ODExam.A200.Test;
+package com.xhl.C07_Algorithm_Skills.ODExam.A200.Test;
 
 import java.util.Scanner;
 import java.util.regex.Matcher;
