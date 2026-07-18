@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2cbcf97-3448-465b-8d35-77b683d9f8e0" name="更改" comment="changes develop 7.18 中午">
+    <list default="true" id="e2cbcf97-3448-465b-8d35-77b683d9f8e0" name="更改" comment="changes develop 7.18 下午">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/DP/DynamicPrograming.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/DP/动态规划.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/DP/动态规划.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/MonotonicStack/MonotonicStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/MonotonicStack/MonotonicStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/MonotonicStack/middle/dailyTemperatures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/MonotonicStack/middle/dailyTemperatures.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C09_Career_Growth/MustMaster.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C09_Career_Growth/MustMaster.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -629,7 +629,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784369416618</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="changes develop 7.18 下午">
+      <option name="closed" value="true" />
+      <created>1784370627172</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1784370627172</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -670,7 +678,8 @@
     <MESSAGE value="changes develop 7.17" />
     <MESSAGE value="changes develop 7.17 晚上" />
     <MESSAGE value="changes develop 7.18 中午" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes develop 7.18 中午" />
+    <MESSAGE value="changes develop 7.18 下午" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes develop 7.18 下午" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>

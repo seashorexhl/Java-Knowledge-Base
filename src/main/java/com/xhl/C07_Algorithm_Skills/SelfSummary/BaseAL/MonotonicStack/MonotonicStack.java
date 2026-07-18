@@ -8,6 +8,7 @@ import java.util.Deque;
  * @Author: xhl
  * @Date: 2026-07-18 17:42
  * @Description: Monotonic Stack 单调栈 模板
+ * 栈底到栈顶的元素值，永远是严格递增或递减的
  */
 public class MonotonicStack {
     static void main(String[] args) {
@@ -15,6 +16,7 @@ public class MonotonicStack {
     }
     /**
      *  单调栈 模板
+     *  以寻找右侧第一个更大元素为例
      * */
     public static int[] monotonicStack(int[] arr) {
         int n = arr.length;
