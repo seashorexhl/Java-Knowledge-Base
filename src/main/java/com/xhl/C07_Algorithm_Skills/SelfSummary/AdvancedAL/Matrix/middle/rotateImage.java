@@ -19,8 +19,9 @@ public class rotateImage {
            System.out.println(" ");
        }
     }
-    //    方法一：使用辅助数组
-
+    /**
+     *  方法一：使用辅助数组
+     * */
     public void rotate(int[][] matrix) {
         int n = matrix.length;
         int[][] matrix_new = new int[n][n];
@@ -36,7 +37,9 @@ public class rotateImage {
         }
 
     }
-    //    方法二：原地旋转
+    /**
+     *  方法二：原地旋转
+     * */
     public void rotate1(int[][] matrix) {
         int n = matrix.length;
         for (int i = 0; i < n / 2; ++i) {
@@ -49,7 +52,9 @@ public class rotateImage {
             }
         }
     }
-    //    方法三：用翻转代替旋转
+    /**
+     *  方法三：用翻转代替旋转
+     * */
     public void rotate2(int[][] matrix) {
         int n = matrix.length;
         // 水平翻转

@@ -3,7 +3,8 @@ package com.xhl.C07_Algorithm_Skills.SelfSummary.AdvancedAL.UnionFind;
 /**
  * @Author: xhl
  * @Date: 2026-06-15 22:41
- * @Description: 并查集解决方案
+ * @Description: 并查集解决方案 模板
+ *
  */
 /**
  * 扩展建议

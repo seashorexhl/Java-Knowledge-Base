@@ -18,6 +18,9 @@ public class subsets {
         return res;
     }
 
+    /**
+     *  DFS
+     * */
     void dfs(int start, int[] nums) {
         res.add(new ArrayList<>(path)); // 每个节点都加入结果
         for (int i = start; i < nums.length; i++) {

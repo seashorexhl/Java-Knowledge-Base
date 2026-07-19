@@ -21,7 +21,9 @@ public class gameOfLife {
             System.out.println(" ");
         }
     }
-    // 方法一：复制原数组进行模拟
+    /**
+     *  方法一：复制原数组进行模拟
+     * */
     public void gameOfLife(int[][] board) {
         int[] neighbors = {0, 1, -1};
 
@@ -71,7 +73,9 @@ public class gameOfLife {
             }
         }
     }
-    //方法二：使用额外的状态
+    /**
+     *  方法二：使用额外的状态
+     * */
     public void gameOfLife1(int[][] board) {
         int[] neighbors = {0, 1, -1};
 

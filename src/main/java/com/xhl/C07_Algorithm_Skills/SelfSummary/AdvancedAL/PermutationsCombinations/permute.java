@@ -7,6 +7,7 @@ import java.util.List;
  * @Author: xhl
  * @Date: 2026-06-23 09:58
  * @Description: 全排列 一、全排列（无重复元素）
+ *
  */
 public class permute {
     List<List<Integer>> res = new ArrayList<>();
@@ -18,7 +19,9 @@ public class permute {
         dfs(nums);
         return res;
     }
-
+    /**
+     *  DFS
+     * */
     void dfs(int[] nums) {
         if (path.size() == nums.length) {
             res.add(new ArrayList<>(path)); // 必须new副本！

@@ -17,7 +17,7 @@ public class spiralOrder {
         System.out.println(so.spiralOrder(matrix).toString());
     }
     /**
-     *  方法一：模拟 模拟+访问标记
+     *  方法一： 模拟+访问标记
      * */
     public List<Integer> spiralOrder(int[][] matrix) {
         // 初始化结果列表
@@ -36,7 +36,6 @@ public class spiralOrder {
 
         int total = rows * columns;
         // 当前所在的行和列，从左上角 (0, 0) 开始
-
         int row = 0, column = 0;
         // 定义四个方向的偏移量，按顺时针顺序：右、下、左、上
         // {0, 1} 表示列+1(向右)，{1, 0} 表示行+1(向下)，以此类推
@@ -73,7 +72,7 @@ public class spiralOrder {
     public List<Integer> spiralOrder1(int[][] matrix) {
         // 初始化结果列表
 
-        List<Integer> order = new ArrayList<Integer>();
+        List<Integer> order = new ArrayList<>();
         // 边界条件检查：矩阵为空或行/列长度为0时，直接返回空列表
 
         if (matrix == null || matrix.length == 0 || matrix[0].length == 0) {

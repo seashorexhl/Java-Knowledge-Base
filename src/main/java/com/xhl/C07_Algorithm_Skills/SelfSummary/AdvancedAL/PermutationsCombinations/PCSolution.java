@@ -7,14 +7,16 @@ import java.util.List;
  * @Author: xhl
  * @Date: 2026-06-23 09:56
  * @Description: backtrack 排列组合 模板
- * 核心在于掌握DFS回溯模板和去重剪枝
+ *  核心在于掌握DFS回溯模板和去重剪枝
  */
 public class PCSolution {
     static void main() {
 
     }
 
-    // 组合模板（最通用）
+    /**
+     *  组合模板（最通用）
+     * */
     void backtrack(int start, int[] nums, int target) {
         List<List<Integer>> res = new ArrayList<>();
 

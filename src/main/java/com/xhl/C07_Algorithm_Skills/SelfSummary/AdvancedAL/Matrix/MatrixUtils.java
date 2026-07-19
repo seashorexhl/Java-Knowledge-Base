@@ -10,12 +10,16 @@ import java.util.Arrays;
 
 public class MatrixUtils {
 
-    // 1. 创建矩阵
+    /**
+     *  1. 创建矩阵
+     * */
     public static double[][] createMatrix(int rows, int cols) {
         return new double[rows][cols];
     }
 
-    // 2. 矩阵加法
+    /**
+     *  2. 矩阵加法
+     * */
     public static double[][] add(double[][] A, double[][] B) {
         checkDimensions(A, B, true); // true 表示检查加法维度
         int rows = A.length, cols = A[0].length;
@@ -26,7 +30,9 @@ public class MatrixUtils {
         return C;
     }
 
-    // 3. 矩阵乘法
+    /**
+     *  3. 矩阵乘法
+     * */
     public static double[][] multiply(double[][] A, double[][] B) {
         if (A[0].length != B.length) {
             throw new IllegalArgumentException("矩阵A的列数必须等于矩阵B的行数！");
@@ -40,7 +46,9 @@ public class MatrixUtils {
         return C;
     }
 
-    // 4. 矩阵转置
+    /**
+     *  4. 矩阵转置
+     * */
     public static double[][] transpose(double[][] A) {
         int rows = A.length, cols = A[0].length;
         double[][] T = createMatrix(cols, rows);
@@ -50,7 +58,9 @@ public class MatrixUtils {
         return T;
     }
 
-    // 5. 矩阵求逆 (基于高斯-约旦消元法)
+    /**
+     *  5. 矩阵求逆 (基于高斯-约旦消元法)
+     * */
     public static double[][] inverse(double[][] A) {
         int n = A.length;
         if (n != A[0].length) throw new IllegalArgumentException("只有方阵才能求逆！");
@@ -93,7 +103,9 @@ public class MatrixUtils {
         return inv;
     }
 
-    // 6. 打印矩阵 (方便调试)
+    /**
+     * 6. 打印矩阵 (方便调试)
+     * */
     public static void print(double[][] M) {
         for (double[] row : M) {
             System.out.println(Arrays.toString(row));

@@ -18,7 +18,7 @@ public class combinationSum {
         dfs(0, candidates, target);
         return res;
     }
-
+    // DFS 深度优先遍历
     void dfs(int start, int[] candidates, int target) {
         if (target == 0) {
             res.add(new ArrayList<>(path));

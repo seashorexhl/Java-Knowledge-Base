@@ -8,6 +8,7 @@ import java.util.List;
  * @Author: xhl
  * @Date: 2026-06-23 09:58
  * @Description: 二、全排列（有重复元素 → 去重）
+ *  DFS
  */
 public class permuteUnique {
     List<List<Integer>> res = new ArrayList<>();
@@ -20,7 +21,9 @@ public class permuteUnique {
         dfs(nums);
         return res;
     }
-
+    /**
+     *  深度优先遍历
+     * */
     void dfs(int[] nums) {
         if (path.size() == nums.length) {
             res.add(new ArrayList<>(path));

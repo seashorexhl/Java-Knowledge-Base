@@ -18,8 +18,10 @@ public class setZeroes {
             System.out.println(" ");
         }
     }
-    // 方法一：使用标记数组
 
+    /**
+     * 方法一：使用标记数组
+     * */
     public void setZeroes(int[][] matrix) {
         int m = matrix.length, n = matrix[0].length;
         boolean[] row = new boolean[m];
@@ -39,7 +41,9 @@ public class setZeroes {
             }
         }
     }
-    //方法二：使用两个标记变量
+    /**
+     *  方法二：使用两个标记变量
+     * */
     public void setZeroes1(int[][] matrix) {
         int m = matrix.length, n = matrix[0].length;
         boolean flagCol0 = false, flagRow0 = false;
@@ -79,7 +83,9 @@ public class setZeroes {
         }
     }
 
-    // 方法三：使用一个标记变量
+    /**
+     *  方法三：使用一个标记变量
+     * */
     public void setZeroes3(int[][] matrix) {
         int m = matrix.length, n = matrix[0].length;
         boolean flagCol0 = false;

@@ -3,7 +3,8 @@ package com.xhl.C07_Algorithm_Skills.SelfSummary.AdvancedAL.UnionFind;
 /**
  * @Author: xhl
  * @Date: 2026-06-15 22:37
- * @Description: 并查集 UnionFind
+ * @Description: 并查集 UnionFind 模板
+ *
  */
 /**
  * 并查集（Union-Find）数据结构通用实现
@@ -11,6 +12,7 @@ package com.xhl.C07_Algorithm_Skills.SelfSummary.AdvancedAL.UnionFind;
  */
 
 public class UnionFind {
+
     private int[] parent;  // 父节点数组
     private int[] rank;    // 秩数组（用于按秩合并）
     private int count;     // 连通分量数量
