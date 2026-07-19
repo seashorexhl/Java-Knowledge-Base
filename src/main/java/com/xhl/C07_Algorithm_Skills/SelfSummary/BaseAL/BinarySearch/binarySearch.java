@@ -4,6 +4,7 @@ package com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.BinarySearch;
  * @Author: xhl
  * @Date: 2026-06-10 05:57
  * @Description: 二分查找模板
+ *
  */
 public class binarySearch {
     public static void main(String[] args) {
@@ -20,6 +21,7 @@ public class binarySearch {
 
         int left = 0, right = nums.length - 1; // 闭区间 [left, right]
         while (left <= right) {                // 循环条件为 <=
+            // int mid = (left + right) >>> 1;
             int mid = left + (right - left) / 2; // 防止溢出计算中点
 
             if (nums[mid] == target) {

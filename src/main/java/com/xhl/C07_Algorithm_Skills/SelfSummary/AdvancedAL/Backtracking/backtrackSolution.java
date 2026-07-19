@@ -11,7 +11,7 @@ import java.util.List;
  *     2.确定终止条件
  *     3.确定单层搜索逻辑
  */
-public class backtrackTemplate {
+public class backtrackSolution {
 
     // 1. 结果集：存放所有符合条件的最终答案
     List<List<Integer>> result = new ArrayList<>();

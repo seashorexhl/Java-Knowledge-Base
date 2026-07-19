@@ -6,6 +6,7 @@ package com.xhl.C07_Algorithm_Skills.SelfSummary.AdvanceDS.BFS;
  * @Description: BFS 广度优先遍历算法 通用模板
  *  队列 Queue
  */
+
 import java.util.Queue;
 import java.util.Set;
 
@@ -18,6 +19,33 @@ public class BFSSolution {
 
 
     }
+    /**
+     *  BFS 模板：
+     * */
+    /*public static  void bfs(int[] nums, int target){
+        Queue<Node> queue = new LinkedList<>();
+        Set<Node> visited = new HashSet<>(); // 防止走回头路
+        queue.offer(startNode);
+        visited.add(startNode);
+        int steps = 0; // 记录步数或层级
+
+        while (!queue.isEmpty()) {
+            int size = queue.size(); // 当前层级的节点数量
+            for (int i = 0; i < size; i++) {
+                Node curr = queue.poll();
+                // 1. 处理当前节点：判断是否到达终点
+                if (curr == target) return steps;
+                // 2. 扩展：将当前节点的所有未访问邻居加入队列
+                for (Node neighbor : curr.getNeighbors()) {
+                    if (!visited.contains(neighbor)) {
+                        queue.offer(neighbor);
+                        visited.add(neighbor);
+                    }
+                }
+            }
+            steps++; // 一层遍历完，步数+1
+        }
+    }*/
     /**
      * 计算 从起点 start 到 终点 target 的最近距离
      * */

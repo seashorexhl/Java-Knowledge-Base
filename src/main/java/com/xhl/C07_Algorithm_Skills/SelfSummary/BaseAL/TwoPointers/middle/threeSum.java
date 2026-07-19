@@ -62,4 +62,8 @@ public class threeSum {
         return ans;
 
     }
+    /**
+     *  暴力
+     * */
+
 }

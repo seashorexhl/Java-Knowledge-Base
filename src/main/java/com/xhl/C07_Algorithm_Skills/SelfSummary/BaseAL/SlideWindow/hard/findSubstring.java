@@ -9,6 +9,7 @@ import java.util.Map;
  * @Author: xhl
  * @Date: 2026-07-02 06:15
  * @Description:  30. 串联所有单词的子串
+ *  滑动窗口
  */
 public class findSubstring {
     static void main() {
@@ -18,7 +19,9 @@ public class findSubstring {
         List<Integer> list = fs.findSubstring(s, words);
         System.out.println(list.toString());
     }
-    // 方法一：滑动窗口
+    /**
+     * 方法一：滑动窗口
+     * */
     public List<Integer> findSubstring(String s, String[] words) {
         List<Integer> res = new ArrayList<>();
         int m = words.length, n = words[0].length(), ls = s.length();

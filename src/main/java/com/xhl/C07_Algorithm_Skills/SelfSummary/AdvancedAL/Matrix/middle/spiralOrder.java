@@ -16,8 +16,9 @@ public class spiralOrder {
 
         System.out.println(so.spiralOrder(matrix).toString());
     }
-    //    方法一：模拟 模拟+访问标记
-
+    /**
+     *  方法一：模拟 模拟+访问标记
+     * */
     public List<Integer> spiralOrder(int[][] matrix) {
         // 初始化结果列表
         List<Integer> order = new ArrayList<Integer>();
@@ -66,7 +67,9 @@ public class spiralOrder {
         return order;
 
     }
-    // 方法二：按层模拟
+    /**
+     * 方法二：按层模拟
+     * */
     public List<Integer> spiralOrder1(int[][] matrix) {
         // 初始化结果列表
 
