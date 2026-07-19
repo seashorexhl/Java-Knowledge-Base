@@ -10,6 +10,7 @@ import java.util.List;
  * @Author: xhl
  * @Date: 2026-06-05 23:19
  * @Description: 二 叉 搜索树 的前序遍历
+ *  root left right
  */
 public class BSPreorderTraversal {
     public static void main(String[] args) {

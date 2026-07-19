@@ -10,7 +10,7 @@ import java.util.List;
  * @Author: xhl
  * @Date: 2026-06-06 00:06
  * @Description: 二叉树 的 后序遍历
- *
+ *  left right root
  */
 public class BSPostorderTraversal {
     public static void main(String[] args) {

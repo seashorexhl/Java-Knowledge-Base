@@ -9,6 +9,7 @@ public class containsNearbyDuplicate {
     public static void main(String[] args) {
 
     }
+
     public boolean containsNearbyDuplicate(int[] nums, int k) {
 
 

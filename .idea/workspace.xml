@@ -4,14 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2cbcf97-3448-465b-8d35-77b683d9f8e0" name="更改" comment="changes develop 7.18 晚上">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/Queue/baseQueue/ArrayDequeSolution.java" afterDir="false" />
+    <list default="true" id="e2cbcf97-3448-465b-8d35-77b683d9f8e0" name="更改" comment="changes develop 7.18 晚">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/LeetCode/LeetCode100/interval/关于区间.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/LeetCode/LeetCode100/Hash/twoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/LeetCode/LeetCode100/Hash/twoSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/LeetCode/LeetCode100/Hash/wordPatterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/LeetCode/LeetCode100/Hash/wordPatterns.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/TwoPointers/middle/maxArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/TwoPointers/middle/maxArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/Queue/baseQueue/ArrayDeque.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/Queue/baseQueue/DelayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/Queue/baseQueue/DelayQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/Queue/baseQueue/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/Queue/baseQueue/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/LeetCode/LeetCode100/LinkedList/containsNearbyDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/LeetCode/LeetCode100/LinkedList/containsNearbyDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/BinarySearch/easy/searchInsert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/BinarySearch/easy/searchInsert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/BinarySearch/middle/searchMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/BinarySearch/middle/searchMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/BSPostorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/BSPostorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/BSPreorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/BSPreorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/BSTreeTraverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/BSTreeTraverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/middle/zigzagLevelOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/middle/zigzagLevelOrder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,6 +216,8 @@
     "应用程序.rob.executor": "Run",
     "应用程序.rotateImage.executor": "Run",
     "应用程序.rx_processing.executor": "Run",
+    "应用程序.searchInsert.executor": "Run",
+    "应用程序.searchMatrix.executor": "Run",
     "应用程序.setZeroes.executor": "Run",
     "应用程序.solve.executor": "Run",
     "应用程序.sortResolutions.executor": "Run",
@@ -247,39 +253,39 @@
       <recent name="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.easy" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.twoSum">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.Main" />
-      <module name="Java-Knowledge-Base" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xhl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C04_Enterprise_Frameworks.NativeUtil.Util.Test.MainTest" />
-      <module name="Java-Knowledge-Base" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xhl.C04_Enterprise_Frameworks.NativeUtil.Util.Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.searchMatrix">
     <configuration name="isSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.easy.isSubsequence" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="searchInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.BinarySearch.easy.searchInsert" />
+      <module name="Java-Knowledge-Base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.BinarySearch.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="searchMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.BinarySearch.middle.searchMatrix" />
+      <module name="Java-Knowledge-Base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.BinarySearch.middle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -315,11 +321,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.searchMatrix" />
+        <item itemvalue="应用程序.searchInsert" />
         <item itemvalue="应用程序.twoSum" />
         <item itemvalue="应用程序.threeSum" />
         <item itemvalue="应用程序.isSubsequence" />
-        <item itemvalue="应用程序.Main" />
-        <item itemvalue="应用程序.MainTest" />
       </list>
     </recent_temporary>
   </component>
@@ -667,7 +673,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784384984542</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="changes develop 7.18 晚">
+      <option name="closed" value="true" />
+      <created>1784390844599</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1784390844599</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -710,7 +724,8 @@
     <MESSAGE value="changes develop 7.18 中午" />
     <MESSAGE value="changes develop 7.18 下午" />
     <MESSAGE value="changes develop 7.18 晚上" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes develop 7.18 晚上" />
+    <MESSAGE value="changes develop 7.18 晚" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes develop 7.18 晚" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>

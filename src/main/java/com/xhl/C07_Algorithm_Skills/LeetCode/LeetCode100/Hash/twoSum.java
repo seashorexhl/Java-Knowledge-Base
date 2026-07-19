@@ -25,7 +25,7 @@ public class twoSum {
         System.out.println(Arrays.toString(arr2));
     }
 
-    //方法一: :
+    //方法一: : 哈希表
     public int[] twoSum(int[] nums, int target) {
         int n = nums.length;
         Map<Integer, Integer> map = new HashMap<>();
@@ -37,7 +37,7 @@ public class twoSum {
         }
         return new int[0];
     }
-    // 方法 二:
+    // 方法 二: 哈希表
     public int[] twoSum1(int[] nums, int target) {
         Map<Integer, Integer> map = new HashMap<>();
 

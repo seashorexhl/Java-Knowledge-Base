@@ -13,6 +13,7 @@ import java.util.List;
  * @Author: xhl
  * @Date: 2026-06-05 10:53
  * @Description: 二叉树 的 中序遍历
+ *  left root right
  */
 public class BSTreeTraverse {
     public static void main(String[] args) {
