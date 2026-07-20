@@ -66,7 +66,9 @@ public class preMiddleBuildTree {
         root.right = myBuildTree(preorder, inorder, preorder_left + size_left_subtree + 1, preorder_right, inorder_root + 1, inorder_right);
         return root;
     }
-    // 递归方法
+    /**
+     * 递归方法
+     * */
     public TreeNode buildTree(int[] preorder, int[] inorder) {
         int n = preorder.length;
         // 构造哈希映射，帮助我们快速定位根节点

@@ -12,10 +12,7 @@ import java.util.Set;
  *  递归 + 深度优先
  */
 public class lowestCommonAncestor {
-    // 方法二：存储父节点
-    Map<Integer, TreeNode> parent = new HashMap<Integer, TreeNode>();
-    Set<Integer> visited = new HashSet<Integer>();
-    private TreeNode ans;
+
 
     static void main() {
         lowestCommonAncestor lca = new lowestCommonAncestor();
@@ -78,11 +75,10 @@ public class lowestCommonAncestor {
                 res2 != null ? res2.val : -1, pass2 ? "PASS" : "FAIL");
     }
 
-    // 方法一：递归
-    public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        this.dfs(root, p, q);
-        return this.ans;
-    }
+    /**
+     *  方法二：存储父节点
+     * */
+    Map<Integer, TreeNode> parent = new HashMap<>();
 
     public void Solution() {
         this.ans = null;
@@ -96,6 +92,16 @@ public class lowestCommonAncestor {
             ans = root;
         }
         return lson || rson || (root.val == p.val || root.val == q.val);
+    }
+    Set<Integer> visited = new HashSet<>();
+    private TreeNode ans;
+
+    /**
+     *  方法一：递归
+     * */
+    public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
+        this.dfs(root, p, q);
+        return this.ans;
     }
 
     public void dfs(TreeNode root) {

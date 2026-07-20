@@ -5,7 +5,7 @@ package com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.Tree;
  * @Author: xhl
  * @Date: 2026-06-03 18:29
  * @Description: 树的节点的构建
- *
+ * value left right
  */
 public final class TreeNode {
 

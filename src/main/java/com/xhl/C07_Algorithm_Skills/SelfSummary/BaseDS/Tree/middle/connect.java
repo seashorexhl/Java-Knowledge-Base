@@ -32,7 +32,9 @@ public class connect {
 
     }
 
-    // 方法一:层序遍历
+    /**
+     *  方法一:层序遍历
+     * */
     public Node connect(Node root) {
         if (root == null) return null;
         Queue<Node> queue = new ArrayDeque<>();
@@ -55,7 +57,9 @@ public class connect {
         }
         return root;
     }
-    // 方法二：使用已建立的 next 指针
+    /**
+     *  方法二：使用已建立的 next 指针
+     * */
     public Node connect1(Node root) {
         if (root == null) {
             return null;
@@ -87,7 +91,9 @@ public class connect {
         last = p;
     }
 
-    // 打印 序列化树结构（基于 next 指针的层序遍历，符合题意要求）
+    /**
+     *  打印 序列化树结构（基于 next 指针的层序遍历，符合题意要求）
+     * */
     public String serialize(Node root) {
         if (root == null) return "[]";
 
@@ -129,7 +135,9 @@ public class connect {
         return "[" + String.join(",", result) + "]";
     }
 
-    // 打印 专门用于验证 next 指针的序列化方法
+    /**
+     *   打印 专门用于验证 next 指针的序列化方法
+     * */
     public String serializeByNext(Node root) {
         if (root == null) return "[]";
 

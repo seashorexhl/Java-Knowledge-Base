@@ -155,12 +155,16 @@ public class midPostBuildTree {
 
         return "[" + String.join(",", result) + "]";
     }
-    // 打印
+    /**
+     * 打印 方法
+     * */
     private void printTree(TreeNode node) {
         List<String> res = printTreeHelper(node, 0);
         System.out.println(Arrays.toString(res.toArray()));
     }
-
+    /**
+     *  打印辅助 方法
+     * */
     private List<String> printTreeHelper(TreeNode node, int level) {
         List<String> list = new ArrayList<>();
         if (node == null) {
