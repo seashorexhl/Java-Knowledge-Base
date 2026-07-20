@@ -3,7 +3,8 @@ package com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.Collection.List.LinkedLi
 /**
  * @Author: xhl
  * @Date: 2026-06-24 15:54
- * @Description: 节点的 构建
+ * @Description: 链表节点的 构建
+ *  val next random
  */
 
 public class Node {

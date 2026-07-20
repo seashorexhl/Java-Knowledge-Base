@@ -6,8 +6,10 @@ import java.util.Queue;
 /**
  * @Author: xhl
  * @Date: 2026-07-19 12:56
- * @Description: 200. 岛屿数量 经典连通分量问题
- *
+ * @Description: 200. 岛屿数量 经典连通分量问题 ⭐⭐⭐⭐⭐
+ *  深度优先遍历
+ *  广度优先遍历
+ *  并查集
  */
 public class numIslands {
     static void main(String[] args) {
@@ -19,7 +21,7 @@ public class numIslands {
         };
         numIslands nis = new numIslands();
         int islands = nis.numIslands(grid);
-        System.out.println(islands);
+        System.out.println("岛屿的数量:"+islands);
     }
     /**
      * ==================== 方法一：深度优先搜索 (DFS) ====================
@@ -31,7 +33,6 @@ public class numIslands {
     /**
      * DFS 辅助方法：将当前岛屿及其相连的所有陆地“沉没”
      * */
-
     void dfs(char[][] grid, int r, int c) {
         int nr = grid.length;
         int nc = grid[0].length;
@@ -58,7 +59,6 @@ public class numIslands {
         if (grid == null || grid.length == 0) {
             return 0;
         }
-
         int nr = grid.length;
         int nc = grid[0].length;
         // 【递归终止条件】：越界，或者当前格子是水('0')，直接返回
@@ -124,7 +124,7 @@ public class numIslands {
     }
 
     /**
-     * 业务逻辑类：计算岛屿数量
+     * 方法二、业务逻辑类：计算岛屿数量
      */
     public int numIslands2(char[][] grid) {
         // 边界条件处理：如果网格为空，直接返回 0

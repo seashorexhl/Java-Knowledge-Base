@@ -23,7 +23,9 @@ public class intToRoman {
         System.out.println("整数转罗马数字结果为: "+s);
     }
 
-    //方法一：模拟
+    /**
+     *  方法一：模拟
+     * */
     public static String intToRoman(int num) {
         int[] values = {1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1};
         String[] symbols = {"M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"};
@@ -42,7 +44,9 @@ public class intToRoman {
         }
         return roman.toString();
     }
-
+    /**
+     * 方法二：硬编码数字
+     * */
     public String intToRoman1(int num) {
         StringBuffer roman = new StringBuffer();
         roman.append(thousands[num / 1000]);

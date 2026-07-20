@@ -10,7 +10,7 @@ import java.util.Map;
  *
  */
 public class LRUCache  {
-    private Map<Integer, DLinkedNode> cache = new HashMap<Integer, DLinkedNode>();
+    private Map<Integer, DLinkedNode> cache = new HashMap<>();
     private int size;
     private int capacity;
     private DLinkedNode head, tail;
@@ -75,6 +75,7 @@ public class LRUCache  {
             moveToHead(node);
         }
     }
+    //    2. 插入到头部 (addToHead)
 
     private void addToHead(DLinkedNode node) {
         node.prev = head;
@@ -82,7 +83,6 @@ public class LRUCache  {
         head.next.prev = node;
         head.next = node;
     }
-    //    2. 插入到头部 (addToHead)
 
     //    1. 删除节点 (removeNode)
     private void removeNode(DLinkedNode node) {

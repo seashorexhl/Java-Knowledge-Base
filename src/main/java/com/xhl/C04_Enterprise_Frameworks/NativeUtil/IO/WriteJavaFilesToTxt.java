@@ -11,7 +11,7 @@ import java.util.stream.Stream;
  * @Author: xhl
  * @Date: 2026-07-15 10:09
  * @Description: 写入文件 目录名 到 txt
- *  纯目录
+ *  纯 主题 + 目录
  */
 public class WriteJavaFilesToTxt {
     public static void main(String[] args) {
@@ -23,6 +23,9 @@ public class WriteJavaFilesToTxt {
 
             // 2. 创建输出文件的写入流 (try-with-resources 会自动关闭流)
             try (BufferedWriter writer = Files.newBufferedWriter(Paths.get(outputTxt))) {
+                writer.write("=== OD 2026 算法题库清单 ===");
+                writer.newLine(); // 标题后换行
+                writer.newLine(); // 多留一个空行，更美观
 
                 paths
                         .filter(Files::isRegularFile)                  // 过滤掉文件夹

@@ -5,7 +5,8 @@ import java.util.Arrays;
 /**
  * @Author: xhl
  * @Date: 2026-04-17 10:21
- * @Description: 合并两个有序数组  双指针
+ * @Description: 88. 合并两个有序数组  双指针
+ *
  */
 public class merge {
 
@@ -18,14 +19,18 @@ public class merge {
         mer.merge(nums1,m,nums2,n);
         System.out.println(Arrays.toString(nums1));
     }
-    // 方法一 直接 在 nums1 数字后面添加 nums2
+    /**
+     * 方法一：直接合并后排序
+     * */
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         for (int i = 0; i < n; i++) {
             nums1[i+m] = nums2[i];
         }
         Arrays.sort(nums1);
     }
-    // 方法二、双指针
+    /**
+     *  方法二：双指针
+     * */
     public void merge1(int[] nums1, int m, int[] nums2, int n) {
         int p1 = 0, p2 = 0; //
         int[] sorted = new int[m + n];
@@ -46,7 +51,9 @@ public class merge {
             nums1[i] = sorted[i];
         }
     }
-    // 方法三 逆向双指针
+    /**
+     *  方法三 逆向双指针
+     * */
     public void merge2(int[] nums1, int m, int[] nums2, int n) {
         int p1 = m - 1, p2 = n - 1;
         int tail = m + n - 1;

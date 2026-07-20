@@ -15,14 +15,17 @@ import java.util.stream.Stream;
  */
 public class WriteJavaFilesContentsToTxt {
     public static void main(String[] args) {
-        String targetPath = "C:\\Users\\sanya\\Desktop\\Java-Knowledge-Base\\src\\main\\java\\com\\xhl\\C06_Algorithm_Skills\\ODExam\\A2026";
+        String targetPath = "C:\\Users\\sanya\\Desktop\\Java-Knowledge-Base\\src\\main\\java\\com\\xhl\\C07_Algorithm_Skills\\ODExam\\A2026";
         String outputTxt = "C:\\Users\\sanya\\Desktop\\ODQuestionAnwser.txt";
 
         try (Stream<Path> paths = Files.walk(Paths.get(targetPath))) {
 
             // 使用 try-with-resources 自动管理输出流
             try (BufferedWriter writer = Files.newBufferedWriter(Paths.get(outputTxt))) {
-
+                // 👉 在这里添加主题标题
+                writer.write("=== OD 2026 算法题库清单 ===");
+                writer.newLine(); // 标题后换行
+                writer.newLine(); // 多留一个空行，更美观
                 paths
                         .filter(Files::isRegularFile)
                         .filter(path -> path.toString().endsWith(".java"))

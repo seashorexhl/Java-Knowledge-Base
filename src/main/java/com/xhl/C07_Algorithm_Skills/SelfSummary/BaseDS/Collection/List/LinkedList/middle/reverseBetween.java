@@ -6,7 +6,7 @@ import com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.Collection.List.LinkedLis
 /**
  * @Author: xhl
  * @Date: 2026-06-24 22:13
- * @Description: 反转链表
+ * @Description: 92.反转链表 II
  *  灵活使用 前驱pre 后继 next 当前 cur 虚拟头节点 dummyNode
  */
 public class reverseBetween {

@@ -7,7 +7,7 @@ import java.util.Map;
 /**
  * @Author: xhl
  * @Date: 2026-06-09 23:26
- * @Description: 有效的 字母异或位 （字符串 排序后相等）
+ * @Description: 242. 有效的字母异位词（字符串 排序后相等）
  *
  */
 public class isAnagram {
@@ -16,7 +16,9 @@ public class isAnagram {
         isAnagram iA = new isAnagram();
         System.out.println("是否是字母异或位:"+iA.isAnagram(s, t));
     }
-    // 方法一 : 排序
+    /**
+     *  方法一 : 排序
+     * */
     public boolean isAnagram(String s, String t) {
         if (s.length() != t.length()) {
             return false;
@@ -28,7 +30,9 @@ public class isAnagram {
         return Arrays.equals(str1, str2);
     }
 
-    // 方法二 :哈希表
+    /**
+     *  方法二 :哈希表
+     * */
     public boolean isAnagram1(String s, String t) {
         if (s.length() != t.length()) {
             return false;
@@ -45,13 +49,16 @@ public class isAnagram {
         }
         return true;
     }
-    // 方法三:用哈希表维护对应字符的频次即可。同时读者需要注意 Unicode 一个字符可能对应多个字节的问题，
-    // 不同语言对于字符串读取处理的方式是不同的。
+    /**
+     *  方法三:用哈希表维护对应字符的频次即可。
+     *  同时读者需要注意 Unicode 一个字符可能对应多个字节的问题，
+     *  不同语言对于字符串读取处理的方式是不同的
+     * */
     public boolean isAnagram2(String s, String t) {
         if (s.length() != t.length()) {
             return false;
         }
-        Map<Character, Integer> table = new HashMap<Character, Integer>();
+        Map<Character, Integer> table = new HashMap<>();
         for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
             table.put(ch, table.getOrDefault(ch, 0) + 1);
