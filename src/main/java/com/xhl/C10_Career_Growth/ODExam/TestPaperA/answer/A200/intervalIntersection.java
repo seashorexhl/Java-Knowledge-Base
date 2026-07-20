@@ -1,4 +1,4 @@
-package com.xhl.C09_Career_Growth.ODExam.TestPaperA.answer.A200;
+package com.xhl.C10_Career_Growth.ODExam.TestPaperA.answer.A200;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -23,7 +23,7 @@ public class intervalIntersection {
 
         getResult(n, ranges);
     }
-
+    //
     public static void getResult(int n, int[][] ranges) {
         // 区间按照开始位置升序
         Arrays.sort(ranges, (a, b) -> a[0] - b[0]);

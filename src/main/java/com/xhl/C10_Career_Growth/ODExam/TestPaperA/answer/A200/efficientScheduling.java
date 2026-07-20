@@ -1,4 +1,4 @@
-package com.xhl.C09_Career_Growth.ODExam.TestPaperA.answer.A200;
+package com.xhl.C10_Career_Growth.ODExam.TestPaperA.answer.A200;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -7,6 +7,7 @@ import java.util.Scanner;
  * @Author: xhl
  * @Date: 2026-07-04 20:31
  * @Description:  01 高效的任务规划 Efficient scheduling
+ *
  */
 public class efficientScheduling {
     // 输入获取

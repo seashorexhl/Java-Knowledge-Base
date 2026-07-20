@@ -1,4 +1,4 @@
-package com.xhl.C09_Career_Growth.ODExam.TestPaperA.answer.A200;
+package com.xhl.C10_Career_Growth.ODExam.TestPaperA.answer.A200;
 
 import java.util.HashSet;
 import java.util.Scanner;
@@ -33,7 +33,7 @@ public class combinedString {
         // 输出结果
         System.out.println(sb.toString());
     }
-
+    // 深度优先遍历
     public static void dfs(
             String[] letters, int index, StringBuilder path, StringBuilder res, String filter, HashSet<Character> used) {
         if (index == letters.length) {

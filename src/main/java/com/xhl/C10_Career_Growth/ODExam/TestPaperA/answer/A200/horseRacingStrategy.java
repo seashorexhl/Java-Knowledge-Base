@@ -1,4 +1,4 @@
-package com.xhl.C09_Career_Growth.ODExam.TestPaperA.answer.A200;
+package com.xhl.C10_Career_Growth.ODExam.TestPaperA.answer.A200;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -7,6 +7,7 @@ import java.util.Scanner;
  * @Author: xhl
  * @Date: 2026-07-04 20:37
  * @Description: 04 horse racing strategy 田忌赛马
+ *
  */
 public class horseRacingStrategy {
     static int[] a;

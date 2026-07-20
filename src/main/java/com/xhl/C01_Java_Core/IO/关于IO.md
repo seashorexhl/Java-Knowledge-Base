@@ -11,10 +11,12 @@
         基础节点流：FileInputStream / FileOutputStream，用于文件的字节读写。
         增强过滤流：BufferedInputStream / BufferedOutputStream（自带缓冲区，大幅提升读写效率）；   
     DataInputStream / DataOutputStream（专门读写 Java 8种基本数据类型）。
+
     2.字符流：
         顶层抽象父类：Reader（读）、Writer（写）。
         基础节点流：FileReader / FileWriter，用于简单的文本读写。
         增强过滤流：BufferedReader（提供 readLine() 按行读取，性能高）/ BufferedWriter。
+
     3.对象流与转换流：
         对象流（ObjectInputStream / ObjectOutputStream）：用于对象的序列化与反序列化，
     要求对象所属类必须实现 Serializable 标记接口。

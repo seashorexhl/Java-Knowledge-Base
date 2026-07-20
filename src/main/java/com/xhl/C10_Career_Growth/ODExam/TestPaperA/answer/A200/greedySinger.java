@@ -1,4 +1,4 @@
-package com.xhl.C09_Career_Growth.ODExam.TestPaperA.answer.A200;
+package com.xhl.C10_Career_Growth.ODExam.TestPaperA.answer.A200;
 
 import java.util.PriorityQueue;
 import java.util.Scanner;
@@ -7,6 +7,7 @@ import java.util.Scanner;
  * @Author: xhl
  * @Date: 2026-07-04 20:35
  * @Description: 03 greedy singer 贪心歌手
+ *
  */
 public class greedySinger {
     static int t;
