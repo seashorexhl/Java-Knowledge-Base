@@ -64,7 +64,6 @@ public class spiralOrder {
             column += directions[directionIndex][1];
         }
         return order;
-
     }
     /**
      * 方法二：按层模拟

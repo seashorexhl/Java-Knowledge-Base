@@ -9,6 +9,7 @@ import java.util.*;
  * @Author: xhl
  * @Date: 2026-06-20 16:13
  * @Description: 199 二 叉 树的 右视图
+ *  深度优先搜索 DFS 广度优先搜索
  */
 public class rightSideView {
     static void main() {

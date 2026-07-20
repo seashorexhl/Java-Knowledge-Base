@@ -4,6 +4,10 @@ package com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.middle;
  * @Author: xhl
  * @Date: 2026-07-02 06:10
  * @Description: 167. 两数之和 II - 输入有序数组
+ * 方法一：二分查找 ⭐⭐⭐
+ * 方法二：双指针 ⭐⭐⭐
+ * 方法三：暴力破解 ⭐⭐⭐
+ * 方法四：哈希表 ⭐⭐⭐
  */
 public class twoSum {
     static void main() {
@@ -17,7 +21,6 @@ public class twoSum {
 
     /**
      * 方法一：二分查找
-     *
      */
     public int[] twoSum(int[] numbers, int target) {
         for (int i = 0; i < numbers.length; ++i) {
@@ -34,7 +37,6 @@ public class twoSum {
             }
         }
         return new int[]{-1, -1};
-
     }
 
     /**

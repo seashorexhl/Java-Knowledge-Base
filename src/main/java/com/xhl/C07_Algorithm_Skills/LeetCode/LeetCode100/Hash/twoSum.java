@@ -6,8 +6,11 @@ import java.util.Map;
 
 /**
  * @Author: xhl
- * @Date: 2026-04-22 14:43
- * @Description: 两数之和
+ * @Date: 2026-04-22 14:43  两数之和  ⭐⭐⭐
+ * 方法一：暴力破解
+ * 方法二：哈希表
+ * 方法三：二分查找
+ * 方法四：双指针
  * 给定一个整数数组 nums 和一个整数目标值 target，请你在该数组中找出 和为目标值 target  的那 两个 整数，并返回它们的数组下标。
  * 你可以假设每种输入只会对应一个答案，并且你不能使用两次相同的元素。
  * 你可以按任意顺序返回答案。
@@ -25,7 +28,9 @@ public class twoSum {
         System.out.println(Arrays.toString(arr2));
     }
 
-    //方法一: : 哈希表
+    /**
+     *  方法一: : 哈希表
+     * */
     public int[] twoSum(int[] nums, int target) {
         int n = nums.length;
         Map<Integer, Integer> map = new HashMap<>();
@@ -37,7 +42,9 @@ public class twoSum {
         }
         return new int[0];
     }
-    // 方法 二: 哈希表
+    /**
+     *  方法 二: 哈希表
+     * */
     public int[] twoSum1(int[] nums, int target) {
         Map<Integer, Integer> map = new HashMap<>();
 
@@ -57,4 +64,41 @@ public class twoSum {
         // 题目保证有且仅有一个解，若运行到这里说明无解，抛出异常或返回 null
         throw new IllegalArgumentException("No two sum solution");
     }
+    /**
+     *  方法三：二分查找
+     * */
+    public int[] twoSum3(int[] numbers, int target) {
+        for (int i = 0; i < numbers.length; ++i) {
+            int low = i + 1, high = numbers.length - 1;
+            while (low <= high) {
+                int mid = (high - low) / 2 + low;
+                if (numbers[mid] == target - numbers[i]) {
+                    return new int[]{i + 1, mid + 1};
+                } else if (numbers[mid] > target - numbers[i]) {
+                    high = mid - 1;
+                } else {
+                    low = mid + 1;
+                }
+            }
+        }
+        return new int[]{-1, -1};
+    }
+    /**
+     *  方法四：双指针
+     * */
+    public int[] twoSum4(int[] numbers, int target) {
+        int low = 0, high = numbers.length - 1;
+        while (low < high) {
+            int sum = numbers[low] + numbers[high];
+            if (sum == target) {
+                return new int[]{low + 1, high + 1};
+            } else if (sum < target) {
+                ++low;
+            } else {
+                --high;
+            }
+        }
+        return new int[]{-1, -1};
+    }
+
 }

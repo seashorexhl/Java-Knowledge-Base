@@ -7,7 +7,7 @@ package com.xhl.C07_Algorithm_Skills.LeetCode.LeetCode100.interval.middle;
  */
 public class findMinArrowShots {
     static void main() {
-
+        
     }
 
     public int findMinArrowShots(int[][] points) {

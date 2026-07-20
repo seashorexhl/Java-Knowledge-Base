@@ -3,7 +3,7 @@ package com.xhl.C07_Algorithm_Skills.LeetCode.LeetCode100.LinkedList;
 /**
  * @Author: xhl
  * @Date: 2026-04-22 15:01
- * @Description:
+ * @Description: 获取两个链表的相交节点
  */
 public class getIntersectionNode {
     public static void main(String[] args) {

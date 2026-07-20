@@ -10,9 +10,17 @@ package com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers;
  * */
 public class TwoPointers {
     static void main() {
-
+        int[] nums = {2, 7, 11, 15};
+        int target = 9;
+        TwoPointers obj = new TwoPointers();
+        int[] ints = obj.twoSum(nums, target);
+        for (int i = 0; i < ints.length; i++) {
+            System.out.println(ints[i]);
+        }
     }
-    // 有序数组的两数之和（返回索引）
+    /**
+     * 有序数组的两数之和（返回索引）
+     * */
     public int[] twoSum(int[] nums, int target) {
         int left = 0;
         int right = nums.length - 1;
@@ -31,7 +39,9 @@ public class TwoPointers {
         return new int[]{-1, -1}; // 无解
     }
 
-    // 验证回文串（忽略非字母数字字符）
+    /**
+     *  验证回文串（忽略非字母数字字符）
+     * */
     public boolean isPalindrome(String s) {
         int left = 0;
         int right = s.length() - 1;
