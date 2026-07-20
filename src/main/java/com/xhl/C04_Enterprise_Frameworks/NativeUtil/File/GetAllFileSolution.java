@@ -13,7 +13,7 @@ import java.util.stream.Stream;
  */
 public class GetAllFileSolution {
     public static void main(String[] args) {
-        String targetPath = "C:\\Users\\sanya\\Desktop\\Java-Knowledge-Base\\src\\main\\java\\com\\xhl\\C06_Algorithm_Skills\\ODExam\\A2026";
+        String targetPath = "C:\\Users\\sanya\\Desktop\\Java-Knowledge-Base\\src\\main\\java\\com\\xhl\\C07_Algorithm_Skills\\ODExam\\A2026";
 
         try (Stream<Path> paths = Files.walk(Paths.get(targetPath))) {
             paths

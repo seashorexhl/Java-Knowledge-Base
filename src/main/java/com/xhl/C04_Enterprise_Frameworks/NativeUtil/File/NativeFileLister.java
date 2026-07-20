@@ -9,7 +9,7 @@ import java.io.File;
  */
 public class NativeFileLister {
     public static void main(String[] args) {
-        String targetPath = "C:\\Users\\sanya\\Desktop\\Java-Knowledge-Base\\src\\main\\java\\com\\xhl\\C06_Algorithm_Skills\\ODExam\\A2026";
+        String targetPath = "C:\\Users\\sanya\\Desktop\\Java-Knowledge-Base\\src\\main\\java\\com\\xhl\\C07_Algorithm_Skills\\ODExam\\A2026";
         File dir = new File(targetPath);
 
         // 获取该目录下所有的 .java 文件

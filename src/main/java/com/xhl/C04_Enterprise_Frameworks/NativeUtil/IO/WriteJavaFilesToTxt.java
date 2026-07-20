@@ -11,10 +11,11 @@ import java.util.stream.Stream;
  * @Author: xhl
  * @Date: 2026-07-15 10:09
  * @Description: 写入文件 目录名 到 txt
+ *  纯目录
  */
 public class WriteJavaFilesToTxt {
     public static void main(String[] args) {
-        String targetPath = "C:\\Users\\sanya\\Desktop\\Java-Knowledge-Base\\src\\main\\java\\com\\xhl\\C06_Algorithm_Skills\\ODExam\\A2026";
+        String targetPath = "C:\\Users\\sanya\\Desktop\\Java-Knowledge-Base\\src\\main\\java\\com\\xhl\\C07_Algorithm_Skills\\ODExam\\A2026";
         String outputTxt = "C:\\Users\\sanya\\Desktop\\ODQuestion.txt"; // 输出文件路径
 
         // 1. 获取源目录文件流

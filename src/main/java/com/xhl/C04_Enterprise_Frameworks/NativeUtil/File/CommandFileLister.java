@@ -12,7 +12,7 @@ import java.nio.charset.Charset;
 public class CommandFileLister {
     public static void main(String[] args) {
         // 注意：在 Java 字符串中，Windows 路径的反斜杠 \ 必须转义为 \\
-        String targetPath = "C:\\Users\\sanya\\Desktop\\Java-Knowledge-Base\\src\\main\\java\\com\\xhl\\C06_Algorithm_Skills\\ODExam\\A2026";
+        String targetPath = "C:\\Users\\sanya\\Desktop\\Java-Knowledge-Base\\src\\main\\java\\com\\xhl\\C07_Algorithm_Skills\\ODExam\\A2026";
 
         listFilesByCommand(targetPath);
     }

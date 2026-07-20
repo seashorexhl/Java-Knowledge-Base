@@ -4,25 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2cbcf97-3448-465b-8d35-77b683d9f8e0" name="更改" comment="changes develop 7.19 下午">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/E/CalculateCarbonEmissionReductions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/E/MeetingInMaze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/E/SpellCombinations.java" afterDir="false" />
+    <list default="true" id="e2cbcf97-3448-465b-8d35-77b683d9f8e0" name="更改" comment="changes develop 7.20 上午">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/April/BirthdayCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/April/BirthdayCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/April/mergeLogs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/April/mergeLogs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/E95/Answer/E63/IPv4ToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/E95/Answer/E63/IPv4ToInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/E95/Answer/E63/ReplantDeadPoplarSaplings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/E95/Answer/E63/ReplantDeadPoplarSaplings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/E95/Answer/E63/VLANResourcePool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/E95/Answer/E63/VLANResourcePool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/E95/Answer/E63/WeTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/E95/Answer/E63/WeTeam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/E95/Answer/E63/decodeTLV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/E95/Answer/E63/decodeTLV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/E/HuaweiOD_MinSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/E/HuaweiOD_MinSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/E/findDestination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/E/findDestination.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/UnionFind/UnionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/UnionFind/UnionFind.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/UnionFind/middle/findCircleNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/UnionFind/middle/findCircleNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/UnionFind/middle/numIslands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/UnionFind/middle/numIslands.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/BinarySearch/middle/findPeakElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/BinarySearch/middle/findPeakElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/flattenBSTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/flattenBSTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C04_Enterprise_Frameworks/NativeUtil/File/CommandFileLister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C04_Enterprise_Frameworks/NativeUtil/File/CommandFileLister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C04_Enterprise_Frameworks/NativeUtil/File/GetAllFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C04_Enterprise_Frameworks/NativeUtil/File/GetAllFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C04_Enterprise_Frameworks/NativeUtil/File/GetAllFileSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C04_Enterprise_Frameworks/NativeUtil/File/GetAllFileSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C04_Enterprise_Frameworks/NativeUtil/File/NativeFileLister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C04_Enterprise_Frameworks/NativeUtil/File/NativeFileLister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C04_Enterprise_Frameworks/NativeUtil/File/RecursiveJavaFileLister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C04_Enterprise_Frameworks/NativeUtil/File/RecursiveJavaFileLister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C04_Enterprise_Frameworks/NativeUtil/IO/WriteJavaFilesToTxt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C04_Enterprise_Frameworks/NativeUtil/IO/WriteJavaFilesToTxt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C04_Enterprise_Frameworks/NativeUtil/Util/Test/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C04_Enterprise_Frameworks/NativeUtil/Util/Test/MainTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -266,13 +256,26 @@
       <recent name="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.easy" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.BirthdayCounter">
+  <component name="RunManager" selected="应用程序.WriteJavaFilesToTxt">
     <configuration name="BirthdayCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.ODExam.A2026.easy100.April.BirthdayCounter" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.ODExam.A2026.easy100.April.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommandFileLister" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C04_Enterprise_Frameworks.NativeUtil.File.CommandFileLister" />
+      <module name="Java-Knowledge-Base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xhl.C04_Enterprise_Frameworks.NativeUtil.File.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -293,12 +296,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpellCombinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.ODExam.LatestOD.E.SpellCombinations" />
+    <configuration name="WriteJavaFilesToTxt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C04_Enterprise_Frameworks.NativeUtil.IO.WriteJavaFilesToTxt" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.ODExam.LatestOD.E.*" />
+          <option name="PATTERN" value="com.xhl.C04_Enterprise_Frameworks.NativeUtil.IO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -319,26 +322,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="flattenBSTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.Tree.middle.flattenBSTree" />
-      <module name="Java-Knowledge-Base" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.Tree.middle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.BirthdayCounter" />
+        <item itemvalue="应用程序.WriteJavaFilesToTxt" />
+        <item itemvalue="应用程序.CommandFileLister" />
         <item itemvalue="应用程序.calculateElectricityCost" />
+        <item itemvalue="应用程序.BirthdayCounter" />
         <item itemvalue="应用程序.MainTest" />
-        <item itemvalue="应用程序.flattenBSTree" />
-        <item itemvalue="应用程序.SpellCombinations" />
       </list>
     </recent_temporary>
   </component>
@@ -718,7 +708,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784445350283</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="changes develop 7.20 上午">
+      <option name="closed" value="true" />
+      <created>1784509278189</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1784509278189</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -764,7 +762,8 @@
     <MESSAGE value="changes develop 7.18 晚" />
     <MESSAGE value="changes develop 7.19 上午" />
     <MESSAGE value="changes develop 7.19 下午" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes develop 7.19 下午" />
+    <MESSAGE value="changes develop 7.20 上午" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes develop 7.20 上午" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
