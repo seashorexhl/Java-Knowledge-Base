@@ -1,16 +1,13 @@
 package com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.Tree;
 
-import java.util.LinkedList;
-import java.util.Queue;
-import java.util.Stack;
+import java.util.*;
 
 /**
  * @Author: xhl
  * @Date: 2026-06-04 13:12
  * @Description: 树的遍历 基础框架 ⭐⭐⭐⭐⭐
- *  前序 中序 后序遍历 递归+迭代
+ *  前序 中序 后序遍历 递归 + DFS迭代
  *  层序遍历 BFS 广度优先遍历
- *
  */
 public class TraverseTree {
     public static void main(String[] args) {
@@ -63,7 +60,9 @@ public class TraverseTree {
         preorderRecursive(root.left);          // 遍历左子树
         preorderRecursive(root.right);         // 遍历右子树
     }
-    /** A.递归实现 中序遍历*/
+    /**
+     * A.递归实现 中序遍历
+     * */
     // 2.递归实现 ：先递归左子树，再访问当前节点，最后递归右子树。
     public void inorderRecursive(TreeNode root) {
         if (root == null) return;
@@ -71,7 +70,9 @@ public class TraverseTree {
         System.out.print(root.val + " ");      // 访问根节点
         inorderRecursive(root.right);          // 遍历右子树
     }
-    /** A.递归实现 后序遍历*/
+    /**
+     * A.递归实现 后序遍历
+     * */
     // 3.递归实现 ：先递归左右子树，最后访问当前节点。
     public void postorderRecursive(TreeNode root) {
         if (root == null) return;
@@ -80,8 +81,9 @@ public class TraverseTree {
         System.out.print(root.val + " ");      // 访问根节点
     }
     /**
-     *  B.非递归实现 前序遍历 ：利用栈（LIFO）。先将根节点入栈，循环弹出并访问。为了保证出栈时是“先左后右”，
-    */
+     *  B.非递归实现 前序遍历 ：(迭代)
+     *  利用栈（LIFO）。先将根节点入栈，循环弹出并访问。为了保证出栈时是“先左后右”，
+     */
     // 入栈时必须先压入右子节点，再压入左子节点。
     public void preorderIterative(TreeNode root) {
         if (root == null) return;
@@ -96,7 +98,8 @@ public class TraverseTree {
     }
 
     /**
-     * B.非递归实现 中序遍历：使用指针辅助。不断将当前节点及其左子节点压入栈中，直到左子节点为空。然后弹出栈顶元素
+     * B.非递归实现 中序遍历：(迭代)
+     * 使用指针辅助。不断将当前节点及其左子节点压入栈中，直到左子节点为空。然后弹出栈顶元素
     **/
     // 进行访问，并将指针转向该节点的右子树继续上述过程。
     public void inorderIterative(TreeNode root) {
@@ -114,7 +117,9 @@ public class TraverseTree {
     }
 
     /**
-     *  B.非递归实现 后序遍历：由于需要确保左右子树都处理完才能访问根节点，逻辑最为复杂。一种经典的巧妙变通方法是：
+     *  B.非递归实现 后序遍历：(迭代)
+     *  1.双栈法
+     *  由于需要确保左右子树都处理完才能访问根节点，逻辑最为复杂。一种经典的巧妙变通方法是：
      */
     // 按照“根→右→左”的顺序进行类似前序的遍历，将结果存入另一个栈中，最后依次弹出即可得到“左→右→根”的结果。
     public void postorderIterative(TreeNode root) {
@@ -135,11 +140,40 @@ public class TraverseTree {
         }
     }
     /**
+     *  B.非递归实现 后序遍历：(迭代)
+     *  2.单栈法
+     *  利用 prev 指针
+     */
+    public List<Integer> postorderTraversal1Stack(TreeNode root) {
+        List<Integer> res = new ArrayList<>();
+        Stack<TreeNode> stack = new Stack<>();
+        TreeNode curr = root, prev = null;
+        while (curr != null || !stack.isEmpty()) {
+            while (curr != null) {
+                stack.push(curr);
+                curr = curr.left;
+            }
+            curr = stack.pop();
+            // 核心判断：如果没有右子树，或者右子树刚刚被访问过，才能访问当前节点
+            if (curr.right == null || curr.right == prev) {
+                res.add(curr.val);
+                prev = curr;
+                curr = null; // 置空，防止下次循环又往左走
+            } else {
+                stack.push(curr); // 还不能访问，把当前节点压回去
+                curr = curr.right; // 先去处理右子树
+            }
+        }
+        return res;
+    }
+    /**
      *  C.广度优先遍历 (BFS) 层序遍历
-     *  */
+     *  基础版：一维列表
+     **/
      /*层序遍历不使用递归，而是借助队列（Queue）数据结构来实现。每次从队首取出节点访问，
      并将其非空的左右子节点依次加入队尾。*/
     public void levelOrder(TreeNode root) {
+        List<Integer> res = new ArrayList<>();
 
         if (root == null) return;
         Queue<TreeNode> queue = new LinkedList<>();
@@ -148,9 +182,33 @@ public class TraverseTree {
         // 循环
         while (!queue.isEmpty()) {
             TreeNode node = queue.poll(); //取出队首节点
-            System.out.print(node.val + " "); //访问当前节点
+              System.out.print(node.val + " "); //访问当前节点
+              res.add(node.val);
             if (node.left != null) queue.offer(node.left);//左子节点入队
             if (node.right != null) queue.offer(node.right);//右子节点入队
         }
+        // return res;
+    }
+    /**
+     *  C.广度优先遍历 (BFS) 层序遍历
+     *  进阶版：按层输出（二维列表，LeetCode 102）
+     **/
+    public List<List<Integer>> levelOrderAdvanced(TreeNode root) {
+        List<List<Integer>> res = new ArrayList<>();
+        if (root == null) return res;
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.offer(root);
+        while (!queue.isEmpty()) {
+            List<Integer> level = new ArrayList<>();
+            int size = queue.size(); // ⭐ 关键：记录当前层的节点数
+            for (int i = 0; i < size; i++) {
+                TreeNode node = queue.poll();
+                level.add(node.val);
+                if (node.left != null) queue.offer(node.left);
+                if (node.right != null) queue.offer(node.right);
+            }
+            res.add(level);
+        }
+        return res;
     }
 }

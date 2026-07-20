@@ -6,7 +6,7 @@ import java.util.Queue;
 /**
  * @Author: xhl
  * @Date: 2026-06-04 20:39
- * @Description:  112 路径总和
+ * @Description:  112 路径总和 ⭐⭐⭐
  */
 public class hasPathSumSolution {
 
@@ -22,7 +22,9 @@ public class hasPathSumSolution {
         int sum2 =4;
         System.out.println("是否存在和为"+sum+"的路径？"+hps.hasPathSumRe(root,sum2));
     }
-    // 方法一：广度优先搜索 BFS
+    /**
+     * 方法一：广度优先搜索 BFS
+     * */
     public boolean hasPathSum(TreeNode root, int sum) {
         if (root == null) {
             return false;
@@ -53,7 +55,9 @@ public class hasPathSumSolution {
         }
         return false;
     }
-    // 方法二、递归
+    /**
+     * 方法二、递归
+     * */
     public boolean hasPathSumRe(TreeNode root, int sum){
         if (root == null) {
             return false;

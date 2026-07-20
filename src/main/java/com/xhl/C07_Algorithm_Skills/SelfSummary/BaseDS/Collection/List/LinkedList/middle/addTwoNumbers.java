@@ -34,7 +34,9 @@ public class addTwoNumbers {
         printListAsArray(node2);
 
     }
-    // 通用 ：打印数组
+    /**
+     *  通用 ：打印数组
+     * */
     public static void printListAsArray(ListNode head) {
         List<Integer> list = new ArrayList<>();
         ListNode curr = head;
@@ -50,7 +52,9 @@ public class addTwoNumbers {
         System.out.println(Arrays.toString(arr));
     }
 
-    // 个人方法 使用 Queue
+    /**
+     * 个人方法 使用 Queue
+     * */
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         if (l1==null && l2==null){
             return  null;
@@ -100,7 +104,9 @@ public class addTwoNumbers {
         }
         return dummy.next;
     }
-    // 模拟
+    /**
+     *  模拟
+     * */
     public ListNode addTwoNumbers1(ListNode l1, ListNode l2) {
         ListNode head = null, tail = null;
         int carry = 0;
@@ -127,7 +133,9 @@ public class addTwoNumbers {
         }
         return head;
     }
-    // 方法：虚拟头节点优化
+    /**
+     *  方法：虚拟头节点优化
+     * */
     public ListNode addTwoNumbers2(ListNode l1, ListNode l2) {
         // 1. 创建一个虚拟头节点，值为0，简化边界处理
         ListNode dummy = new ListNode(0);

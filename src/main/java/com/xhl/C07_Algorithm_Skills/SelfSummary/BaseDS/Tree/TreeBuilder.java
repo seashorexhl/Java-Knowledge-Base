@@ -79,7 +79,9 @@ public class TreeBuilder {
         System.out.println();
     }
 
-    //方法三：寻找前驱节点
+    /**
+     *  方法三：寻找前驱节点
+     * */
     public void flatten(TreeNode root) {
         TreeNode curr = root;
         while (curr != null) {

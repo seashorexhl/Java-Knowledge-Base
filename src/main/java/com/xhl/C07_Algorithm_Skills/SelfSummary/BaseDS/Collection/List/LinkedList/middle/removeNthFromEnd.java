@@ -29,7 +29,9 @@ public class removeNthFromEnd {
         }
     }
 
-    // 方法一：计算链表长度
+    /**
+     *  方法一：模拟
+     * */
     public ListNode removeNthFromEnd(ListNode head, int n) {
         ListNode dummy = new ListNode(0, head);
         int length = getLength(head);
@@ -43,7 +45,9 @@ public class removeNthFromEnd {
         ListNode ans = dummy.next;
         return ans;
     }
-    // 获取链表的长度
+    /**
+     *  获取链表的长度
+     * */
     public int getLength(ListNode head) {
         int length = 0;
         while (head != null) {
@@ -53,7 +57,9 @@ public class removeNthFromEnd {
         return length;
     }
 
-    // 方法二：栈
+    /**
+     *  方法二：栈
+     * */
     public ListNode removeNthFromEnd1(ListNode head, int n) {
         ListNode dumNode = new ListNode(0, head);
         Deque<ListNode> stack = new LinkedList<>();
@@ -71,7 +77,9 @@ public class removeNthFromEnd {
 
         return ans;
     }
-    //方法三：双指针  使用两个指针 first 和 second 同时对链表进行遍历
+    /**
+     *  方法三：双指针  使用两个指针 first 和 second 同时对链表进行遍历
+     * */
     public ListNode removeNthFromEnd2(ListNode head, int n) {
         // 构造 哑节点
         ListNode dummy = new ListNode(0, head);

@@ -29,7 +29,7 @@ public class prePostBuildTree {
         }
         return dfs(preorder, postorder, postMap, 0, n - 1, 0, n - 1);
     }
-    // 辅助
+    // 辅助 深度优先
     public TreeNode dfs(int[] preorder, int[] postorder, Map<Integer, Integer> postMap, int preLeft, int preRight, int postLeft, int postRight) {
         if (preLeft > preRight) {
             return null;

@@ -29,7 +29,9 @@ public class partition {
         }
     }
 
-    //    方法一：模拟
+    /**
+     *  方法一：模拟
+     * */
     public ListNode partition(ListNode head, int x) {
         ListNode small = new ListNode(0);
         ListNode smallHead = small;

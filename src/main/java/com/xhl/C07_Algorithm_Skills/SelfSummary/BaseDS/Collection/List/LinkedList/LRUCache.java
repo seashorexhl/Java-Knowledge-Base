@@ -7,7 +7,7 @@ import java.util.Map;
  * @Author: xhl
  * @Date: 2026-06-25 00:55
  * @Description: 146. LRU 缓存
- *
+ *  伪头部和伪尾部节点
  */
 public class LRUCache  {
     private Map<Integer, DLinkedNode> cache = new HashMap<>();
@@ -75,6 +75,7 @@ public class LRUCache  {
             moveToHead(node);
         }
     }
+    //    2. 插入到头部 (addToHead)
 
     private void addToHead(DLinkedNode node) {
         node.prev = head;
@@ -82,7 +83,6 @@ public class LRUCache  {
         head.next.prev = node;
         head.next = node;
     }
-    //    2. 插入到头部 (addToHead)
 
     //    1. 删除节点 (removeNode)
     private void removeNode(DLinkedNode node) {

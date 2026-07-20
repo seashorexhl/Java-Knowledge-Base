@@ -31,7 +31,9 @@ public class hasCycle {
         System.out.println("方法二判断是否有环：" + hc.hasCycle1(head));
     }
 
-    // 方法一：哈希表
+    /**
+     *   方法一：哈希表
+     * */
     public boolean hasCycle(ListNode head) {
         Set<ListNode> set = new HashSet<>();
         while (head != null) {

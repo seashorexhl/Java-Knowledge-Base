@@ -29,7 +29,9 @@ public class deleteDuplicates {
         }
 
     }
-    //   方法一：一次遍历
+    /**
+     *  方法一：一次遍历
+     * */
     public ListNode deleteDuplicates(ListNode head) {
         if (head==null){
             return  head;

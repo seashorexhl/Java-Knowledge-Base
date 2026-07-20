@@ -27,7 +27,9 @@ public class rotateRight {
         }
         System.out.println();
     }
-    /*方法一：闭合为环*/
+    /**
+     *  方法一：闭合为环
+     * */
     public ListNode rotateRight(ListNode head, int k) {
         // 边界条件判断
         if (k == 0 || head == null || head.next == null) {

@@ -125,10 +125,10 @@ public class midPostBuildTree {
         return null;
     }
 
-        /**
-         * 打印树（前序打印）
-         * 返回一个包含树形结构的字符串列表，最后统一打印
-         */
+    /**
+     * 打印树（前序打印）
+     * 返回一个包含树形结构的字符串列表，最后统一打印
+     */
     public String serialize(TreeNode root) {
         if (root == null) return "[]";
 

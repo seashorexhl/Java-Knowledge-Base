@@ -7,6 +7,7 @@ import com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.Collection.List.LinkedLis
  * @Author: xhl
  * @Date: 2026-06-24 09:59
  * @Description: mergeTwoLists 21. 合并两个有序链表
+ *
  */
 public class mergeTwoLists {
 
@@ -28,7 +29,9 @@ public class mergeTwoLists {
         }
     }
 
-    // 方法一：递归
+    /**
+     * 方法一：递归
+     * */
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         if(l1 == null){
             return  l2;
@@ -42,7 +45,9 @@ public class mergeTwoLists {
             return  l2;
         }
     }
-    //方法二：迭代
+    /**
+     *  方法二：迭代
+     * */
     public  ListNode mergeTwoLists1(ListNode l1,ListNode l2){
         // 哨兵节点
         ListNode prehead = new ListNode(-1);

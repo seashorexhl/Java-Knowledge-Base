@@ -25,7 +25,9 @@ public class reverseList {
 
     }
 
-    //方法一：迭代  将当前节点的 next 指针改为指向前一个节点
+    /**
+     *  方法一：迭代  将当前节点的 next 指针改为指向前一个节点
+     * */
     public ListNode reverseList1(ListNode head) {
         ListNode pre = null;
         ListNode cur = head;
@@ -39,7 +41,9 @@ public class reverseList {
         return pre;
     }
 
-    // 方法二：递归
+    /**
+     *  方法二：递归
+     * */
     public ListNode reverseList(ListNode head) {
         if(head==null || head.next==null){
             return  head;

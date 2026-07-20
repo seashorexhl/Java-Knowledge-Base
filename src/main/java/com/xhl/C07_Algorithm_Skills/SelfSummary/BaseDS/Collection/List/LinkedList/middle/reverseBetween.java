@@ -29,7 +29,9 @@ public class reverseBetween {
 
 
     }
-    // 方法一：穿针引线 核心思想：断开-反转-重连
+    /**
+     *  方法一：穿针引线 核心思想：断开-反转-重连
+     * */
     public ListNode reverseBetween(ListNode head, int left, int right) {
         // 因为头节点有可能发生变化，使用虚拟头节点可以避免复杂的分类讨论
         ListNode dummyNode = new ListNode(-1);
@@ -64,7 +66,9 @@ public class reverseBetween {
         leftNode.next = curr;
         return dummyNode.next;
     }
-
+    /**
+     *
+     * */
     private void reverseLinkedList(ListNode head) {
         // 也可以使用递归反转一个链表
         ListNode pre = null;
@@ -77,7 +81,9 @@ public class reverseBetween {
             cur = next;
         }
     }
-    //方法二：一次遍历「穿针引线」反转链表 头插法
+    /**
+     *  方法二：一次遍历「穿针引线」反转链表 头插法
+     **/
     public ListNode reverseBetween1(ListNode head, int left, int right) {
         // 设置 dummyNode 是这一类问题的一般做法
         ListNode dummyNode = new ListNode(-1);
