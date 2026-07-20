@@ -15,7 +15,7 @@
     Git SVN Maven/Gradle Activity XXL-Job  
     Docker Kubernates  
     Linux/Windows  Android/Harmony
-    大模型:Transformer、 APi 集成、RAG、Prompt、AI Agent
+    大模型:Transformer、 API 集成、RAG、Prompt、AI Agent
 
 ## 数据结构 
 
@@ -36,23 +36,21 @@
 
     1.排序 Sort (冒泡 选择 插入 归并 快速 计数 基数 希尔)
     2.搜索 Search 
-    3.递归 遍历（前中后序）
-    4.迭代 
-    5.双指针
-    6.位运算
-    7.滑动窗口 
-    8.回朔
-    9.分治
-    10.贪婪
-    11.位运算
-    12.滑动窗口
-    13.并查集 Union-Find
-    14.BFS/DFS
-    15.动态规划
-    16.前缀和
-    17.二分法
-    18.数学/设计
-    19.模拟
+    3.递归 遍历（前中后序） recursion
+    4.迭代  iteration
+    5.双指针 Two Point
+    6.位运算 BitMap
+    7.滑动窗口 SlideWindow 
+    8.回朔 BackTrack
+    9.分治 Divide
+    10.贪婪 Greedy
+    11.并查集 Union-Find
+    12.深度优先 广度优先 BFS/DFS 
+    13.动态规划 DP
+    14.前缀和 Prefix
+    15.二分法 Binary Search
+    16.数学/设计 Math
+    17.模拟 Simulate
 
 ##  应用
 
@@ -99,9 +97,11 @@
 
 ##  专业 课程基础
     
-    软件 硬件 网络 通信 图形学 
-    数据结构与算法 + 计算机组成原理 + 计算机网络 + 操作系统 + 
+    软件 硬件 网络  图形学 通信
+    数据结构与算法 + 计算机组成原理 + 计算机网络 + 操作系统 
     通信原理 + 计算机图形学 +  计算机系统结构 + 微机原理与接口技术  
+    高等数学 + 线性代数 + 概率统计 + 大学物理
+    模拟电路 + 数字电路 EDA 
     
     
-##
+## 
