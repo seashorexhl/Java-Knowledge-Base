@@ -6,7 +6,7 @@ import java.util.Deque;
 /**
  * @Author: xhl
  * @Date: 2026-07-02 13:13
- * @Description: 71. 简化路径
+ * @Description: 71. 简化路径 ⭐⭐⭐
  */
 public class simplifyPath {
     static void main() {
@@ -15,11 +15,14 @@ public class simplifyPath {
         String s = sp.simplifyPath(Path);
         System.out.println("Simplify Path: 简化后的路径为：" + s);
     }
-    //  方法一：栈
 
+    /**
+     *  方法一：栈
+     * */
     public String simplifyPath(String path) {
         String[] names = path.split("/");
-        Deque<String> stack = new ArrayDeque<String>();
+        Deque<String> stack = new ArrayDeque<>();
+
         for (String name : names) {
             if ("..".equals(name)) {
                 if (!stack.isEmpty()) {
@@ -39,6 +42,5 @@ public class simplifyPath {
             }
         }
         return ans.toString();
-
     }
 }

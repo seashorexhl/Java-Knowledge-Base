@@ -5,6 +5,7 @@ package com.xhl.C07_Algorithm_Skills.SelfSummary.AdvancedAL.Matrix;
  * @Date: 2026-07-03 21:40
  * @Description: 矩阵操作模板
  *  1. 核心矩阵操作模板 (Java)
+ *
  */
 import java.util.Arrays;
 
@@ -113,7 +114,9 @@ public class MatrixUtils {
         System.out.println();
     }
 
-    // 维度检查辅助方法
+    /**
+     *  维度检查辅助方法
+     * */
     private static void checkDimensions(double[][] A, double[][] B, boolean isAdd) {
         if (isAdd) {
             if (A.length != B.length || A[0].length != B[0].length)

@@ -21,7 +21,7 @@ public class spiralOrder {
      * */
     public List<Integer> spiralOrder(int[][] matrix) {
         // 初始化结果列表
-        List<Integer> order = new ArrayList<Integer>();
+        List<Integer> order = new ArrayList<>();
         // 边界条件检查：如果矩阵为空、行数为0或列数为0，直接返回空列表
 
         if (matrix == null || matrix.length == 0 || matrix[0].length == 0) {

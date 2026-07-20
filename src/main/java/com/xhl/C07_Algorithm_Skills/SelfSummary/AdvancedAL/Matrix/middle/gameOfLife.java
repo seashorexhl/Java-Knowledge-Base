@@ -4,6 +4,7 @@ package com.xhl.C07_Algorithm_Skills.SelfSummary.AdvancedAL.Matrix.middle;
  * @Author: xhl
  * @Date: 2026-07-02 06:20
  * @Description: 289. 生命游戏
+ *  滑动窗口
  * 如果活细胞周围八个位置的活细胞数少于两个，则该位置活细胞死亡；
  * 如果活细胞周围八个位置有两个或三个活细胞，则该位置活细胞仍然存活；
  * 如果活细胞周围八个位置有超过三个活细胞，则该位置活细胞死亡；
