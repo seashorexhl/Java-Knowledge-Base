@@ -26,6 +26,7 @@ public class numIslands {
      * 然后立刻触发 DFS，把与它相连的所有 '1' 都“沉没”（变成 '0'），
      * 这样在后续遍历中就不会重复计算同一个岛屿了。
      */
+
     /**
      * DFS 辅助方法：将当前岛屿及其相连的所有陆地“沉没”
      * */
@@ -71,7 +72,6 @@ public class numIslands {
                 }
             }
         }
-
         return num_islands;
     }
 

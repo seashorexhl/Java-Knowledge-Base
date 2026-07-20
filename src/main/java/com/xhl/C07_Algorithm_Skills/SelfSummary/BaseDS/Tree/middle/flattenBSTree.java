@@ -9,7 +9,7 @@ import java.util.*;
  * @Author: xhl
  * @Date: 2026-06-22 13:03
  * @Description:  114. 二 叉树展开为链表
- *
+ *  层序遍历 + 前序遍历 + 前序遍历和展开同步进行
  */
 public class flattenBSTree {
     static void main() {

@@ -32,7 +32,6 @@ public class UnionFind {
             rank[i] = 0;  // 初始秩为0
         }
     }
-
     /**
      * 查找元素所在集合的根节点（带路径压缩）
      * @param x 元素索引

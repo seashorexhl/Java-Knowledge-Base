@@ -8,7 +8,7 @@ package com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.BinarySearch.middle;
  */
 public class findPeakElement {
     static void main() {
-        
+
     }
     public int findPeakElement(int[] nums) {
 

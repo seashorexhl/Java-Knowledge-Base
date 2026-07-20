@@ -1,4 +1,4 @@
-package com.xhl.C09_Career_Growth.ODExam.E95.Answer.E63;
+package com.xhl.C07_Algorithm_Skills.ODExam.E95.Answer.E63;
 
 import java.util.Scanner;
 

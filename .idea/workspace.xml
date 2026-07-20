@@ -4,26 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2cbcf97-3448-465b-8d35-77b683d9f8e0" name="更改" comment="changes develop 7.19 上午">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/UnionFind/middle/findCircleNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/UnionFind/middle/numIslands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/UnionFind/关于并查集.md" afterDir="false" />
+    <list default="true" id="e2cbcf97-3448-465b-8d35-77b683d9f8e0" name="更改" comment="changes develop 7.19 下午">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/E/CalculateCarbonEmissionReductions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/E/MeetingInMaze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/E/SpellCombinations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/Matrix/MatrixUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/Matrix/MatrixUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/Matrix/middle/gameOfLife.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/Matrix/middle/gameOfLife.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/Matrix/middle/rotateImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/Matrix/middle/rotateImage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/Matrix/middle/setZeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/Matrix/middle/setZeroes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/Matrix/middle/spiralOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/Matrix/middle/spiralOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/Matrix/transposeMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/Matrix/transposeMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/PermutationsCombinations/PCSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/PermutationsCombinations/PCSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/PermutationsCombinations/combinationSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/PermutationsCombinations/combinationSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/PermutationsCombinations/combine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/PermutationsCombinations/combine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/PermutationsCombinations/permute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/PermutationsCombinations/permute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/PermutationsCombinations/permuteUnique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/PermutationsCombinations/permuteUnique.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/PermutationsCombinations/subsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/PermutationsCombinations/subsets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/April/BirthdayCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/April/BirthdayCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/April/mergeLogs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/April/mergeLogs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/E95/Answer/E63/IPv4ToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/E95/Answer/E63/IPv4ToInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/E95/Answer/E63/ReplantDeadPoplarSaplings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/E95/Answer/E63/ReplantDeadPoplarSaplings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/E95/Answer/E63/VLANResourcePool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/E95/Answer/E63/VLANResourcePool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/E95/Answer/E63/WeTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/E95/Answer/E63/WeTeam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/E95/Answer/E63/decodeTLV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/E95/Answer/E63/decodeTLV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/E/HuaweiOD_MinSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/E/HuaweiOD_MinSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/E/findDestination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/E/findDestination.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/UnionFind/UnionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/UnionFind/UnionFind.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/UnionFind/UnionFindSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/UnionFind/UnionFindSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/UnionFind/easy/validPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/UnionFind/easy/validPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/UnionFind/middle/findCircleNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/UnionFind/middle/findCircleNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/UnionFind/middle/numIslands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/UnionFind/middle/numIslands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/BinarySearch/middle/findPeakElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/BinarySearch/middle/findPeakElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/flattenBSTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/flattenBSTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,6 +115,8 @@
     "应用程序.Attendance.executor": "Run",
     "应用程序.BSPostorderTraversal.executor": "Run",
     "应用程序.BSPreorderTraversal.executor": "Run",
+    "应用程序.BirthdayCounter.executor": "Run",
+    "应用程序.CalculateCarbonEmissionReductions.executor": "Run",
     "应用程序.CanMakeSquare.executor": "Run",
     "应用程序.ClimbingStairs.executor": "Run",
     "应用程序.CoinChanges.executor": "Run",
@@ -133,10 +134,12 @@
     "应用程序.Main.executor": "Run",
     "应用程序.MainTest.executor": "Run",
     "应用程序.MaxDepthSolution.executor": "Run",
+    "应用程序.MeetingInMaze.executor": "Run",
     "应用程序.NativeFileLister.executor": "Run",
     "应用程序.Product.executor": "Run",
     "应用程序.RecursiveJavaFileLister.executor": "Run",
     "应用程序.RestoreNumericalSequence.executor": "Run",
+    "应用程序.SpellCombinations.executor": "Run",
     "应用程序.StringElimination.executor": "Run",
     "应用程序.TraverseTree.executor": "Run",
     "应用程序.TreeBuilder.executor": "Run",
@@ -263,13 +266,13 @@
       <recent name="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.easy" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.findCircleNum">
-    <configuration name="findCircleNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.SelfSummary.AdvancedAL.UnionFind.middle.findCircleNum" />
+  <component name="RunManager" selected="应用程序.BirthdayCounter">
+    <configuration name="BirthdayCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.ODExam.A2026.easy100.April.BirthdayCounter" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.SelfSummary.AdvancedAL.UnionFind.middle.*" />
+          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.ODExam.A2026.easy100.April.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,12 +280,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="numIslands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.SelfSummary.AdvancedAL.UnionFind.middle.numIslands" />
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C04_Enterprise_Frameworks.NativeUtil.Util.Test.MainTest" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.SelfSummary.AdvancedAL.UnionFind.middle.*" />
+          <option name="PATTERN" value="com.xhl.C04_Enterprise_Frameworks.NativeUtil.Util.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,12 +293,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="searchInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.BinarySearch.easy.searchInsert" />
+    <configuration name="SpellCombinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.ODExam.LatestOD.E.SpellCombinations" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.BinarySearch.easy.*" />
+          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.ODExam.LatestOD.E.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -303,12 +306,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="searchMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.BinarySearch.middle.searchMatrix" />
+    <configuration name="calculateElectricityCost" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.ODExam.A2026.easy100.April.calculateElectricityCost" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.BinarySearch.middle.*" />
+          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.ODExam.A2026.easy100.April.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -316,12 +319,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="twoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.middle.twoSum" />
+    <configuration name="flattenBSTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.Tree.middle.flattenBSTree" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.middle.*" />
+          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.Tree.middle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -331,11 +334,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.findCircleNum" />
-        <item itemvalue="应用程序.numIslands" />
-        <item itemvalue="应用程序.searchMatrix" />
-        <item itemvalue="应用程序.searchInsert" />
-        <item itemvalue="应用程序.twoSum" />
+        <item itemvalue="应用程序.BirthdayCounter" />
+        <item itemvalue="应用程序.calculateElectricityCost" />
+        <item itemvalue="应用程序.MainTest" />
+        <item itemvalue="应用程序.flattenBSTree" />
+        <item itemvalue="应用程序.SpellCombinations" />
       </list>
     </recent_temporary>
   </component>
@@ -707,7 +710,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784427834092</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="changes develop 7.19 下午">
+      <option name="closed" value="true" />
+      <created>1784445350283</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1784445350283</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -752,7 +763,8 @@
     <MESSAGE value="changes develop 7.18 晚上" />
     <MESSAGE value="changes develop 7.18 晚" />
     <MESSAGE value="changes develop 7.19 上午" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes develop 7.19 上午" />
+    <MESSAGE value="changes develop 7.19 下午" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes develop 7.19 下午" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>

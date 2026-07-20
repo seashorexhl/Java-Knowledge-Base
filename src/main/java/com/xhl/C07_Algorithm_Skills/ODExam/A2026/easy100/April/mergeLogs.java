@@ -24,7 +24,9 @@ public class mergeLogs {
         }
 
     }
-    // 滑动窗口 + 字符串处理
+    /**
+     *  滑动窗口 + 字符串处理
+     * */
     public int[][] mergeLogs(String[] paths, int[] responseTimes) {
         List<int[]> result = new ArrayList<>();
         if (paths.length == 0) return new int[0][3];

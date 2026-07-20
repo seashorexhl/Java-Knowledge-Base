@@ -1,9 +1,10 @@
-package com.xhl.C09_Career_Growth.ODExam.LatestOD.E;
+package com.xhl.C07_Algorithm_Skills.ODExam.LatestOD.E;
 
 /**
  * @Author: xhl
  * @Date: 2026-06-29 14:43
- * @Description: 正好走到数组最后一个成员，所使用的最少步骤数
+ * @Description:
+ * 正好走到数组最后一个成员，所使用的最少步骤数
  */
 
 import java.util.LinkedList;
