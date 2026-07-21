@@ -6,6 +6,7 @@ import com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.Tree.TreeNode;
  * @Author: xhl
  * @Date: 2026-06-30 16:46
  * @Description: 124. 二叉树中的最大路径和
+ *  递归求解
  */
 public class maxPathSum {
     //    方法一：递归

@@ -12,6 +12,7 @@ import java.util.Queue;
  * @Author: xhl
  * @Date: 2026-06-21 02:37
  * @Description: 二 叉 树的层序遍历
+ *
  */
 public class levelOrder {
     static void main() {
@@ -27,7 +28,9 @@ public class levelOrder {
         System.out.println("二叉树的层序遍历：");
         System.out.println(lo.levelOrder(root));
     }
-    // 二 叉树的层序遍历   BFS 算法
+    /**
+     *  二 叉树的层序遍历   BFS 算法
+     * */
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> result = new ArrayList<>();
 

@@ -35,7 +35,9 @@ public class BSTreeTraverse {
         System.out.println("迭代方法 中序遍历：");
         System.out.println(inorder.toString());
     }
-    // 二 叉树的中序遍历 递归
+    /**
+     *  二 叉树的中序遍历 递归
+     * */
     public List<Integer> inorderRecursive(BSTreeNode root) {
         List<Integer> list = new LinkedList<>();
         if (root == null) return list;
@@ -44,7 +46,9 @@ public class BSTreeTraverse {
         list.addAll(inorderRecursive(root.right));
         return list;
     }
-    // 二叉树的 中序遍历 迭代遍历
+    /**
+     *  二叉树的 中序遍历 迭代遍历
+     * */
     public List<Integer> inorder(BSTreeNode root) {
         List<Integer> res = new LinkedList<>();
         // 双端队列 LinkedList 多线程环境下使用，都需要 synchronizedDeque

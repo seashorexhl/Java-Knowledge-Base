@@ -7,6 +7,7 @@ import com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.Tree.TreeNode;
  * @Author: xhl
  * @Date: 2026-06-22 11:36
  * @Description: 112 路径总和
+ *
  */
 public class hasPathSum {
     static void main() {
@@ -26,7 +27,9 @@ public class hasPathSum {
         System.out.println(hp.hasPathSum(root, targetSum));
 
     }
-    //
+    /**
+     *  递归解决
+     * */
     public boolean hasPathSum0(TreeNode root, int targetSum) {
         if (root == null) {
             return false;

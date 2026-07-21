@@ -29,7 +29,9 @@ public class BSPostorderTraversal {
         List<Integer> list2 = bsp2.optimizePostorderTraversal(root);
         System.out.println(list2.toString());
     }
-    // 递归 后序遍历
+    /**
+     *  递归 后序遍历
+     * */
     public List<Integer> postorderTraversal(BSTreeNode root) {
         List<Integer> list = new ArrayList<>();
         if (root == null) return list;
@@ -39,7 +41,9 @@ public class BSPostorderTraversal {
         list.add(root.val);
         return list;
     }
-    // 优化 后序遍历
+    /**
+     *  优化 后序遍历
+     * */
     // 公开的入口方法
     public List<Integer> optimizePostorderTraversal(BSTreeNode root) {
         List<Integer> result = new ArrayList<>();
@@ -50,7 +54,9 @@ public class BSPostorderTraversal {
         return result;
     }
 
-    // 辅助递归函数：严格遵循 左 -> 右 -> 根 的顺序
+    /**
+     *  辅助递归函数：严格遵循 左 -> 右 -> 根 的顺序
+     * */
     private void postorderHelper(BSTreeNode node, List<Integer> list) {
         if (node == null) {
             return; // 递归终止条件

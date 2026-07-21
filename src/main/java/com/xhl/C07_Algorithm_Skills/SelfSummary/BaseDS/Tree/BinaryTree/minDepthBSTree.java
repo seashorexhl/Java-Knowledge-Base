@@ -23,7 +23,9 @@ public class minDepthBSTree {
         minDepthBSTree mdbstree = new minDepthBSTree();
         System.out.println(mdbstree.minDepth(root));
     }
-    /*采用 BFS 框架 */
+    /**
+     * 采用 BFS 框架
+     * */
      public int minDepth(TreeNode root) {
 
         if (root == null) return 0;
