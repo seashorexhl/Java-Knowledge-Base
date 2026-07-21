@@ -23,7 +23,6 @@ public class convert {
 
         String result3 = cv.convert3(s, numRows);
         System.out.println("方法三（直接构造）结果: " + result3);
-
     }
 
     /**
@@ -56,7 +55,6 @@ public class convert {
         }
         return ans.toString();
     }
-
     /**
      *  方法二：压缩矩阵空间
      * */
@@ -87,7 +85,6 @@ public class convert {
         }
         return ans.toString();
     }
-
     /**
      *  方法三：直接构造
      * */

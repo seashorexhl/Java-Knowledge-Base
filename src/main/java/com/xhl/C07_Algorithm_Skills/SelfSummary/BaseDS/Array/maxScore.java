@@ -11,7 +11,9 @@ public class maxScore {
         maxScore ms = new maxScore();
         System.out.println("分割字符串的最大得分为：s"+ms.maxScore(s));
     }
-    //方法一：枚举每个分割点 循环+计数
+    /**
+     *  方法一：枚举每个分割点 循环+计数
+     * */
     public int maxScore(String s) {
         int ans = 0;
         int n = s.length();
@@ -31,7 +33,9 @@ public class maxScore {
         }
         return ans;
     }
-    // 方法二： 两次遍历
+    /**
+     *  方法一：枚举每个分割点 循环+计数
+     * */
     public int maxScore1(String s) {
         int score = 0;
         int n = s.length();

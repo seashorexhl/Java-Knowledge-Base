@@ -34,7 +34,7 @@ public class zigzagLevelOrder {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
         // 1. 初始化结果集，用于存储每一层的遍历结果
         List<List<Integer>> ans = new LinkedList<>();
-        // 边界条件：如果根节点为空，直接返回空结果集
+        // 边界条件判断：如果根节点为空，直接返回空结果集
         if (root == null) {
             return ans;
         }

@@ -12,17 +12,14 @@ import java.util.Set;
  * @Author: xhl
  * @Date: 2026-06-22 13:40
  * @Description: 236. 二 叉树的最近公共祖先
+ *
  */
 public class lowestCommonAncestor {
-    static void main() {
-        TreeNode root = new TreeNode(1);
-
-    }
     /**
      * 方法二：存储父节点
      * */
     Map<Integer, TreeNode> parent = new HashMap<>();
-    Set<Integer> visited = new HashSet<>();
+
     /**
      *  方法一：递归
      * */
@@ -46,7 +43,15 @@ public class lowestCommonAncestor {
         this.dfs(root, p, q);
         return this.ans;
     }
+    Set<Integer> visited = new HashSet<>();
 
+    /**
+     *  主函数
+     * */
+    static void main() {
+        TreeNode root = new TreeNode(1);
+
+    }
     public void dfs(TreeNode root) {
         if (root.left != null) {
             parent.put(root.left.val, root);
