@@ -3,8 +3,10 @@ package com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.Array.hard;
 /**
  * @Author: xhl
  * @Date: 2026-07-03 18:12
- * @Description: 135. 分发糖果
+ * @Description: 135. 分发糖果 (困难)
  *  最少需要的糖果数
+ *  方法一：暴力求解
+ *  方法二：贪心数学规律
  */
 public class candy {
     static void main() {

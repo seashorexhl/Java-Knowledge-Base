@@ -5,14 +5,11 @@ package com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.BinaryTree.BST;
  * @Author: xhl
  * @Date: 2026-06-22 13:43
  * @Description: 530. 二 叉搜索树的最小绝对差
+ *
  * 给你一个 二 叉搜索树的根节点 root ，返回 树中任意两不同节点值之间的最小差值 。
  * 差值是一个正数，其数值等于两值之差的绝对值。
  */
 public class getMinimumDifference {
-
-    //    方法一：中序遍历
-    Integer pre;
-    Integer ans;
 
     static void main() {
         BSTreeNode root = new BSTreeNode(4);
@@ -25,7 +22,11 @@ public class getMinimumDifference {
         int minimumDifference = gmd.getMinimumDifference(root);
         System.out.println("Minimum Difference: " + minimumDifference);
     }
-
+    /**
+     *  方法一：中序遍历
+     * */
+    Integer pre;
+    Integer ans;
     public int getMinimumDifference(BSTreeNode root) {
         ans = Integer.MAX_VALUE;
         pre = null;

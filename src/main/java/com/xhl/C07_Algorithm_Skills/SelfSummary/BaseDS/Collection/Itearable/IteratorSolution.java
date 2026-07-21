@@ -13,7 +13,7 @@ import java.util.List;
 public class IteratorSolution {
 
     static void main() {
-        List<String> list = new ArrayList<String>();
+        List<String> list = new ArrayList<>();
 
         Iterator<String> it = list.iterator();
         while (it.hasNext()) {

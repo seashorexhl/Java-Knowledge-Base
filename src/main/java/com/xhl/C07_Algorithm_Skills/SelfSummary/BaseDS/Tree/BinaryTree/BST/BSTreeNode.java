@@ -3,7 +3,7 @@ package com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.Tree.BinaryTree.BST;
 /**
  * @Author: xhl
  * @Date: 2026-06-05 10:58
- * @Description: 二 叉搜索树 的 节点构建
+ * @Description:  二 叉搜索树 的 节点构建
  */
 public class BSTreeNode {
 

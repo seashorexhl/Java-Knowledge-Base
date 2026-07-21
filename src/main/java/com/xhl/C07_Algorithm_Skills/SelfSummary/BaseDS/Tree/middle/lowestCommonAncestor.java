@@ -61,7 +61,9 @@ public class lowestCommonAncestor {
         TreeNode q5 = root.right.right;
         test(lca, root, p5, q5, 3, "用例5: root本身就是LCA");
     }
-
+    /**
+     *  测试 方法
+     * */
     private static void test(lowestCommonAncestor lca, TreeNode root, TreeNode p, TreeNode q, int expected, String desc) {
         TreeNode res1 = lca.lowestCommonAncestor(root, p, q);
         TreeNode res2 = lca.lowestCommonAncestor1(root, p, q);
@@ -103,7 +105,9 @@ public class lowestCommonAncestor {
         this.dfs(root, p, q);
         return this.ans;
     }
-    // 深度优先
+    /**
+     *  深度优先 DFS
+     * */
     public void dfs(TreeNode root) {
         if (root.left != null) {
             parent.put(root.left.val, root);
@@ -114,7 +118,9 @@ public class lowestCommonAncestor {
             dfs(root.right);
         }
     }
-
+    /**
+     *  方法二：递归
+     * */
     public TreeNode lowestCommonAncestor1(TreeNode root, TreeNode p, TreeNode q) {
         dfs(root);
         while (p != null) {

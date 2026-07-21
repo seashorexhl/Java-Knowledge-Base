@@ -9,7 +9,9 @@ import java.util.*;
  * @Author: xhl
  * @Date: 2026-06-22 13:03
  * @Description:  114. 二 叉树展开为链表 ⭐⭐⭐⭐
- *  层序遍历 + 前序遍历 + 前序遍历和展开同步进行
+ *  方法一：前序遍历
+ *  方法二：前序遍历和展开同步进行
+ *  方法三：层序遍历
  */
 public class flattenBSTree {
     static void main() {
@@ -72,6 +74,7 @@ public class flattenBSTree {
      * 方法二：前序遍历和展开同步进行
      */
     public void flatten1(TreeNode root) {
+
         List<TreeNode> list = new ArrayList<>();
         Deque<TreeNode> stack = new LinkedList<>();
 

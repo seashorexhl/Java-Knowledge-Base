@@ -7,7 +7,7 @@ import java.util.LinkedList;
  * @Author: xhl
  * @Date: 2026-06-03 01:34
  * @Description: 链表 与双链表
- * 常用 API 生命周期 通常作为 双端 Deque用
+ * 常用 API 生命周期 通常作为 双端队列 Deque用
  *
  */
 public class LinkedListLifeStyle {

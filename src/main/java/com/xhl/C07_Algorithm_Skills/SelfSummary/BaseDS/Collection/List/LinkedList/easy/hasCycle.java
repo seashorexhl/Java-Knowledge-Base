@@ -46,7 +46,9 @@ public class hasCycle {
         return false;
     }
 
-    //方法二：快慢指针 依靠 快慢指针 和
+    /**
+     *  方法二：快慢指针 依靠 快慢指针 和
+     * */
     public boolean hasCycle1(ListNode head) {
         if (head ==null || head.next == null){
             return  false;

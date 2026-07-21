@@ -20,7 +20,9 @@ public class BinarySTIterator {
         cur = root;
         stack = new LinkedList<>();
     }
-
+    /**
+     *  主函数
+     * */
     static void main(String[] args) {
 
     }

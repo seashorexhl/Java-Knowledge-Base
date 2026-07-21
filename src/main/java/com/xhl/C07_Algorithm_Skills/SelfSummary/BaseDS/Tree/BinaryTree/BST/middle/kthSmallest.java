@@ -29,7 +29,9 @@ public class kthSmallest {
 
 
     }
-    // 方法一：中序遍历
+    /**
+     *  方法一：中序遍历
+     * */
     public int kthSmallest(BSTreeNode root, int k) {
         Deque<BSTreeNode> stack = new LinkedList<>();
         while (root != null || !stack.isEmpty()) {

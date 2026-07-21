@@ -12,7 +12,7 @@ import java.util.Queue;
  * @Author: xhl
  * @Date: 2026-06-21 02:37
  * @Description: 二 叉 树的层序遍历
- *  BFS
+ *  BFS 广度优先遍历
  */
 public class levelOrder {
     static void main() {

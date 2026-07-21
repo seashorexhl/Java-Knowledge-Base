@@ -28,7 +28,9 @@ public class isValidBST {
         System.out.println("验证是否是 二叉搜索树：");
         System.out.println(ivb.isValidBST(root));
     }
-    // 方法一 ：递归
+    /**
+     *  方法一 ：递归
+     * */
     public boolean isValidBST(TreeNode root) {
         return isValidBST(root, Long.MIN_VALUE, Long.MAX_VALUE);
     }
@@ -41,7 +43,9 @@ public class isValidBST {
         }
         return isValidBST(node.left, lower, node.val) && isValidBST(node.right, node.val, upper);
     }
-    // 中序遍历
+    /**
+     *  中序遍历
+     * */
     public boolean isValidBST1(TreeNode root) {
         Deque<TreeNode> stack = new LinkedList<TreeNode>();
         double inorder = -Double.MAX_VALUE;

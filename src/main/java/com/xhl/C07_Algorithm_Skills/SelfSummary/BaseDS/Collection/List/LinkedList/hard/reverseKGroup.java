@@ -7,6 +7,7 @@ import com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.Collection.List.LinkedLis
  * @Author: xhl
  * @Date: 2026-06-25 00:35
  * @Description: 25. K 个一组翻转链表
+ *  方法：模拟
  */
 public class reverseKGroup {
     static void main() {

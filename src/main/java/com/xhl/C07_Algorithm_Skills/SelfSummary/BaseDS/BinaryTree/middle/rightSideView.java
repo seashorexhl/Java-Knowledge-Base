@@ -80,11 +80,11 @@ public class rightSideView {
      * */
 
     public List<Integer> rightSideViewBFS(BSTreeNode root) {
-        Map<Integer, Integer> rightmostValueAtDepth = new HashMap<Integer, Integer>();
+        Map<Integer, Integer> rightmostValueAtDepth = new HashMap<>();
         int max_depth = -1;
         // 队列
-        Queue<BSTreeNode> nodeQueue = new LinkedList<BSTreeNode>();
-        Queue<Integer> depthQueue = new LinkedList<Integer>();
+        Queue<BSTreeNode> nodeQueue = new LinkedList<>();
+        Queue<Integer> depthQueue = new LinkedList<>();
         nodeQueue.add(root);
         depthQueue.add(0);
 

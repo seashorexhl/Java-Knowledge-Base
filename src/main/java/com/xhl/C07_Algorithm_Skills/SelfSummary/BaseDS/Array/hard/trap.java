@@ -7,7 +7,7 @@ import java.util.LinkedList;
  * @Author: xhl
  * @Date: 2026-07-03 18:14
  * @Description: 42. 接雨水 ⭐⭐⭐⭐⭐
- *  三种方法 务必掌握：
+ *  四种方法 务必掌握：
  *      滑动窗口
  *      动态规划
  *      双指针

@@ -23,7 +23,9 @@ public class averageOfLevels {
         List<Double> res = aol.averageOfLevels(root);
         System.out.println(Arrays.toString(res.toArray()));
     }
-    //  方法一: 深度优先搜索
+    /**
+     *  方法一: 深度优先搜索
+     * */
     public List<Double> averageOfLevels(TreeNode root) {
         List<Integer> counts = new ArrayList<>();
         List<Double> sums = new ArrayList<>();
@@ -35,7 +37,9 @@ public class averageOfLevels {
         }
         return averages;
     }
-    // DFS 方法
+    /**
+     *  DFS 方法
+     * */
     public void dfs(TreeNode root,int level,List<Integer> counts,List<Double> sums){
         if(root == null){
             return;
@@ -50,7 +54,9 @@ public class averageOfLevels {
         dfs(root.left,level +1,counts,sums);
         dfs(root.right,level+1,counts,sums);
     }
-    // 方法二：广度优先搜索
+    /**
+     *  方法二：广度优先搜索
+     * */
     public List<Double> averageOfLevels1(TreeNode root) {
 
         List<Double> averages = new ArrayList<>();

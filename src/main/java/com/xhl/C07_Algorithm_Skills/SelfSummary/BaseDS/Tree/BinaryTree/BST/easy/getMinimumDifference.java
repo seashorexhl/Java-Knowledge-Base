@@ -12,10 +12,6 @@ import com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.Tree.BinaryTree.BST.BSTre
  */
 public class getMinimumDifference {
 
-    //    方法一：中序遍历
-    Integer pre;
-    Integer ans;
-
     static void main() {
         BSTreeNode root = new BSTreeNode(4);
         root.left = new BSTreeNode(2);
@@ -27,7 +23,11 @@ public class getMinimumDifference {
         int minimumDifference = gmd.getMinimumDifference(root);
         System.out.println("Minimum Difference: " + minimumDifference);
     }
-
+    /**
+     *  方法一：中序遍历
+     * */
+    Integer pre;
+    Integer ans;
     public int getMinimumDifference(BSTreeNode root) {
         ans = Integer.MAX_VALUE;
         pre = null;

@@ -24,11 +24,14 @@ public class BSMaxDepth {
         System.out.println("Max Depth: " + i);
     }
 
+    /**
+     *  递归
+     * */
     // 输入 根节点 计算返回这棵二叉树的最大深度
     int MaxDepth(TreeNode root) {
         if (root == null) return 0;
         // 递归计算左右子树最大深度
         return Math.max(MaxDepth(root.left), MaxDepth(root.right)) + 1;
     }
-    //
+
 }

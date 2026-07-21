@@ -17,7 +17,6 @@ public class getMinimumDifference {
         Scanner sc = new Scanner(System.in);
 
 
-
         sc.close();
     }
     public int getMinimumDifference(TreeNode root) {

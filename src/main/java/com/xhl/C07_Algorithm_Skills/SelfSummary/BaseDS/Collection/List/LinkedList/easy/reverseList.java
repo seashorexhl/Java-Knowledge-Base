@@ -7,6 +7,7 @@ import com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.Collection.List.LinkedLis
  * @Author: xhl
  * @Date: 2026-06-24 22:31
  * @Description: 206 反转链表
+ *  递归+迭代
  */
 public class reverseList {
     static void main() {

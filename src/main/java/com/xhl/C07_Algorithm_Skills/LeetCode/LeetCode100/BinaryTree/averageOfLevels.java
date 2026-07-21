@@ -11,7 +11,8 @@ import java.util.Queue;
 /**
  * @Author: xhl
  * @Date: 2026-06-07 18:12
- * @Description: 二 叉 树  的 每层 平均值 一维动态规划
+ * @Description:  637. 二叉树的层平均值
+ *
  */
 public class averageOfLevels {
     public static void main(String[] args) {
@@ -30,22 +31,26 @@ public class averageOfLevels {
         System.out.println("二叉树广度优先搜索 方法计算平均值:"+ doubles2);
 
     }
-    // 方法一: 深度优先搜索
+    /**
+     *  方法一: 深度优先搜索
+     * */
     public List<Double> BSaverageOfLevels(TreeNode root) {
         // 用来存储 二叉树的每一层的节点个数
-        List<Integer> counts = new ArrayList<Integer>();
+        List<Integer> counts = new ArrayList<>();
         // 用来存储 二叉树的每一层的节点 的和
-        List<Double> sums = new ArrayList<Double>();
+        List<Double> sums = new ArrayList<>();
         // 深度优先 遍历
         dfs(root, 0, counts, sums);
-        List<Double> averages = new ArrayList<Double>();
+        List<Double> averages = new ArrayList<>();
         int size = sums.size();
         for (int i = 0; i < size; i++) {
             averages.add(sums.get(i) / counts.get(i));
         }
         return averages;
     }
-    // 深度优先搜索 dfs
+    /**
+     *  深度优先搜索  dfs
+     * */
     public void dfs(TreeNode root, int level, List<Integer> counts, List<Double> sums) {
         if (root == null) {
             return;
@@ -60,11 +65,13 @@ public class averageOfLevels {
         dfs(root.left, level + 1, counts, sums);
         dfs(root.right, level + 1, counts, sums);
     }
-
-    // 方法二：广度优先搜索
+    /**
+     *  方法二：广度优先搜索
+     * */
     public List<Double> GaverageOfLevels(TreeNode root) {
-        List<Double> averages = new ArrayList<Double>();
-        Queue<TreeNode> queue = new LinkedList<TreeNode>();
+        List<Double> averages = new ArrayList<>();
+        Queue<TreeNode> queue = new LinkedList<>();
+
         queue.offer(root);
         while (!queue.isEmpty()) {
             double sum = 0;

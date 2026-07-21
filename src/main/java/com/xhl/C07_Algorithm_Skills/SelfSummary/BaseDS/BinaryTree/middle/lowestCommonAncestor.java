@@ -15,6 +15,7 @@ import java.util.Set;
  */
 public class lowestCommonAncestor {
     static void main() {
+        TreeNode root = new TreeNode(1);
 
     }
     /**

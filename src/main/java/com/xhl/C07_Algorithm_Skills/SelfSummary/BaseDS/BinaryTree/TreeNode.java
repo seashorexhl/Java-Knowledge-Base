@@ -3,7 +3,7 @@ package com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.BinaryTree;
 /**
  * @Author: xhl
  * @Date: 2026-07-20 16:54
- * @Description: TreeNode 树的节点
+ * @Description: TreeNode  树的节点
  */
 public class TreeNode {
     int val;

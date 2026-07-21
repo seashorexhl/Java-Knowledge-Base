@@ -24,18 +24,24 @@ public class countNodes {
         System.out.println(i);
     }
 
-    // 普通二叉树
+    /**
+     * 普通二叉树
+     * */
     int countNodes(TreeNode root) {
         if (root == null) return 0;
         return 1 + countNodes(root.left) + countNodes(root.right);
     }
 
-    // 满二叉树
+    /**
+     *   满二叉树
+     * */
     public int countNodes1(TreeNode root) {
         if (root == null) return 0;
         return 1 + countNodes(root.left) + countNodes(root.right);
     }
-    // 完全二叉树
+    /**
+     *  完全二叉树
+     * */
     public int countNodes2(TreeNode root) {
         TreeNode l = root, r = root;
         // 记录左、右子树的高度

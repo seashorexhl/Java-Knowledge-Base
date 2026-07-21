@@ -9,8 +9,6 @@ import java.util.*;
  */
 public class CollectionsTemplate {
 
-
-
     public static void main(String[] args) {
         /**
          *  一、排序与反转（最高频）

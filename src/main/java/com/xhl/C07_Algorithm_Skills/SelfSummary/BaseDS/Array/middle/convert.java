@@ -4,6 +4,9 @@ package com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.Array.middle;
  * @Author: xhl
  * @Date: 2026-07-11 21:12
  * @Description: 6. Z 字形变换
+ *  方法一：利用二维矩阵模拟
+ *  方法二：压缩矩阵空间
+ *  方法三：直接构造
  */
 public class convert {
     static void main(String[] args) {
@@ -23,7 +26,9 @@ public class convert {
 
     }
 
-    // 方法一：利用二维矩阵模拟
+    /**
+     *  方法一：利用二维矩阵模拟
+     * */
     public String convert(String s, int numRows) {
         int n = s.length(), r = numRows;
         if (r == 1 || r >= n) {
@@ -52,7 +57,9 @@ public class convert {
         return ans.toString();
     }
 
-    //方法二：压缩矩阵空间
+    /**
+     *  方法二：压缩矩阵空间
+     * */
     public String convert2(String s, int numRows) {
         int n = s.length(), r = numRows;
         if (r == 1 || r >= n) {
@@ -81,7 +88,9 @@ public class convert {
         return ans.toString();
     }
 
-    // 方法三：直接构造
+    /**
+     *  方法三：直接构造
+     * */
     public    String convert3(String s, int numRows) {
         int n = s.length(), r = numRows;
         if (r == 1 || r >= n) {

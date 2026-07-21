@@ -14,8 +14,7 @@ import java.util.Queue;
  * 层序遍历 BFS
  */
 public class connect {
-    // 方法二：使用已建立的 next 指针
-    Node last = null, nextStart = null;
+
 
     static void main() {
         Node root = new Node(1);
@@ -31,7 +30,6 @@ public class connect {
         System.out.println(conn.serializeByNext(node));
 
     }
-
     /**
      *  方法一:层序遍历
      * */
@@ -60,6 +58,9 @@ public class connect {
     /**
      *  方法二：使用已建立的 next 指针
      * */
+    // 方法二：使用已建立的 next 指针
+    Node last = null, nextStart = null;
+
     public Node connect1(Node root) {
         if (root == null) {
             return null;

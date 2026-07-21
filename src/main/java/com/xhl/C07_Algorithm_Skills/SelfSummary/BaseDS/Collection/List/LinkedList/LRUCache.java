@@ -7,7 +7,7 @@ import java.util.Map;
  * @Author: xhl
  * @Date: 2026-06-25 00:55
  * @Description: 146. LRU 缓存
- *  伪头部和伪尾部节点
+ *  构造伪头部和伪尾部节点
  */
 public class LRUCache  {
     private Map<Integer, DLinkedNode> cache = new HashMap<>();

@@ -4,6 +4,8 @@ package com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.Array.easy;
  * @Author: xhl
  * @Date: 2026-07-11 22:02
  * @Description: 27. 移除元素
+ *  方法一：双指针
+ *  方法二：优化双指针
  */
 public class removeElement {
     static void main(String[] args) {
@@ -14,7 +16,10 @@ public class removeElement {
             System.out.print(nums[i1]+ " ");
         }
     }
-    // 方法一：双指针  调用者可以直接通过返回的长度截取数组的前 left 个元素作为最终结果。
+    /**
+     *  方法一：双指针
+     * */
+    // 调用者可以直接通过返回的长度截取数组的前 left 个元素作为最终结果。
     public static int removeElement(int[] nums, int val) {
         int n = nums.length;
         int left = 0;
@@ -27,7 +32,9 @@ public class removeElement {
         }
         return  left;
     }
-    //方法二：双指针优化
+    /**
+     *  方法二：双指针优化
+     * */
     public  static int removeElement1(int[] nums, int val) {
         int left = 0;
         int right = nums.length;

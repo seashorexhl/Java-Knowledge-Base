@@ -10,19 +10,7 @@ import java.util.Map;
  *
  */
 public class LRUCache  {
-    private Map<Integer, DLinkedNode> cache = new HashMap<>();
-    private int size;
-    private int capacity;
-    private DLinkedNode head, tail;
-    public LRUCache(int capacity) {
-        this.size = 0;
-        this.capacity = capacity;
-        // 使用伪头部和伪尾部节点
-        head = new DLinkedNode();
-        tail = new DLinkedNode();
-        head.next = tail;
-        tail.prev = head;
-    }
+
 
     static void main() {
         System.out.println("LRU 缓存!");
@@ -51,6 +39,20 @@ public class LRUCache  {
         return node.value;
     }
 
+    private Map<Integer, DLinkedNode> cache = new HashMap<>();
+    private int size;
+    private int capacity;
+    private DLinkedNode head, tail;
+    public LRUCache(int capacity) {
+        this.size = 0;
+        this.capacity = capacity;
+        // 使用伪头部和伪尾部节点
+        head = new DLinkedNode();
+        tail = new DLinkedNode();
+        head.next = tail;
+        tail.prev = head;
+    }
+
     public void put(int key, int value) {
         DLinkedNode node = cache.get(key);
         if (node == null) {
@@ -76,7 +78,6 @@ public class LRUCache  {
         }
     }
     //    2. 插入到头部 (addToHead)
-
     private void addToHead(DLinkedNode node) {
         node.prev = head;
         node.next = head.next;
