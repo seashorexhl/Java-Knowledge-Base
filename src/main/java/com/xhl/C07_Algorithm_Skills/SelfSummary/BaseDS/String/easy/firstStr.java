@@ -17,7 +17,9 @@ public class firstStr {
 
 
     }
-    //    方法一：暴力匹配
+    /**
+     *  方法一：暴力匹配
+     * */
     public int strStr(String haystack, String needle) {
         int m = haystack.length(), n = needle.length();
 
@@ -35,7 +37,9 @@ public class firstStr {
         }
         return -1;
     }
-    // 方法二：Knuth-Morris-Pratt 算法 ：KMP算法
+    /**
+     *  方法二：Knuth-Morris-Pratt 算法 ：KMP算法
+     * */
     public int strStr1(String haystack, String needle) {
         int n = haystack.length(), m = needle.length();
         if (m == 0) {

@@ -8,6 +8,7 @@ import java.util.Arrays;
  * @Description: 字符串 的常用方法等等
  */
 public class StringLifeStyle {
+
     public static void main(String[] args) {
         String str = "a,b,c,d,e,f,g,h,i,j,k";
         String nums = "12 3456 789  ";

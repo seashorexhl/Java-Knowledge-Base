@@ -16,12 +16,16 @@ public class toLowerCase {
         System.out.println(tlc.toUpCase(s));
     }
 
-    //方法一：使用语言 API
+    /**
+     *  方法一：使用语言 API
+     * */
     public String toLowerCase(String s) {
         return s.toLowerCase();
     }
 
-    //    方法二：自行实现该 API 转换成 小写
+    /**
+     *  方法二：自行实现该 API 转换成 小写
+     * */
     public String toLowerCase1(String s) {
         StringBuilder sb = new StringBuilder();
         for (int i = 0; i < s.length(); ++i) {
@@ -38,7 +42,9 @@ public class toLowerCase {
         }
         return sb.toString();
     }
-    // 转换成 大写
+    /**
+     *  转换成 大写
+     * */
     public  String toUpCase(String s) {
         StringBuilder sb = new StringBuilder();
         for (int i = 0; i < s.length(); ++i) {

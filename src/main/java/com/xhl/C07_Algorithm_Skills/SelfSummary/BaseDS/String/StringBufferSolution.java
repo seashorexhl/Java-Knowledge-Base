@@ -13,8 +13,5 @@ public class StringBufferSolution {
         sb.append('c');
         System.out.println(sb.toString());
 
-
-
-
     }
 }

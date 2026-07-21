@@ -16,7 +16,9 @@ public class convert {
 
     }
 
-    //    方法一：利用二维矩阵模拟
+    /**
+     *  方法一：利用二维矩阵模拟
+     * */
     public String convert(String s, int numRows) {
         int n = s.length(), r = numRows;
         if (r == 1 || r >= n) {
@@ -45,7 +47,9 @@ public class convert {
         return ans.toString();
     }
 
-    // 方法二：压缩矩阵空间
+    /**
+     *  方法二：压缩矩阵空间
+     * */
     public String convert1(String s, int numRows) {
         int n = s.length(), r = numRows;
         if (r == 1 || r >= n) {
@@ -70,7 +74,9 @@ public class convert {
         return ans.toString();
     }
 
-    //方法三：直接构造
+    /**
+     *  方法三：直接构造
+     * */
     public String convert2(String s, int numRows) {
 
         int n = s.length(), r = numRows;

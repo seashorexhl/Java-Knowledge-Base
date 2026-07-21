@@ -18,7 +18,9 @@ public class vowelStrings {
         System.out.println(vs.vowelStrings(words, left, right));
     }
 
-    //    方法一：枚举范围内的字符串
+    /**
+     *  方法一：枚举范围内的字符串
+     * */
     public int vowelStrings(String[] words, int left, int right) {
         int ans = 0;
         Set<Character> set = new HashSet<>();

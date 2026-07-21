@@ -9,6 +9,7 @@ import java.util.List;
  * @Author: xhl
  * @Date: 2026-06-27 16:40
  * @Description: Q3. 函数的独占时间
+ *
  */
 public class exclusiveTime {
     static void main() {
@@ -17,7 +18,9 @@ public class exclusiveTime {
         exclusiveTime ex = new exclusiveTime();
         System.out.println(Arrays.toString(ex.exclusiveTime(n,logs)));
     }
-    //    方法一：栈
+    /**
+     *  方法一：栈
+     * */
     public int[] exclusiveTime(int n, List<String> logs) {
         Deque<int[]> stack = new ArrayDeque<int[]>(); // {idx, 开始运行的时间}
         int[] res = new int[n];

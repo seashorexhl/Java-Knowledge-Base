@@ -7,6 +7,7 @@ import java.util.Deque;
  * @Author: xhl
  * @Date: 2026-06-11 06:08
  * @Description:  Java Deque 使用模板  基于数组的双端队列
+ *
  */
 public class DequeSolution {
     public static void main(String[] args) {

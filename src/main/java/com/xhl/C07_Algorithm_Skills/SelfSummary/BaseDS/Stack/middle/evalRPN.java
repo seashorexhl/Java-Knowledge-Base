@@ -14,7 +14,9 @@ public class evalRPN {
         int i = s.evalRPN(tokens);
         System.out.println("逆波兰表达式求值 i = " + i);
     }
-    // 方法一：栈
+    /**
+     *  方法一：栈
+     * */
     public int evalRPN(String[] tokens) {
         Stack<Integer> stack = new Stack<>();
         int left,right;
@@ -43,7 +45,9 @@ public class evalRPN {
         }
         return stack.pop();
     }
-    //方法二：数组模拟栈
+    /**
+     *  方法二：数组模拟栈
+     * */
     public int evalRPN1(String[] tokens) {
         int n = tokens.length;
         int[] stack = new int[(n + 1) / 2];

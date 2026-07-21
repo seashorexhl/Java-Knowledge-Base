@@ -9,7 +9,7 @@ import java.util.Stack;
  * @Date: 2026-06-03 04:24
  * @Description: 栈 的 生命周期 及常用 方法
  *    初始化   压栈   判空
- *    遍历  迭代器
+ *    遍历  迭代器 等
  */
 public class StackLifeStyle {
     public static void main(String[] args) {

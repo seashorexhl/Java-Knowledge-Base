@@ -16,7 +16,9 @@ public class convertToBase7 {
         System.out.printf("转化成的7进制数为：" + c7.convertToBase7(n));
 
     }
-    // 方法一：倒推 + 迭代
+    /**
+     *  方法一：倒推 + 迭代
+     * */
 
     public String convertToBase7(int num) {
         if (num == 0) {
