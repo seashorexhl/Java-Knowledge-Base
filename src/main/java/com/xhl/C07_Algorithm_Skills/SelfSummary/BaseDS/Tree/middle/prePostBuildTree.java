@@ -17,10 +17,11 @@ public class prePostBuildTree {
         TreeNode node = ppb.constructFromPrePost(preorder, postorder);
         List<Integer> list = ppb.levelTraverse(node);
         System.out.println(Arrays.toString(list.toArray()));
-
     }
 
-    //    方法一：分治
+    /**
+     *  方法一：分治
+     * */
     public TreeNode constructFromPrePost(int[] preorder, int[] postorder) {
         int n = preorder.length;
         Map<Integer, Integer> postMap = new HashMap<>();
@@ -29,7 +30,9 @@ public class prePostBuildTree {
         }
         return dfs(preorder, postorder, postMap, 0, n - 1, 0, n - 1);
     }
-    // 辅助 深度优先
+    /**
+     *  辅助 深度优先
+     * */
     public TreeNode dfs(int[] preorder, int[] postorder, Map<Integer, Integer> postMap, int preLeft, int preRight, int postLeft, int postRight) {
         if (preLeft > preRight) {
             return null;
