@@ -9,6 +9,7 @@ import java.util.Scanner;
  * @Author: xhl
  * @Date: 2026-04-11 22:51
  * @Description:  02 报数游戏 补种未成熟胡杨
+ *
  */
 public class CountNumsGame {
 
@@ -43,6 +44,9 @@ public class CountNumsGame {
             System.out.println();
         }
     }
+    /**
+     *
+     * */
     public static List<Integer> find_last_person(List<Integer> numbers, int M) {
         // 遍历numbers数组
         for (int i = 1; i <= numbers.size(); i++) {

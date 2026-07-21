@@ -8,6 +8,7 @@ import java.util.List;
  * @Author: xhl
  * @Date: 2026-06-23 18:43
  * @Description: 228. 汇总区间
+ *
  * 给定一个  无重复元素 的 有序 整数数组 nums 。
  * 区间 [a,b] 是从 a 到 b（包含）的所有整数的集合。
  * 返回 恰好覆盖数组中所有数字 的 最小有序 区间范围列表 。也就是说，nums 的每个元素都恰好被
@@ -29,7 +30,7 @@ public class summaryRanges {
      * */
     public List<String> summaryRanges(int[] nums) {
         int n = nums.length;
-        List<String> list = new ArrayList<String>();
+        List<String> list = new ArrayList<>();
         int i = 0;
 
         while(i<n){

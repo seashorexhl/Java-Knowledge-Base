@@ -10,6 +10,7 @@ import java.util.Queue;
  * @Author: xhl
  * @Date: 2026-06-22 13:38
  * @Description: 129. 求根节点到叶节点数字之和 ⭐⭐⭐
+ *  深度优先遍历 DFS + BFS 广度优先遍历
  */
 public class sumNumbers {
     static void main() {
@@ -37,7 +38,7 @@ public class sumNumbers {
         }
     }
     /**
-     * 方法二：广度优先搜索
+     * 方法二：广度优先搜索 BFS
      * */
     public int sumNumbers1(TreeNode root) {
         if (root == null) {

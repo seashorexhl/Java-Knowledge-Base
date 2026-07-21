@@ -20,8 +20,8 @@ public class lowestCommonAncestor {
     /**
      * 方法二：存储父节点
      * */
-    Map<Integer, TreeNode> parent = new HashMap<Integer, TreeNode>();
-    Set<Integer> visited = new HashSet<Integer>();
+    Map<Integer, TreeNode> parent = new HashMap<>();
+    Set<Integer> visited = new HashSet<>();
     /**
      *  方法一：递归
      * */

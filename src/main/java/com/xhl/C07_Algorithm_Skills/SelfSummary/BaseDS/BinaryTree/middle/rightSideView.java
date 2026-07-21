@@ -37,8 +37,8 @@ public class rightSideView {
         int max_depth = -1;
 
         // 构造节点和 深度 栈
-        Deque<BSTreeNode> nodeStack = new LinkedList<BSTreeNode>();
-        Deque<Integer> depthStack = new LinkedList<Integer>();
+        Deque<BSTreeNode> nodeStack = new LinkedList<>();
+        Deque<Integer> depthStack = new LinkedList<>();
         // 将根节点及其深度（0）压入栈中，作为遍历的起点
         nodeStack.push(root);
         depthStack.push(0);

@@ -9,7 +9,8 @@ import java.util.List;
  * @Author: xhl
  * @Date: 2026-06-22 13:39
  * @Description: 173. 二叉搜索树迭代器
- *
+ *  方法一:扁平化
+ *  方法二:迭代
  */
 public class BSTIterator {
     /**
@@ -44,6 +45,5 @@ public class BSTIterator {
         arr.add(root.val);
         inorderTraversal(root.right, arr);
     }
-
 
 }
