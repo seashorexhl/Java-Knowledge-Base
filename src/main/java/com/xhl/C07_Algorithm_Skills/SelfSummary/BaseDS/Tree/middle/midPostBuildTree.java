@@ -105,7 +105,6 @@ public class midPostBuildTree {
     /**
      * 方法三：哈希表优化和数组索引传递
      * */
-
     public TreeNode buildTree3(int[] inorder, int[] postorder) {
         int m = inorder.length;
         int n = postorder.length;

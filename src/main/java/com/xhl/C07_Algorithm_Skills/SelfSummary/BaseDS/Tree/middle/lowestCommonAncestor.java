@@ -103,7 +103,7 @@ public class lowestCommonAncestor {
         this.dfs(root, p, q);
         return this.ans;
     }
-
+    // 深度优先
     public void dfs(TreeNode root) {
         if (root.left != null) {
             parent.put(root.left.val, root);
