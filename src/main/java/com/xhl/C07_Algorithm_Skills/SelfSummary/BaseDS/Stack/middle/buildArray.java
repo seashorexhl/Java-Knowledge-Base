@@ -7,7 +7,7 @@ import java.util.List;
  * @Author: xhl
  * @Date: 2026-06-27 16:33
  * @Description: Q1. 用栈操作构建数组
- *
+ *  方法一：模拟
  */
 public class buildArray {
     static void main() {
@@ -16,9 +16,11 @@ public class buildArray {
         buildArray ba = new buildArray();
         System.out.println(ba.buildArray(target,n));
     }
-    // 方法一：模拟
+    /**
+     *  方法一：模拟
+     * */
     public List<String> buildArray(int[] target, int n) {
-        List<String> res = new ArrayList<String>();
+        List<String> res = new ArrayList<>();
         int prev = 0;
         for (int number : target) {
             for (int i = 0; i < number - prev - 1; i++) {

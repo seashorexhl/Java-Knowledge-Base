@@ -7,6 +7,7 @@ import java.util.Deque;
  * @Author: xhl
  * @Date: 2026-07-02 13:13
  * @Description: 71. 简化路径 ⭐⭐⭐
+ *  更加简洁的规范路径
  */
 public class simplifyPath {
     static void main() {
