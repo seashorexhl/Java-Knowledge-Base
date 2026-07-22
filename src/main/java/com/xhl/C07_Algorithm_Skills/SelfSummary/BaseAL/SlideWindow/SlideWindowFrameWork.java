@@ -8,7 +8,9 @@ package com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.SlideWindow;
 public class SlideWindowFrameWork {
     static void main() {
         String s = "Lxh is a good boy!";
-
+        SlideWindowFrameWork swf = new SlideWindowFrameWork();
+        int problemed = swf.problemSubstring(s);
+        System.out.println(problemed);
     }
 
     /**

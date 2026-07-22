@@ -33,7 +33,7 @@ public class countNodes {
     }
 
     /**
-     *   满二叉树
+     *  满二叉树
      * */
     public int countNodes1(TreeNode root) {
         if (root == null) return 0;

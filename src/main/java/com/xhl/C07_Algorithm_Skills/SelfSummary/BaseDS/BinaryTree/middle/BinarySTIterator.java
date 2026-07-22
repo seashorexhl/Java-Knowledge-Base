@@ -8,7 +8,7 @@ import java.util.LinkedList;
 /**
  * @Author: xhl
  * @Date: 2026-07-20 17:21
- * @Description:  173. 二叉搜索树迭代器
+ * @Description:  173. 二叉搜索树迭代器 ⭐⭐⭐⭐⭐
  * 方法二：迭代
  */
 public class BinarySTIterator {

@@ -7,20 +7,21 @@ import java.util.Deque;
  * @Author: xhl
  * @Date: 2026-07-02 13:13
  * @Description: 71. 简化路径 ⭐⭐⭐
- *  更加简洁的 规范路径
+ *  Unix 风格 绝对路径 （以 '/' 开头），请你将其转化为 更加简洁的 规范路径。
  */
 public class simplifyPath {
     static void main() {
         String Path = "/home/";
         simplifyPath sp = new simplifyPath();
         String s = sp.simplifyPath(Path);
-        System.out.println("Simplify Path: 简化后的路径为：" + s);
+        System.out.println("简化后的路径为：" + s);
     }
-
     /**
      *  方法一：栈
      * */
+
     public String simplifyPath(String path) {
+
         String[] names = path.split("/");
         Deque<String> stack = new ArrayDeque<>();
 

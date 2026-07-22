@@ -27,7 +27,6 @@ public class minDepthBSTree {
      * 采用 BFS 框架
      * */
      public int minDepth(TreeNode root) {
-
         if (root == null) return 0;
         Queue<TreeNode> queue = new LinkedList<>();
         queue.offer(root);

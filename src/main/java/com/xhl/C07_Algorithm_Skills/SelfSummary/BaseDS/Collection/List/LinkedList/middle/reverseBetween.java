@@ -26,8 +26,6 @@ public class reverseBetween {
             System.out.print(node.val+" ");
             node = node.next;
         }
-
-
     }
     /**
      *  方法一：穿针引线 核心思想：断开-反转-重连

@@ -24,7 +24,6 @@ public class zigzagLevelOrder {
         zigzagLevelOrder zlo = new zigzagLevelOrder();
         System.out.println("二叉树的 锯齿形遍历：");
         System.out.println(zlo.zigzagLevelOrder(root));
-
     }
     /**
      *  广度优先遍历

@@ -15,6 +15,7 @@ import java.util.Queue;
  *  BFS 广度优先遍历
  */
 public class levelOrder {
+
     static void main() {
         TreeNode root = new TreeNode(1);
         root.left = new TreeNode(2);

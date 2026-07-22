@@ -14,16 +14,7 @@ import java.util.List;
  */
 public class BSTIterator {
 
-    /**
-     * 方法一：扁平化
-     * */
-    private int idx;
-    private List<Integer> arr;
-    public BSTIterator(TreeNode root) {
-        idx = 0;
-        arr = new ArrayList<Integer>();
-        inorderTraversal(root, arr);
-    }
+
 
     static void main() {
         // 1. 构建一棵简单的二叉搜索树用于测试
@@ -55,6 +46,17 @@ public class BSTIterator {
         System.out.println("当前是否有下一个元素: " + iterator.hasNext()); // false
     }
 
+    /**
+     * 方法一：扁平化
+     * */
+
+    private int idx;
+    private List<Integer> arr;
+    public BSTIterator(TreeNode root) {
+        idx = 0;
+        arr = new ArrayList<>();
+        inorderTraversal(root, arr);
+    }
     public int next() {
         return arr.get(idx++);
     }

@@ -24,19 +24,23 @@ public class partition {
         partition pt = new partition();
         ListNode node = pt.partition(head, x);
         while (node != null) {
-            System.out.println(node.val);
+            System.out.print(node.val + " ");
             node = node.next;
         }
     }
-
     /**
      *  方法一：模拟
      * */
     public ListNode partition(ListNode head, int x) {
+        //按顺序存储所有小于 x 的节点
         ListNode small = new ListNode(0);
+        //哑节点
         ListNode smallHead = small;
+        //按顺序存储所有大于等于 x 的节点
         ListNode large = new ListNode(0);
+        //哑节点
         ListNode largeHead = large;
+
         while (head != null) {
             if (head.val < x) {
                 small.next = head;

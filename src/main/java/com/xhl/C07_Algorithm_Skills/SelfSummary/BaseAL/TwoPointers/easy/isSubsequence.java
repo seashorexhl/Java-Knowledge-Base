@@ -40,12 +40,12 @@ public class isSubsequence {
      * */
     public boolean isSubsequence1(String s, String t) {
         int n = s.length(), m = t.length();
-
+        // 表示字符串 t 中从位置 i 开始往后字符 j 第一次出现的位置
         int[][] f = new int[m + 1][26];
         for (int i = 0; i < 26; i++) {
             f[m][i] = m;
         }
-
+        // 状态转移 方程
         for (int i = m - 1; i >= 0; i--) {
             for (int j = 0; j < 26; j++) {
                 if (t.charAt(i) == j + 'a')

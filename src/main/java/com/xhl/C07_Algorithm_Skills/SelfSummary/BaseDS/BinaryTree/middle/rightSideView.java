@@ -106,7 +106,7 @@ public class rightSideView {
             }
         }
 
-        List<Integer> rightView = new ArrayList<Integer>();
+        List<Integer> rightView = new ArrayList<>();
         for (int depth = 0; depth <= max_depth; depth++) {
             rightView.add(rightmostValueAtDepth.get(depth));
         }

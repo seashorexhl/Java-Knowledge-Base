@@ -12,7 +12,9 @@ public class isPalindrome {
 
         System.out.println("this sentence is "+ip.isPalindrome(s));
     }
-    //    方法一: 筛选 + 判断
+    /**
+     *  方法一: 筛选 + 判断
+     * */
     public boolean isPalindrome(String s) {
         StringBuffer sb = new StringBuffer();
         int length = s.length();
@@ -25,7 +27,9 @@ public class isPalindrome {
         StringBuffer sgood_rev = new StringBuffer(sb).reverse();
         return sb.toString().equals(sgood_rev.toString());
     }
-    //      方法二: 双指针
+    /**
+     *  方法二: 双指针
+     * */
     public boolean isPalindrome1(String s) {
         StringBuffer sgood = new StringBuffer();
         int length = s.length();

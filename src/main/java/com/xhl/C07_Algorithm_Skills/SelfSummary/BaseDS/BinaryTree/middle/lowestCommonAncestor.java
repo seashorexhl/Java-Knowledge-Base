@@ -11,8 +11,8 @@ import java.util.Set;
 /**
  * @Author: xhl
  * @Date: 2026-06-22 13:40
- * @Description: 236. 二 叉树的最近公共祖先
- *
+ * @Description: 236. 二 叉树的最近公共祖先 ⭐⭐⭐⭐⭐
+ *  递归法 + 存储 父节点
  */
 public class lowestCommonAncestor {
     /**

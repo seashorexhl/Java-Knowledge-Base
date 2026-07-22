@@ -22,7 +22,9 @@ public class longestCommonPrefix {
 //        System.out.println(lp.longestCommonPrefixText(strs));
     }
 
-    // 方法一：横向扫描
+    /**
+     *  方法一：横向扫描 ⭐⭐⭐
+     */
     public String longestCommonPrefix(String[] strs) {
         if (strs == null || strs.length == 0) {
             return "";
@@ -46,7 +48,9 @@ public class longestCommonPrefix {
         }
         return str1.substring(0, index);
     }
-    // 方法二：纵向扫描  ***
+    /**
+     *  方法二：纵向扫描  ⭐⭐⭐
+     * */
     public String longestCommonPrefix1(String[] strs) {
         // 1. 处理极端边界情况：如果数组为空或长度为0，直接返回空字符串
         if (strs == null || strs.length == 0) {
@@ -77,7 +81,9 @@ public class longestCommonPrefix {
         return strs[0];
     }
 
-    // 方法三：分治
+    /**
+     *  方法三：分治
+     * */
     public String longestCommonPrefix2(String[] strs) {
         if (strs == null || strs.length == 0) {
             return "";
@@ -107,7 +113,9 @@ public class longestCommonPrefix {
         return lcpLeft.substring(0, minLength);
     }
 
-    // 方法四：二分查找 猜长度，不断缩小范围
+    /**
+     *  方法四：二分查找 猜长度，不断缩小范围
+     * */
     public String longestCommonPrefix3(String[] strs) {
         if (strs == null || strs.length == 0) {
             return "";
