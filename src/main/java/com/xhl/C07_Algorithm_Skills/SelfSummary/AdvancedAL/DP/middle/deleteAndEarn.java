@@ -8,6 +8,7 @@ import java.util.List;
  * @Author: xhl
  * @Date: 2026-07-13 13:49
  * @Description: 740 删除并获得点数
+ *
  */
 public class deleteAndEarn {
     static void main(String[] args) {
@@ -16,7 +17,9 @@ public class deleteAndEarn {
         int res = dae.deleteAndEarn(nums);
         System.out.println("删除并获得点数 的最大值为:"+ res);
     }
-    // 方法一：动态规划
+    /**
+     *  方法一：动态规划
+     * */
     public int deleteAndEarn(int[] nums) {
         int maxVal = 0;
         for (int val : nums) {
@@ -28,7 +31,9 @@ public class deleteAndEarn {
         }
         return rob(sum);
     }
-    // 滚动数组
+    /**
+     *  滚动数组
+     * */
     public int rob(int[] nums) {
         int size = nums.length;
         int first = nums[0], second = Math.max(nums[0], nums[1]);
@@ -40,12 +45,14 @@ public class deleteAndEarn {
         return second;
     }
 
-    // 方法二：排序 + 动态规划
+    /**
+     *  方法二：排序 + 动态规划
+     * */
     public int deleteAndEarn1(int[] nums) {
         int n = nums.length;
         int ans = 0;
         Arrays.sort(nums);
-        List<Integer> sum = new ArrayList<Integer>();
+        List<Integer> sum = new ArrayList<>();
         sum.add(nums[0]);
         int size = 1;
         for (int i = 1; i < n; ++i) {
@@ -65,7 +72,9 @@ public class deleteAndEarn {
         ans += rob(sum);
         return ans;
     }
-    // 滚动数组
+    /**
+     *  滚动数组
+     * */
     public int rob(List<Integer> nums) {
         int size = nums.size();
         if (size == 1) {

@@ -9,7 +9,9 @@ public class maxSubArray {
     static void main() {
 
     }
-    // Kadane 算法
+    /**
+     *  Kadane 算法
+     * */
     public int maxSubArray(int[] nums) {
 
 

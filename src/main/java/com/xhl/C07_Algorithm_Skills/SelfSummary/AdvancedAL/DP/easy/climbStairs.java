@@ -14,8 +14,9 @@ public class climbStairs {
         int i = cs.climbStairs(n);
         System.out.println("有"+ i +"种不同的方法可以爬到楼顶");
     }
-
-    //方法一：动态规划
+    /**
+     *  方法一：动态规划
+     * */
     public int climbStairs(int n) {
         if(n<=1){
             return 1;
@@ -29,7 +30,9 @@ public class climbStairs {
 
         return dp[n];
     }
-    // 滚动数组
+    /**
+     *  滚动数组
+     * */
     public int climbStairs2(int n) {
         int p = 0, q = 0, r = 1;
         for (int i = 1; i <= n; ++i) {

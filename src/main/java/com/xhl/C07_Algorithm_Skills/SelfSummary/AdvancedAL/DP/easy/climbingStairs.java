@@ -39,7 +39,9 @@ public class climbingStairs {
         return dp[n];
     }
 
-    // 进阶：空间优化版本 (滚动数组)
+    /**
+     *   进阶：空间优化版本 (滚动数组)
+     * */
     // 因为 dp[i] 只依赖前两个状态，不需要保存整个数组
     public int climbStairsOptimized(int n) {
         if (n <= 2) return n;

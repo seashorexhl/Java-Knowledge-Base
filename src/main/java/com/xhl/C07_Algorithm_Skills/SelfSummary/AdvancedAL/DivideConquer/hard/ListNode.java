@@ -3,7 +3,7 @@ package com.xhl.C07_Algorithm_Skills.SelfSummary.AdvancedAL.DivideConquer.hard;
 /**
  * @Author: xhl
  * @Date: 2026-07-02 15:48
- * @Description:
+ * @Description: 链表结点
  */
 public class ListNode {
     int val;

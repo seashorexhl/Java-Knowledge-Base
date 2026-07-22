@@ -36,7 +36,9 @@ public class wordBreak {
 
     }
 
-    //    方法一：动态规划
+    /**
+     *  方法一：动态规划
+     * */
     public boolean wordBreak(String s, List<String> wordDict) {
         Set<String> set = new HashSet<>(wordDict);
         boolean[] dp = new boolean[s.length() + 1];
@@ -64,7 +66,9 @@ public class wordBreak {
         node.isEnd = true;
     }
 
-    //方法二：结合字典树 Trie 来实现
+    /**
+     *  方法二：结合字典树 Trie 来实现
+     * */
     public boolean wordBreak1(String s, List<String> wordDict) {
         // 将所有单词插入 Trie
         for (String word : wordDict) insert(word);

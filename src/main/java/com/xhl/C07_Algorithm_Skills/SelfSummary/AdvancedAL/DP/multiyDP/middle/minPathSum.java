@@ -9,7 +9,9 @@ public class minPathSum {
     static void main() {
 
     }
-    // 方法一：动态规划
+    /**
+     *  方法一：动态规划
+     * */
     public int minPathSum(int[][] grid) {
         if (grid == null || grid.length == 0 || grid[0].length == 0) {
             return 0;

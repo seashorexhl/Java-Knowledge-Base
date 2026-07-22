@@ -9,7 +9,9 @@ public class uniquePathsWithObstacles {
     static void main() {
 
     }
-    // 方法一：动态规划
+    /**
+     *  方法一：动态规划
+     * */
     public int uniquePathsWithObstacles(int[][] obstacleGrid) {
         int n = obstacleGrid.length, m = obstacleGrid[0].length;
         int[] f = new int[m];

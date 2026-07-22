@@ -10,16 +10,6 @@ import java.util.List;
  *  递归 回朔
  */
 public class combine {
-    /**
-     *  方法一：递归实现组合型枚举
-     * */
-    List<Integer> temp = new ArrayList<>();
-    List<List<Integer>> ans = new ArrayList<>();
-    /**
-     *  方法二：非递归（字典序法）实现组合型枚举
-     * */
-    List<Integer> temp1 = new ArrayList<>();
-    List<List<Integer>> ans1 = new ArrayList<>();
 
     static void main() {
         int n =4;
@@ -30,6 +20,11 @@ public class combine {
             System.out.println(list);
         }
     }
+    /**
+     *  方法一：递归实现组合型枚举
+     * */
+    List<Integer> temp = new ArrayList<>();
+    List<List<Integer>> ans = new ArrayList<>();
 
     public List<List<Integer>> combine(int n, int k) {
         dfs(1, n, k);
@@ -55,9 +50,15 @@ public class combine {
         dfs(cur + 1, n, k);
     }
 
+    /**
+     *  方法二：非递归（字典序法）实现组合型枚举
+     * */
+    List<Integer> temp1 = new ArrayList<>();
+    List<List<Integer>> ans1 = new ArrayList<>();
+
     public List<List<Integer>> combine1(int n, int k) {
-        List<Integer> temp = new ArrayList<Integer>();
-        List<List<Integer>> ans = new ArrayList<List<Integer>>();
+        List<Integer> temp = new ArrayList<>();
+        List<List<Integer>> ans = new ArrayList<>();
         // 初始化
         // 将 temp 中 [0, k - 1] 每个位置 i 设置为 i + 1，即 [0, k - 1] 存 [1, k]
         // 末尾加一位 n + 1 作为哨兵

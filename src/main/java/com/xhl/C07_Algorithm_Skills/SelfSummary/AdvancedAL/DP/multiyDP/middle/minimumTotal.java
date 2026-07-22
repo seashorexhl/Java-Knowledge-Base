@@ -15,7 +15,9 @@ public class minimumTotal {
     static void main() {
 
     }
-    // 方法一：动态规划
+    /**
+     *  方法一：动态规划
+     * */
     public int minimumTotal(List<List<Integer>> triangle) {
         int n = triangle.size();
         int[][] f = new int[n][n];
@@ -34,7 +36,9 @@ public class minimumTotal {
         return minTotal;
 
     }
-    // 方法二：动态规划 + 空间优化
+    /**
+     *  方法二：动态规划 + 空间优化
+     * */
     public int minimumTotal1(List<List<Integer>> triangle) {
         int n = triangle.size();
         int[][] f = new int[2][n];
@@ -54,7 +58,9 @@ public class minimumTotal {
         }
         return minTotal;
     }
-    // 优化 将空间复杂度优化至 O(n)。
+    /**
+     *  优化 将空间复杂度优化至 O(n)。
+     * */
     public int minimumTotal2(List<List<Integer>> triangle) {
         int n = triangle.size();
         int[] f = new int[n];

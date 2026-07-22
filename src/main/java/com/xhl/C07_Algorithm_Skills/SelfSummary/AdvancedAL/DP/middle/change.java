@@ -4,6 +4,7 @@ package com.xhl.C07_Algorithm_Skills.SelfSummary.AdvancedAL.DP.middle;
  * @Author: xhl
  * @Date: 2026-07-14 11:41
  * @Description:  518. 零钱兑换 II
+ *
  */
 public class change {
     static void main(String[] args) {
@@ -13,7 +14,9 @@ public class change {
         int change = c.change(amount, coins);
         System.out.println("可以凑成总金额的硬币组合数:" + change);
     }
-    // 方法一：动态规划
+    /**
+     *  方法一：动态规划
+     * */
     public int change(int amount, int[] coins) {
         int[] dp = new int[amount + 1];
         boolean[] valid = new boolean[amount + 1];

@@ -9,7 +9,9 @@ public class maximalSquare {
     static void main() {
 
     }
-    //方法一：暴力法
+    /**
+     *  方法一：暴力法
+     * */
     public int maximalSquare(char[][] matrix) {
         int maxSide = 0;
         if (matrix == null || matrix.length == 0 || matrix[0].length == 0) {
@@ -48,7 +50,9 @@ public class maximalSquare {
         return maxSquare;
 
     }
-    //方法二：动态规划
+    /**
+     *  方法二：动态规划
+     * */
     public int maximalSquare1(char[][] matrix) {
         int maxSide = 0;
         if (matrix == null || matrix.length == 0 || matrix[0].length == 0) {

@@ -9,7 +9,9 @@ public class isInterleave {
     static void main() {
 
     }
-    //方法一：动态规划
+    /**
+     *  方法一：动态规划
+     * */
     public boolean isInterleave(String s1, String s2, String s3) {
         int n = s1.length(), m = s2.length(), t = s3.length();
 
@@ -35,7 +37,9 @@ public class isInterleave {
         return f[n][m];
 
     }
-    //滚动数组优化
+    /**
+     *  滚动数组优化
+     * */
     public boolean isInterleave1(String s1, String s2, String s3) {
         int n = s1.length(), m = s2.length(), t = s3.length();
 

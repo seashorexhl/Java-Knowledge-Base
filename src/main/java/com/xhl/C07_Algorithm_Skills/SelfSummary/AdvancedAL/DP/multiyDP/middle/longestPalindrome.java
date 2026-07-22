@@ -13,7 +13,9 @@ public class longestPalindrome {
         String s = "babad";
 
     }
-    //    方法一：动态规划
+    /**
+     *  方法一：动态规划
+     * */
 
     public String longestPalindrome(String s) {
         int len = s.length();
@@ -62,7 +64,9 @@ public class longestPalindrome {
         }
         return s.substring(begin, begin + maxLen);
     }
-    //方法二：中心扩展算法
+    /**
+     *  方法二：中心扩展算法
+     * */
     public String longestPalindrome1(String s) {
         if (s == null || s.length() < 1) {
             return "";
@@ -87,7 +91,9 @@ public class longestPalindrome {
         }
         return right - left - 1;
     }
-    // 方法三：Manacher 算法
+    /**
+     *  方法三：Manacher 算法
+     * */
     public String longestPalindrome2(String s) {
         int start = 0, end = -1;
         StringBuffer t = new StringBuffer("#");
@@ -98,7 +104,7 @@ public class longestPalindrome {
         t.append('#');
         s = t.toString();
 
-        List<Integer> arm_len = new ArrayList<Integer>();
+        List<Integer> arm_len = new ArrayList<>();
         int right = -1, j = -1;
         for (int i = 0; i < s.length(); ++i) {
             int cur_arm_len;

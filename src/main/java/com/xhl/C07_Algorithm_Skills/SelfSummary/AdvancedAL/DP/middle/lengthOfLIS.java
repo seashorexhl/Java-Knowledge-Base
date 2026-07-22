@@ -12,7 +12,9 @@ public class lengthOfLIS {
         int lengthOfLIS = ll.lengthOfLIS(nums);
         System.out.println("最长递增子序列长度为： " + lengthOfLIS);
     }
-    //方法一：动态规划
+    /**
+     *  方法一：动态规划
+     * */
     public int lengthOfLIS(int[] nums) {
         if (nums.length == 0) {
             return 0;
@@ -31,7 +33,9 @@ public class lengthOfLIS {
         }
         return maxans;
     }
-    //方法二：贪心 + 二分查找
+    /**
+     *  方法二：贪心 + 二分查找
+     * */
     public int lengthOfLIS1(int[] nums) {
         int len = 1, n = nums.length;
         if (n == 0) {

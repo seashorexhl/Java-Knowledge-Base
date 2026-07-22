@@ -15,7 +15,9 @@ public class rob {
         int rob = r.rob(nums);
         System.out.println("夜之内能够偷窃到的最高金额:"+rob);
     }
-    // 方法一: 动态规划
+    /**
+     *  方法一: 动态规划
+     * */
     public int rob(int[] nums) {
         if (nums == null || nums.length == 0) {
             return 0;
@@ -32,7 +34,9 @@ public class rob {
         }
         return dp[length - 1];
     }
-    // 方法二：使用滚动数组
+    /**
+     *  方法二：使用滚动数组
+     * */
     public int rob1(int[] nums){
         if (nums == null || nums.length == 0) {
             return 0;
