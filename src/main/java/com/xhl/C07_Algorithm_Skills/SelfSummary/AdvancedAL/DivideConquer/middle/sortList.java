@@ -6,6 +6,7 @@ import com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.Collection.List.LinkedLis
  * @Author: xhl
  * @Date: 2026-07-02 15:44
  * @Description:    148. 排序链表
+ *  自顶向下 自底向上  归并排序
  */
 public class sortList {
     static void main() {

@@ -5,10 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2cbcf97-3448-465b-8d35-77b683d9f8e0" name="更改" comment="changes develop 7.23 晚上">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C01_Java_Core/Swing/DeskPet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C01_Java_Core/Swing/DesktopPet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C01_Java_Core/Swing/PandaDeskPet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C01_Java_Core/Swing/pet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/E/MaximumSubarraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/E/StringEncryption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/E/StringEncryptionUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/pet.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/DivideConquer/Kadane/maxSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/DivideConquer/Kadane/maxSubArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/DivideConquer/easy/DivideAndConquerTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/DivideConquer/easy/DivideAndConquerTemplate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/DivideConquer/middle/construct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/DivideConquer/middle/construct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/April/BirthdayCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/April/BirthdayCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/April/CommandProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/April/CommandProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/April/calculateElectricityCost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/April/calculateElectricityCost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/April/ledController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/April/ledController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/DivideConquer/middle/sortList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/AdvancedAL/DivideConquer/middle/sortList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +100,7 @@
     "git-widget-placeholder": "develop",
     "git.auto.fetch.suggestion.counter": "1",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/sanya/Desktop/Java-Knowledge-Base",
+    "last_opened_file_path": "C:/Users/sanya/Desktop/Java-Knowledge-Base/src/main/java/com/xhl/C01_Java_Core/Swing",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -110,6 +122,8 @@
     "应用程序.CoinChanges.executor": "Run",
     "应用程序.CommandFileLister.executor": "Run",
     "应用程序.CommandProcessor.executor": "Run",
+    "应用程序.DeskPet.executor": "Run",
+    "应用程序.DesktopPet.executor": "Run",
     "应用程序.GetAllFile.executor": "Run",
     "应用程序.GetAllFileSolution.executor": "Run",
     "应用程序.HappyMatchGame.executor": "Run",
@@ -125,12 +139,17 @@
     "应用程序.MaxDepthSolution.executor": "Run",
     "应用程序.MeetingInMaze.executor": "Run",
     "应用程序.NativeFileLister.executor": "Run",
+    "应用程序.PandaDeskPet (1).executor": "Run",
+    "应用程序.PandaDeskPet (2).executor": "Run",
+    "应用程序.PandaDeskPet.executor": "Run",
     "应用程序.Product.executor": "Run",
     "应用程序.RecursiveJavaFileLister.executor": "Run",
     "应用程序.RestoreNumericalSequence.executor": "Run",
     "应用程序.SlideWindowFrameWork.executor": "Run",
     "应用程序.SpellCombinations.executor": "Run",
     "应用程序.StringElimination.executor": "Run",
+    "应用程序.StringEncryption.executor": "Run",
+    "应用程序.StringEncryptionUp.executor": "Run",
     "应用程序.TraverseTree.executor": "Run",
     "应用程序.TreeBuilder.executor": "Run",
     "应用程序.TwoPointers.executor": "Run",
@@ -262,30 +281,30 @@
       <recent name="com.xhl.C01_Java_Core.EffectiveJava.C02CreatingDestroyingObjects" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sanya\Desktop\Java-Knowledge-Base\src\main\java\com\xhl\C01_Java_Core\Swing" />
+      <recent name="C:\Users\sanya\Desktop\Java-Knowledge-Base\src\main\resources" />
       <recent name="C:\Users\sanya\Desktop\Java-Knowledge-Base\src\main\java\com\xhl\C06_Algorithm_Skills\SelfSummary\BaseAL" />
       <recent name="C:\Users\sanya\Desktop\Java-Knowledge-Base\src\main\java\com\xhl\C08_Career_Growth\ODExam\DoList\statement" />
       <recent name="C:\Users\sanya\Desktop\git\Java-Knowledge-Base" />
-      <recent name="C:\lXH\git\Java-Knowledge-Base\docs\StudyResource" />
-      <recent name="C:\lXH\git\Java-Knowledge-Base\docs\StudyRoot" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sanya\Desktop\Java-Knowledge-Base\src\main\resources" />
       <recent name="C:\Users\sanya\Desktop\Java-Knowledge-Base\src\main\java\com\xhl\C02_Architecture_Design\DesignPattern\Img" />
       <recent name="C:\Users\sanya\Desktop\Java-Knowledge-Base\src\main\java\com\xhl\C01_Java_Core\EffectiveJava\C01Introduction" />
       <recent name="C:\Users\sanya\Desktop\Java-Knowledge-Base\src\main\java\com\xhl\C01_Java_Core\EffectiveJava" />
       <recent name="C:\Users\sanya\Desktop\git\Java-Knowledge-Base\src\main\java\com\xhl\C05_Middleware_Distributed" />
-      <recent name="C:\lXH\git\Java-Knowledge-Base\deploy" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.easy" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.Main" />
+  <component name="RunManager" selected="应用程序.BirthdayCounter">
+    <configuration name="BirthdayCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.ODExam.A2026.easy100.April.BirthdayCounter" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.*" />
+          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.ODExam.A2026.easy100.April.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -293,12 +312,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="canFinish" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.SelfSummary.AdvanceDS.Graph.middle.canFinish" />
+    <configuration name="PandaDeskPet (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C01_Java_Core.Swing.PandaDeskPet" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.SelfSummary.AdvanceDS.Graph.middle.*" />
+          <option name="PATTERN" value="com.xhl.C01_Java_Core.Swing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -306,12 +325,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="findPeakElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.BinarySearch.middle.findPeakElement" />
+    <configuration name="PandaDeskPet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C01_Java_Core.Swing.PandaDeskPet" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.BinarySearch.middle.*" />
+          <option name="PATTERN" value="com.xhl.C01_Java_Core.Swing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -319,12 +338,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="preMiddleBuildTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.Tree.middle.preMiddleBuildTree" />
+    <configuration name="StringEncryption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.ODExam.LatestOD.E.StringEncryption" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.Tree.middle.*" />
+          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.ODExam.LatestOD.E.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -332,12 +351,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reverseList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.Collection.List.LinkedList.easy.reverseList" />
+    <configuration name="StringEncryptionUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.ODExam.LatestOD.E.StringEncryptionUp" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.Collection.List.LinkedList.easy.*" />
+          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.ODExam.LatestOD.E.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -347,11 +366,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Main" />
-        <item itemvalue="应用程序.canFinish" />
-        <item itemvalue="应用程序.preMiddleBuildTree" />
-        <item itemvalue="应用程序.reverseList" />
-        <item itemvalue="应用程序.findPeakElement" />
+        <item itemvalue="应用程序.BirthdayCounter" />
+        <item itemvalue="应用程序.StringEncryptionUp" />
+        <item itemvalue="应用程序.StringEncryption" />
+        <item itemvalue="应用程序.PandaDeskPet" />
+        <item itemvalue="应用程序.PandaDeskPet (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -362,14 +381,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1782643630254</updated>
-    </task>
-    <task id="LOCAL-00025" summary="changes develop 7.13">
-      <option name="closed" value="true" />
-      <created>1783915871361</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1783915871361</updated>
     </task>
     <task id="LOCAL-00026" summary="changes develop 7.13">
       <option name="closed" value="true" />
@@ -755,7 +766,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784816430042</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="changes develop 7.23 晚上">
+      <option name="closed" value="true" />
+      <created>1784818543376</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1784818543376</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
