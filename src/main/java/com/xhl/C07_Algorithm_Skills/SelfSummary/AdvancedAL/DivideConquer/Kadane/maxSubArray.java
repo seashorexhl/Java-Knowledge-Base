@@ -14,7 +14,7 @@ public class maxSubArray {
         System.out.println(maxed);
     }
     /**
-     *  方法一：动态规划
+     *  方法一：动态规划  Kadane 算法
      * */
     public int maxSubArray(int[] nums) {
         int pre = 0, maxAns = nums[0];
@@ -51,6 +51,7 @@ public class maxSubArray {
      *  方法二：分治
      * */
     public class Status {
+
         public int lSum, rSum, mSum, iSum;
 
         public Status(int lSum, int rSum, int mSum, int iSum) {
@@ -60,8 +61,5 @@ public class maxSubArray {
             this.iSum = iSum;
         }
     }
-    /**
-     *  Kadane 算法
-     * */
 
 }
