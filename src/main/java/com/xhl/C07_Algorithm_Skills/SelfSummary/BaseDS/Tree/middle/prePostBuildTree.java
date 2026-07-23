@@ -5,9 +5,9 @@ import java.util.*;
 /**
  * @Author: xhl
  * @Date: 2026-07-01 01:05
- * @Description: 889 根据 二叉树的前序 和 后序遍历 构建 二叉树 constructFromPrePost
+ * @Description: 889 根据 二叉树的前序 和 后序遍历 构建 二叉树
  * 注意：仅凭前序和后序遍历，是无法唯一确定一棵二叉树的！ 只有当二叉树是满二叉树或完全二叉树时，
- * 前序+后序才能唯一重构。如果某个节点只有一个子节点，前序和后序无法区分它是左孩子还是右孩子。
+ * 前序 + 后序才能唯一重构。如果某个节点只有一个子节点，前序和后序无法区分它是左孩子还是右孩子。
  */
 public class prePostBuildTree {
     public static void main(String[] args) {
@@ -24,7 +24,7 @@ public class prePostBuildTree {
     int post_idx;
     int[] postorder;
     int[] inorder;
-    Map<Integer, Integer> idx_map = new HashMap<Integer, Integer>();
+    Map<Integer, Integer> idx_map = new HashMap<>();
 
     public TreeNode helper(int in_left, int in_right) {
         // 如果这里没有节点构造二叉树了，就结束
@@ -47,7 +47,9 @@ public class prePostBuildTree {
         root.left = helper(in_left, index - 1);
         return root;
     }
-
+    /**
+     *
+     * */
     public TreeNode buildTree(int[] inorder, int[] postorder) {
         this.postorder = postorder;
         this.inorder = inorder;
