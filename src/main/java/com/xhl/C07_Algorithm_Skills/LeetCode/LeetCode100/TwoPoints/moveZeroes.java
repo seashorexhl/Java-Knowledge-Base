@@ -17,6 +17,9 @@ public class moveZeroes {
 
         System.out.println(Arrays.toString(arr));
     }
+    /**
+     *  双指针
+     * */
     public void moveZeroes(int[] nums) {
         int left = 0;
         int right = 0;

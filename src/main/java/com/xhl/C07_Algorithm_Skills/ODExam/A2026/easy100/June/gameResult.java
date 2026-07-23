@@ -20,6 +20,9 @@ public class gameResult {
         System.out.println(gameResult(head));
     }
 
+    /**
+     *
+     * */
     public static String gameResult(ListNode head) {
         int count = 0;
         ListNode curr = head;

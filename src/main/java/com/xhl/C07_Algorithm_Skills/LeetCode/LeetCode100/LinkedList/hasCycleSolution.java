@@ -26,7 +26,9 @@ public class hasCycleSolution {
         boolean b1 = hcs.hasCycle2(head);
         System.out.println("链表是否有环："+b1);
     }
-    // 方法一:哈希表
+    /**
+     *  方法一:哈希表
+     * */
     public boolean hasCycle(ListNode head) {
         Set<ListNode> set = new HashSet<>();
         while (head != null) {
@@ -37,7 +39,9 @@ public class hasCycleSolution {
         }
         return false;
     }
-    // 方法二:快慢指针
+    /**
+     *  方法二:快慢指针
+     * */
     public boolean hasCycle2(ListNode head) {
         // 1.首先判空
         if (head == null || head.next == null) {

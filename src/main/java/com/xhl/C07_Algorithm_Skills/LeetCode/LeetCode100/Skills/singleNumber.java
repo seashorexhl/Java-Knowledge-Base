@@ -14,7 +14,9 @@ public class singleNumber {
         int x = sn.singleNumber(nums);
         System.out.println(x);
     }
-    // 方法一： 位运算
+    /**
+     *  方法一： 位运算
+     * */
     public int singleNumber(int[] nums) {
         int single = 0;
         for (int num : nums) {

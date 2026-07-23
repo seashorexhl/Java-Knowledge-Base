@@ -8,6 +8,7 @@ import java.util.Deque;
  * @Date: 2026-07-02 15:52
  * @Description: 918. 环形子数组的最大和
  * 动态规划   取反  单调队列
+ * 非空 子数组 的最大可能和 。
  */
 public class maxSubarraySumCircular {
     static void main() {
@@ -32,7 +33,6 @@ public class maxSubarraySumCircular {
             leftSum += nums[i];
             leftMax[i] = Math.max(leftMax[i - 1], leftSum);
         }
-
         // 从右到左枚举后缀，固定后缀，选择最大前缀
         int rightSum = 0;
         for (int i = n - 1; i > 0; i--) {

@@ -33,7 +33,7 @@ public class isValid {
             put(']', '[');
             put('}', '{');
         }};
-        Deque<Character> stack = new LinkedList<Character>();
+        Deque<Character> stack = new LinkedList<>();
         for (int i = 0; i < n; i++) {
             char ch = s.charAt(i);
             if (pairs.containsKey(ch)) {

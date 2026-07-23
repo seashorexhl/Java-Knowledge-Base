@@ -7,10 +7,9 @@ import java.util.Map;
  * @Author: xhl
  * @Date: 2026-06-25 00:55
  * @Description: 146. LRU 缓存
- *
+ * 分级分类 平稳有序
  */
 public class LRUCache  {
-
 
     static void main() {
         System.out.println("LRU 缓存!");

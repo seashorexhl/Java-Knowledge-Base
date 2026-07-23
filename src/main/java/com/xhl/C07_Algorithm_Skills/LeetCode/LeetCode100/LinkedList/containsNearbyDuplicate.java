@@ -11,6 +11,9 @@ public class containsNearbyDuplicate {
 
     }
 
+    /**
+     * 滑动窗口
+     * */
     public boolean containsNearbyDuplicate(int[] nums, int k) {
 
 
