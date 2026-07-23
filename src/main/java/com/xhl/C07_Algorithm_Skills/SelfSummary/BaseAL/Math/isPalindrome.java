@@ -14,7 +14,9 @@ public class isPalindrome {
         System.out.println("方法二：双指针法，是否是回文数？：" + ip.isPalindrome1(x));
         System.out.println("方法三：" +ip.isPalindrome2(x));
     }
-    //方法一：反转一半数字
+    /**
+     *  方法一：反转一半数字
+     * */
     public boolean isPalindrome(int x) {
         // 特殊情况：
         // 如上所述，当 x < 0 时，x 不是回文数。

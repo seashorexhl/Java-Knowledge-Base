@@ -1,19 +1,60 @@
 package com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.interval.middle;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 /**
  * @Author: xhl
  * @Date: 2026-07-02 06:26
  * @Description: 57. 插入区间
+ *
  */
 public class InsertInterval {
     static void main() {
-
+        int[][] intervals =  {{1,3},{6,9}};
+        int[] newInterval = {2,5};
+        InsertInterval ii = new InsertInterval();
+        int[][] insert = ii.insert(intervals, newInterval);
+        System.out.println(Arrays.deepToString(insert));
     }
 
+    /**
+     *  方法一：模拟
+     * */
     public int[][] insert(int[][] intervals, int[] newInterval) {
 
+        int left = newInterval[0];
+        int right = newInterval[1];
 
-        return null;
+        boolean placed = false;
+        List<int[]> ansList = new ArrayList<>();
+
+        for (int[] interval : intervals) {
+            if (interval[0] > right) {
+                // 在插入区间的右侧且无交集
+                if (!placed) {
+                    ansList.add(new int[]{left, right});
+                    placed = true;
+                }
+                ansList.add(interval);
+            } else if (interval[1] < left) {
+                // 在插入区间的左侧且无交集
+                ansList.add(interval);
+            } else {
+                // 与插入区间有交集，计算它们的并集
+                left = Math.min(left, interval[0]);
+                right = Math.max(right, interval[1]);
+            }
+        }
+        if (!placed) {
+            ansList.add(new int[]{left, right});
+        }
+        int[][] ans = new int[ansList.size()][2];
+        for (int i = 0; i < ansList.size(); ++i) {
+            ans[i] = ansList.get(i);
+        }
+        return ans;
     }
 
 }

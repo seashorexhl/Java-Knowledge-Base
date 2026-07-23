@@ -13,7 +13,11 @@ public class isPowerOfThree {
         isPowerOfThree isPowerOfThree = new isPowerOfThree();
         System.out.println(isPowerOfThree.isPowerOfThree(n));
     }
-    //    方法一：试除法
+    /**
+     *  方法一：试除法
+     * */
+
+
     public boolean isPowerOfThree(int n) {
         while (n != 0 && n % 3 == 0) {
             n /= 3;

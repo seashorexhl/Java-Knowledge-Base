@@ -24,7 +24,9 @@ public class summaryRanges {
         List<String> strings = sr.summaryRanges(nums);
         System.out.printf(Arrays.toString(strings.toArray()));
     }
-    /*方法一：一次遍历*/
+    /**
+     *  方法一：一次遍历
+     * */
     public List<String> summaryRanges(int[] nums) {
         int n = nums.length;
         List<String> list = new ArrayList<String>();

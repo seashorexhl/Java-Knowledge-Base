@@ -18,7 +18,9 @@ public class finalPrices {
         System.out.println("方法二：单调栈" + Arrays.toString(fp.finalPrices1(prices)));
 
     }
-    // 方法一：直接遍历
+    /**
+     *  方法一：直接遍历
+     * */
     public int[] finalPrices(int[] prices) {
         int n = prices.length;
         int[] ans = new int[n];
@@ -34,7 +36,9 @@ public class finalPrices {
         }
         return ans;
     }
-    // 方法二：单调栈
+    /**
+     *  方法二：单调栈
+     * */
     public int[] finalPrices1(int[] prices) {
 
         int n = prices.length;

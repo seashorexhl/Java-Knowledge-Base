@@ -18,13 +18,15 @@ public class largestRectangleArea {
         int area = lr.largestRectangleArea(height);
         System.out.println("柱状图中最大的矩形面积为："+ area);
     }
-    // 单调栈
+    /**
+     *  单调栈
+     * */
     public int largestRectangleArea(int[] heights) {
         int n = heights.length;
         int[] left = new int[n];
         int[] right = new int[n];
 
-        Deque<Integer> mono_stack = new ArrayDeque<Integer>();
+        Deque<Integer> mono_stack = new ArrayDeque<>();
         for (int i = 0; i < n; ++i) {
             while (!mono_stack.isEmpty() && heights[mono_stack.peek()] >= heights[i]) {
                 mono_stack.pop();
@@ -49,7 +51,9 @@ public class largestRectangleArea {
         return ans;
     }
 
-    // 方法二：单调栈 + 常数优化
+    /**
+     *  方法二：单调栈 + 常数优化
+     * */
     public int largestRectangleArea1(int[] heights) {
         int n = heights.length;
         int[] left = new int[n];
