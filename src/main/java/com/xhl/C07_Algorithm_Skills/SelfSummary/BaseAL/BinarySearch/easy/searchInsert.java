@@ -32,7 +32,6 @@ public class searchInsert {
         }
         return -1;
     }
-
     /**
      * 方法一：二分查找
      * */

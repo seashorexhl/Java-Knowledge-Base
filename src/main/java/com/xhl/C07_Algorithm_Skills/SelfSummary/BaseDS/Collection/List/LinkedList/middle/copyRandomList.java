@@ -150,7 +150,6 @@ public class copyRandomList {
 
    /**
     * 方法二：迭代 + 节点拆分
-    *
     * */
     public Node copyRandomList1(Node head) {
         if (head==null){

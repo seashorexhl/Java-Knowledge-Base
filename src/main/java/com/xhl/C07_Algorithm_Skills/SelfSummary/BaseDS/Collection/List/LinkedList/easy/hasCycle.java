@@ -42,10 +42,8 @@ public class hasCycle {
             }
             head = head.next;
         }
-
         return false;
     }
-
     /**
      *  方法二：快慢指针 依靠 快慢指针 和
      * */

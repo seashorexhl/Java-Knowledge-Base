@@ -7,7 +7,9 @@ import java.util.Queue;
  * @Author: xhl
  * @Date: 2026-07-19 15:05
  * @Description: 547. 省份数量
- *
+ *  方法一：深度优先搜索 DFS
+ *  方法二：广度优先 BFS
+ *  方法三：并查集 Union-Find
  */
 public class findCircleNum {
     static void main(String[] args) {

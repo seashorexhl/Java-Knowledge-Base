@@ -8,6 +8,7 @@ package com.xhl.C07_Algorithm_Skills.SelfSummary.AdvanceDS.Tries.middle.DesionTi
  *   这一数据结构有相当多的应用情景，例如自动补全和拼写检查。
  */
 public class Trie {
+
     /**
      *  方法一：字典树
      * */

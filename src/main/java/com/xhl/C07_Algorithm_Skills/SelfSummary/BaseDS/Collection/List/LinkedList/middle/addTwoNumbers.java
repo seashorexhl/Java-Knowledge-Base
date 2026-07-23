@@ -134,7 +134,7 @@ public class addTwoNumbers {
         return head;
     }
     /**
-     *  方法：虚拟头节点优化
+     *  方法三：虚拟头节点优化
      * */
     public ListNode addTwoNumbers2(ListNode l1, ListNode l2) {
         // 1. 创建一个虚拟头节点，值为0，简化边界处理

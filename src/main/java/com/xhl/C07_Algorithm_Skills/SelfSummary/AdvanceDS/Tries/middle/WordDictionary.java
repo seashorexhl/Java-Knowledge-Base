@@ -4,6 +4,7 @@ package com.xhl.C07_Algorithm_Skills.SelfSummary.AdvanceDS.Tries.middle;
  * @Author: xhl
  * @Date: 2026-07-02 02:44
  * @Description:    211. 添加与搜索单词 - 数据结构设计
+ *  方法一：字典树
  */
 public class WordDictionary {
     /**
@@ -11,18 +12,29 @@ public class WordDictionary {
      * */
     private Trie root;
 
+    /**
+     *  构造方法
+     * */
     public WordDictionary() {
         root = new Trie();
     }
-
+    /**
+     *  添加 单词
+     * */
     public void addWord(String word) {
         root.insert(word);
     }
 
+    /**
+     *  搜索
+     * */
     public boolean search(String word) {
         return dfs(word, 0, root);
     }
 
+    /**
+     *  深度优先
+     * */
     private boolean dfs(String word, int index, Trie node) {
         if (index == word.length()) {
             return node.isEnd();
@@ -45,6 +57,9 @@ public class WordDictionary {
         return false;
     }
 }
+/**
+ * 字典树
+ * */
 class Trie {
     private Trie[] children;
     private boolean isEnd;

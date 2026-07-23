@@ -14,7 +14,9 @@ public class BinarySearchSolution {
      * */
     public int binarySearch(int[] nums, int target) {
         // 1. 边界条件判断
-
+        if(nums == null || nums.length == 0){
+            return 0;
+        }
         // 2. 具体逻辑处理
 
         // 3. 返回逻辑结果

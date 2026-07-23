@@ -19,7 +19,7 @@ public class CalculateCarbonEmissionReductions {
         System.out.println(maxed);
     }
     /**
-     *
+     *  邻接表
      * */
     public int maxCarbonReduction(int[] green, int[] carbon, int[][] edges) {
         int n = green.length;

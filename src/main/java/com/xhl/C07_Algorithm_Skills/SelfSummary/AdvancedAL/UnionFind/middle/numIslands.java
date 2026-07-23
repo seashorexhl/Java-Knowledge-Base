@@ -6,10 +6,10 @@ import java.util.Queue;
 /**
  * @Author: xhl
  * @Date: 2026-07-19 12:56
- * @Description: 200. 岛屿数量 经典连通分量问题 ⭐⭐⭐⭐⭐
- *  深度优先遍历
- *  广度优先遍历
- *  并查集
+ * @Description: 200. 岛屿数量 经典连通分量问题 ⭐⭐⭐
+ *  方法一：深度优先遍历 DFS
+ *  方法二：广度优先遍历 BFS
+ *  方法三：并查集 Union-Find
  */
 public class numIslands {
     static void main(String[] args) {
@@ -34,8 +34,8 @@ public class numIslands {
      * DFS 辅助方法：将当前岛屿及其相连的所有陆地“沉没”
      * */
     void dfs(char[][] grid, int r, int c) {
-        int nr = grid.length;
-        int nc = grid[0].length;
+        int nr = grid.length; //
+        int nc = grid[0].length; //
 
         // 【递归终止条件】：越界，或者当前格子是水('0')，直接返回
         if (r < 0 || c < 0 || r >= nr || c >= nc || grid[r][c] == '0') {
@@ -55,7 +55,6 @@ public class numIslands {
      * */
     public int numIslands(char[][] grid) {
         // 边界条件：网格为空
-
         if (grid == null || grid.length == 0) {
             return 0;
         }
@@ -181,7 +180,7 @@ public class numIslands {
     }
 
     /**
-     * 方法三：并查集
+     * 方法三：并查集 Union-Find
      * 核心类：用于管理节点的合并与查询
      */
     class UnionFind {
@@ -256,6 +255,7 @@ public class numIslands {
         /**
          * 获取当前连通分量（岛屿）的数量
          */
+
         public int getCount() {
             return count;
         }

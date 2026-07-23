@@ -7,7 +7,7 @@ package com.xhl.C07_Algorithm_Skills.SelfSummary.AdvanceDS.Graph.middle;
  */
 public class cloneGraph {
     static void main() {
-
+        Node[] nodes = new Node[10];
     }
     public Node cloneGraph(Node node) {
 
