@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2cbcf97-3448-465b-8d35-77b683d9f8e0" name="更改" comment="changes develop 7.24 早上">
+    <list default="true" id="e2cbcf97-3448-465b-8d35-77b683d9f8e0" name="更改" comment="changes develop 7.24 上午">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/middle200/June/magicCircleEnergyCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/middle200/May/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/prePostBuildTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/prePostBuildTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/May/countWays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/May/countWays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/middle200/June/isBipartite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/middle200/June/isBipartite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/middle200/June/solve.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/middle200/May/findDuplicateSubtrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/middle200/May/findDuplicateSubtrees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/middle200/May/findIsolatedStations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/middle200/May/findIsolatedStations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/middle200/May/maxAccuracy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/middle200/May/maxAccuracy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/middle200/May/postorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/middle200/May/postorderTraversal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,6 +181,7 @@
     "应用程序.deleteAndEarn.executor": "Run",
     "应用程序.electMonitor.executor": "Run",
     "应用程序.findCircleNum.executor": "Run",
+    "应用程序.findDuplicateSubtrees.executor": "Run",
     "应用程序.findKthLargest.executor": "Run",
     "应用程序.findLHS.executor": "Run",
     "应用程序.findMaxDivisibleNumber.executor": "Run",
@@ -208,6 +217,7 @@
     "应用程序.longestNiceSubstring.executor": "Run",
     "应用程序.longestValidSubchain.executor": "Run",
     "应用程序.lowestCommonAncestor.executor": "Run",
+    "应用程序.magicCircleEnergyCollection.executor": "Run",
     "应用程序.matrixReshape.executor": "Run",
     "应用程序.maxDepth.executor": "Run",
     "应用程序.maxEnvelopes.executor": "Debug",
@@ -233,6 +243,7 @@
     "应用程序.numIslands.executor": "Run",
     "应用程序.partition.executor": "Run",
     "应用程序.portTrafficStatistics.executor": "Run",
+    "应用程序.postorderTraversal.executor": "Run",
     "应用程序.preMiddleBuildTree.executor": "Run",
     "应用程序.prePostBuildTree.executor": "Run",
     "应用程序.processExpression.executor": "Run",
@@ -284,13 +295,13 @@
       <recent name="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.easy" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.mergeRanges">
-    <configuration name="BirthdayCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.ODExam.A2026.easy100.April.BirthdayCounter" />
+  <component name="RunManager" selected="应用程序.MainTest">
+    <configuration name="GetAllFileSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C04_Enterprise_Frameworks.NativeUtil.File.GetAllFileSolution" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.ODExam.A2026.easy100.April.*" />
+          <option name="PATTERN" value="com.xhl.C04_Enterprise_Frameworks.NativeUtil.File.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -298,12 +309,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PandaDeskPet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C01_Java_Core.Swing.PandaDeskPet" />
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C04_Enterprise_Frameworks.NativeUtil.Util.Test.MainTest" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C01_Java_Core.Swing.*" />
+          <option name="PATTERN" value="com.xhl.C04_Enterprise_Frameworks.NativeUtil.Util.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -311,12 +322,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringEncryption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.ODExam.LatestOD.E.StringEncryption" />
+    <configuration name="findDuplicateSubtrees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.ODExam.A2026.middle200.May.findDuplicateSubtrees" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.ODExam.LatestOD.E.*" />
+          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.ODExam.A2026.middle200.May.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -324,12 +335,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringEncryptionUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.ODExam.LatestOD.E.StringEncryptionUp" />
+    <configuration name="magicCircleEnergyCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.ODExam.A2026.middle200.June.magicCircleEnergyCollection" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.ODExam.LatestOD.E.*" />
+          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.ODExam.A2026.middle200.June.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -337,12 +348,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mergeRanges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.interval.middle.mergeRanges" />
+    <configuration name="postorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.ODExam.A2026.middle200.May.postorderTraversal" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.interval.middle.*" />
+          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.ODExam.A2026.middle200.May.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -352,11 +363,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.mergeRanges" />
-        <item itemvalue="应用程序.BirthdayCounter" />
-        <item itemvalue="应用程序.StringEncryptionUp" />
-        <item itemvalue="应用程序.StringEncryption" />
-        <item itemvalue="应用程序.PandaDeskPet" />
+        <item itemvalue="应用程序.MainTest" />
+        <item itemvalue="应用程序.magicCircleEnergyCollection" />
+        <item itemvalue="应用程序.postorderTraversal" />
+        <item itemvalue="应用程序.findDuplicateSubtrees" />
+        <item itemvalue="应用程序.GetAllFileSolution" />
       </list>
     </recent_temporary>
   </component>
@@ -367,14 +378,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1782643630254</updated>
-    </task>
-    <task id="LOCAL-00029" summary="changes develop 7.14">
-      <option name="closed" value="true" />
-      <created>1783995481162</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1783995481162</updated>
     </task>
     <task id="LOCAL-00030" summary="changes develop 7.14">
       <option name="closed" value="true" />
@@ -760,7 +763,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784840567317</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="changes develop 7.24 上午">
+      <option name="closed" value="true" />
+      <created>1784842905888</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1784842905888</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -790,7 +801,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="changes develop" />
     <MESSAGE value="changes develop 7.13" />
     <MESSAGE value="changes develop 7.14" />
     <MESSAGE value="changes develop 7.15" />
@@ -815,7 +825,8 @@
     <MESSAGE value="changes develop 7.23 中午" />
     <MESSAGE value="changes develop 7.23 晚上" />
     <MESSAGE value="changes develop 7.24 早上" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes develop 7.24 早上" />
+    <MESSAGE value="changes develop 7.24 上午" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes develop 7.24 上午" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>

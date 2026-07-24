@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @Author: xhl
  * @Date: 2026-07-10 02:56
  * @Description: 麻将基本胡牌型判断-100分
- *  递归与回溯算法 (DFS + Backtracking) + 记忆化搜索 + 贪心
+ *  递归 与 回溯算法 (DFS + Backtracking) + 记忆化搜索 + 贪心
  */
 public class countWays {
    /* 算法设计思路：
