@@ -8,6 +8,13 @@ import java.util.*;
  * @Author: xhl
  * @Date: 2026-07-10 02:34
  * @Description: 寻找重复子数据-200分
+ * 递归解决
+ * 解题思路：
+ *  1.序列化生成
+ *  2.统计计数
+ *  3.节点数计算
+ *  4.节点筛选
+ *  5.排序输出
  *  1.2.3,4,#,2,4,#,#,4
  */
 public class findDuplicateSubtrees {
@@ -25,6 +32,9 @@ public class findDuplicateSubtrees {
         System.out.println(duplicateSubtrees.toString());
     }
 
+    /**
+     *  递归解决
+     * */
     public List<String> findDuplicateSubtrees(TreeNode root) {
         Map<String, Integer> countMap = new HashMap<>();
         Map<String, Integer> nodeCountMap = new HashMap<>();
@@ -45,10 +55,11 @@ public class findDuplicateSubtrees {
             }
             return a.compareTo(b);
         });
-
         return result;
     }
-
+    /**
+     *  深度优先遍历
+     * */
     private Pair<String, Integer> dfs(TreeNode node, Map<String, Integer> countMap, Map<String, Integer> nodeCountMap) {
         if (node == null) return new Pair<>("#", 0);
 

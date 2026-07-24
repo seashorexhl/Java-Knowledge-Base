@@ -6,7 +6,7 @@ import java.util.*;
  * @Author: xhl
  * @Date: 2026-07-10 02:51
  * @Description:    寻找孤立水站-200分
- *
+ *  邻接表 + BFS
  */
 public class findIsolatedStations {
 
@@ -17,7 +17,9 @@ public class findIsolatedStations {
         List<List<Integer>> pipes =  new ArrayList<>();
 
     }
-    //
+    /**
+     *  邻接表 + BFS
+     * */
     public List<Integer> findIsolatedStations(int n, List<Integer> sources, List<List<Integer>> pipes) {
         boolean[] visited = new boolean[n];
         List<List<Integer>> graph = new ArrayList<>();
