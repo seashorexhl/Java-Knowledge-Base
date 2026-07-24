@@ -10,7 +10,9 @@ public class hammingWeight {
         int n =11;
 
     }
-    // 方法一：循环检查二进制位
+    /**
+     *  方法一：循环检查二进制位
+     * */
     public int hammingWeight(int n) {
         int ret = 0;
         for (int i = 0; i < 32; i++) {
@@ -20,7 +22,9 @@ public class hammingWeight {
         }
         return ret;
     }
-    // 方法二：位运算优化
+    /**
+     *  方法二：位运算优化
+     * */
     public int hammingWeight1(int n) {
         int ret = 0;
         while (n != 0) {

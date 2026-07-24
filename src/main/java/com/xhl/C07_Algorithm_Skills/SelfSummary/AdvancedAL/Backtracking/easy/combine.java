@@ -31,7 +31,9 @@ public class combine {
         return ans;
     }
 
-    // 深度优先遍历
+    /**
+     *  深度优先遍历
+     * */
     public void dfs(int cur, int n, int k) {
         // 剪枝：temp 长度加上区间 [cur, n] 的长度小于 k，不可能构造出长度为 k 的 temp
         if (temp.size() + (n - cur + 1) < k) {
@@ -39,7 +41,7 @@ public class combine {
         }
         // 记录合法的答案
         if (temp.size() == k) {
-            ans.add(new ArrayList<Integer>(temp));
+            ans.add(new ArrayList<>(temp));
             return;
         }
         // 考虑选择当前位置

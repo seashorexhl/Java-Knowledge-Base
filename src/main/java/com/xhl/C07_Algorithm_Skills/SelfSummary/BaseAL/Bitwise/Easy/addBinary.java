@@ -5,7 +5,7 @@ import java.math.BigInteger;
 /**
  * @Author: xhl
  * @Date: 2026-06-25 03:28
- * @Description:
+ * @Description: 67. 二进制求和
  */
 public class addBinary {
     static void main() {
@@ -20,7 +20,9 @@ public class addBinary {
                 Integer.parseInt(a,2) + Integer.parseInt(b,2));
         return  res ;
     }
-    // 方法一：模拟
+    /**
+     *  方法一：模拟
+     * */
     public String addBinary1(String a, String b) {
         StringBuffer ans = new StringBuffer();
 
@@ -39,7 +41,9 @@ public class addBinary {
 
         return ans.toString();
     }
-    //方法二：位运算
+    /**
+     *  方法二：位运算
+     * */
     public String addBinary2(String a, String b) {
         BigInteger x = new BigInteger(a, 2);
         BigInteger y = new BigInteger(b, 2);

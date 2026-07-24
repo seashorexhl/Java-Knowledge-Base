@@ -27,7 +27,7 @@ public class searchMatrix {
         }
         return binarySearchRow(matrix[rowIndex], target);
     }
-    //
+    // 二分搜索 列
     public int binarySearchFirstColumn(int[][] matrix, int target) {
         int low = -1, high = matrix.length - 1;
         while (low < high) {
@@ -40,7 +40,7 @@ public class searchMatrix {
         }
         return low;
     }
-    //
+    // 二分搜索行
     public boolean binarySearchRow(int[] row, int target) {
         int low = 0, high = row.length - 1;
         while (low <= high) {

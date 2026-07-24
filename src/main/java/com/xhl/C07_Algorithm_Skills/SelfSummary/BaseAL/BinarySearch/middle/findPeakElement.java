@@ -84,7 +84,9 @@ public class findPeakElement {
         return ans;
     }
 
-    // 辅助函数，输入下标 i，返回一个二元组 (0/1, nums[i])
+    /**
+     *   辅助函数，输入下标 i，返回一个二元组 (0/1, nums[i])
+     * */
     // 方便处理 nums[-1] 以及 nums[n] 的边界情况
     public int[] get1(int[] nums, int idx) {
         if (idx == -1 || idx == nums.length) {
