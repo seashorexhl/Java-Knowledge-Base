@@ -16,7 +16,9 @@ public class selectionSort {
         System.out.println("选择排序：");
         System.out.println(Arrays.toString(arr));
     }
-    // 选择排序
+    /**
+     *  选择排序
+     * */
     public static void selectionSort(int[] arr) {
         int n = arr.length;
         for (int i = 0; i < n - 1; i++) {

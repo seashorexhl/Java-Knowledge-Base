@@ -17,7 +17,9 @@ public class max_depth {
         max_depth md = new max_depth();
         System.out.println("企业内部门的最大层级: "+ md.max_depth(arr));
     }
-    //
+    /**
+     *  深度优先遍历
+     * */
     public int max_depth(String[] arr) {
         if (arr.length == 0 || "#".equals(arr[0])) return 0;
         int n = arr.length;

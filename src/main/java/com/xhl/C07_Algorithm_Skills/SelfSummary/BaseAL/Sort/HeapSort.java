@@ -8,6 +8,7 @@ package com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.Sort;
  */
 public class HeapSort {
     static void main() {
+        int[] arr = {19, 22, 33, 41, 56, 63, 7, 8, 9};
 
     }
     public static void heapSort(int[] arr) {

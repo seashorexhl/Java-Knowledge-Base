@@ -13,7 +13,9 @@ public class ShellSort {
     static void main() {
 
     }
-    // 分组 + 插入排序
+    /**
+     *   分组 + 插入排序
+     * */
     public void shellSort(int[] arr) {
         int n = arr.length;
 

@@ -10,7 +10,7 @@ import java.util.List;
  *  字符串解析 + 时间处理逻辑 + 区间 求交算法 + 区间 交集 + 业务规则到代码的映射
  * 第一档：用电时间在每天的12:00-13:30和17:30-18:00
  * 第二档：每天从0:00起的，且不在第一档时段内的，累积的10小时
- * 第三档： 其他时段
+ * 第三档：其他时段
  */
 public class calculateElectricityCost {
     static void main(String[] args) {
@@ -20,7 +20,9 @@ public class calculateElectricityCost {
             System.out.println(i);
         }
     }
-    //
+    /**
+     *  字符串解析 + 时间处理逻辑 + 区间 求交算法 + 区间 交集 + 业务规则到代码的映射
+     * */
     public static List<Integer> calculateElectricityCost(String input) {
         // 解析输入字符串
         String[] times = input.replace("\"", "").split(" ");

@@ -19,6 +19,7 @@ public class SlideWindow {
      * 定长滑动窗口
      * */
     public static int fixedSlideWindow1(int[] arr, int k) { // 建议把 k 作为参数传入
+
         int n = arr.length;
         if (n < k || k <= 0) return 0; // 防御性编程
 

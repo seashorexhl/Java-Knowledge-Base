@@ -104,7 +104,6 @@ public class extractFeature {
                 commonCount[i]--;
             }
         }
-
         return sb.toString();
     }
 }

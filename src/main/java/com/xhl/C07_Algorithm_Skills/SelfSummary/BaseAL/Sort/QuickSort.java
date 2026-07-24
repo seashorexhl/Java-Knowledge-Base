@@ -29,6 +29,7 @@ public class QuickSort {
             quickSort(arr, pivotIndex + 1, right);
         }
     }
+    // 分区
     private int partition1(int[] arr, int left, int right) {
         int pivot = arr[right]; // 选最右为基准
         int i = left;

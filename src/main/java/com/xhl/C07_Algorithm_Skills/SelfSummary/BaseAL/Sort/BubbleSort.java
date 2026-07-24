@@ -15,7 +15,9 @@ public class BubbleSort {
         bs.bubbleSort(arr);
         System.out.println(Arrays.toString(arr));
     }
-    // 冒泡排序
+    /**
+     *  冒泡排序
+     * */
     public void bubbleSort(int[] arr){
         int n = arr.length;
         for (int i = 0; i < n-1; i++) {

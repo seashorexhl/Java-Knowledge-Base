@@ -18,7 +18,6 @@ public class ledController {
 
     /**
      * 位运算与 掩码操作 + 状态压缩思想
-     *
      */
     public int ledController(String instructions) {
         int state = 0;
