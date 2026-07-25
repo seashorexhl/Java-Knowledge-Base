@@ -8,6 +8,7 @@ import java.util.Scanner;
  * @Author: xhl
  * @Date: 2026-07-04 20:33
  * @Description: 02  interval intersection  区间交集
+ *
  */
 public class intervalIntersection {
     public static void main(String[] args) {
@@ -23,7 +24,9 @@ public class intervalIntersection {
 
         getResult(n, ranges);
     }
-    //
+    /**
+     *  排序、双重循环模拟、区间求交算法  区间合并算法。
+     * */
     public static void getResult(int n, int[][] ranges) {
         // 区间按照开始位置升序
         Arrays.sort(ranges, (a, b) -> a[0] - b[0]);

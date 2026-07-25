@@ -19,6 +19,9 @@ public class stringDecryption {
         System.out.println(getResult(str1, str2));
     }
 
+    /**
+     * 正则表达式 + 多条件自定义排序
+     * */
     public static String getResult(String str1, String str2) {
         String reg = "[0-9a-f]+";
 

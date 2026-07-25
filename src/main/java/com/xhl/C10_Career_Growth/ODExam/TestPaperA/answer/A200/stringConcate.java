@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @Author: xhl
  * @Date: 2026-07-04 20:40
  * @Description: 06 stringConcat 字符串拼接
- *
+ *  字符串解析 + 回朔算法
  */
 public class stringConcate {
     static String s;
