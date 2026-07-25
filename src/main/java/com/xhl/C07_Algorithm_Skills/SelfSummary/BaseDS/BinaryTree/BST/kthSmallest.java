@@ -24,7 +24,6 @@ public class kthSmallest {
         kthSmallest ks = new kthSmallest();
         System.out.println(ks.kthSmallest(root,k));
 
-
     }
     /**
      *  方法一：中序遍历

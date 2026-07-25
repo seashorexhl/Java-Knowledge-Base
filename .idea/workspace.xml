@@ -6,10 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e2cbcf97-3448-465b-8d35-77b683d9f8e0" name="更改" comment="changes develop 7.26 上午">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/常用 算法.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/常用 算法.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C10_Career_Growth/ODExam/TestPaperA/answer/A200/intervalIntersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C10_Career_Growth/ODExam/TestPaperA/answer/A200/intervalIntersection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C10_Career_Growth/ODExam/TestPaperA/answer/A200/stringConcate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C10_Career_Growth/ODExam/TestPaperA/answer/A200/stringConcate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C10_Career_Growth/ODExam/TestPaperA/answer/A200/stringDecryption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C10_Career_Growth/ODExam/TestPaperA/answer/A200/stringDecryption.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/middle200/Apirl/findShortestPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/middle200/Apirl/findShortestPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/BST/kthSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/BST/kthSmallest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -304,7 +302,20 @@
       <recent name="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.easy" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.maxRevenue">
+  <component name="RunManager" selected="应用程序.MainTest">
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C04_Enterprise_Frameworks.NativeUtil.Util.Test.MainTest" />
+      <module name="Java-Knowledge-Base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xhl.C04_Enterprise_Frameworks.NativeUtil.Util.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="baseConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.BaseConversion.baseConversion" />
       <module name="Java-Knowledge-Base" />
@@ -324,19 +335,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.ODExam.LatestOD.C0719.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="isValid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.LeetCode.LeetCode100.Stack.isValid" />
-      <module name="Java-Knowledge-Base" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.LeetCode.LeetCode100.Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -372,11 +370,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.MainTest" />
         <item itemvalue="应用程序.maxRevenue" />
         <item itemvalue="应用程序.findDuplicateServices" />
         <item itemvalue="应用程序.baseConversion" />
         <item itemvalue="应用程序.zigzagLevelOrder" />
-        <item itemvalue="应用程序.isValid" />
       </list>
     </recent_temporary>
   </component>
@@ -388,15 +386,7 @@
       <option name="presentableId" value="Default" />
       <updated>1782643630254</updated>
       <workItem from="1784956200446" duration="16688000" />
-      <workItem from="1784999582973" duration="1688000" />
-    </task>
-    <task id="LOCAL-00042" summary="changes develop 7.18 晚上">
-      <option name="closed" value="true" />
-      <created>1784384984542</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1784384984542</updated>
+      <workItem from="1784999582973" duration="3956000" />
     </task>
     <task id="LOCAL-00043" summary="changes develop 7.18 晚">
       <option name="closed" value="true" />
@@ -782,7 +772,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785001711106</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="changes develop 7.26 上午">
+      <option name="closed" value="true" />
+      <created>1785013230600</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1785013230600</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
