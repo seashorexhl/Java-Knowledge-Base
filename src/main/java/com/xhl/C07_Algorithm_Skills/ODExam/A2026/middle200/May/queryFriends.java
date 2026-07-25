@@ -6,6 +6,7 @@ import java.util.*;
  * @Author: xhl
  * @Date: 2026-07-10 02:54
  * @Description: 社交网络相同爱好好友查询-200分
+ *  BFS + 复杂自定义排序
  * 1.数据预处理：
  * 2.BFS 广度优先搜索
  * 3.兴趣匹配

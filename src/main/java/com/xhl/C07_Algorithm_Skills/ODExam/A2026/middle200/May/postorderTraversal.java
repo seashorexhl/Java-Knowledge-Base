@@ -19,7 +19,9 @@ public class postorderTraversal {
         System.out.println(mained);
 
     }
-
+    /**
+     *
+     * */
     public static String main(String preorderStr, String inorderStr, char beDeletedNode) {
         if (preorderStr == null || inorderStr == null ||
                 preorderStr.length() < 2 || preorderStr.length() > 26 ||
@@ -49,7 +51,9 @@ public class postorderTraversal {
 
         return postorderTraversal(root);
     }
-
+    /**
+     *  遍历
+     * */
     private static TreeNode buildTree(String preorder, String inorder) {
         if (preorder.isEmpty() || inorder.isEmpty()) return null;
         char rootVal = preorder.charAt(0);
@@ -61,6 +65,9 @@ public class postorderTraversal {
         return root;
     }
 
+    /**
+     *  删除节点
+     * */
     private static void deleteNode(TreeNode root, char target) {
         TreeNode[] result = findNode(root, target, null);
         if (result[0] == null || result[1] == null) return; // 根节点或未找到
@@ -81,6 +88,9 @@ public class postorderTraversal {
         }
     }
 
+    /**
+     *  寻找节点
+     * */
     private static TreeNode[] findNode(TreeNode node, char target, TreeNode parent) {
         if (node == null) return new TreeNode[]{null, null};
         if (node.val == target) return new TreeNode[]{node, parent};
@@ -91,6 +101,9 @@ public class postorderTraversal {
         return findNode(node.right, target, node);
     }
 
+    /**
+     *  后序遍历
+     * */
     private static String postorderTraversal(TreeNode root) {
         if (root == null) return "";
         return postorderTraversal(root.left) + postorderTraversal(root.right) + root.val;
