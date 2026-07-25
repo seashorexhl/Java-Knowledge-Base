@@ -17,7 +17,9 @@ public class calculateWriteIndex {
         int i = calculateWriteIndex(capacity, align, readIndex, writeIndex, pktSize);
         System.out.println(i);
     }
-    // 环形缓冲区（Ring Buffer）中，根据给定的对齐要求，计算下一个写入位置的起始地址，并判断是否有足够的连续空间容纳 pktSize 大小的数据包。
+    /**
+     *  环形缓冲区（Ring Buffer）中，根据给定的对齐要求，计算下一个写入位置的起始地址，并判断是否有足够的连续空间容纳 pktSize 大小的数据包。
+     * */
     public static int calculateWriteIndex(int capacity, int align, int readIndex, int writeIndex, int pktSize) {
         int start = (writeIndex + align - 1) & ~(align - 1);
         if (start >= capacity) {
@@ -58,7 +60,9 @@ public class calculateWriteIndex {
 
         return end % capacity;
     }
-    //    优化 增强可读性
+    /**
+     *  优化 增强可读性
+     * */
     public static int calculateWriteIndex1(int capacity, int align, int readIndex, int writeIndex, int pktSize) {
         // 1. 计算对齐后的起始写入位置
         // 注意：这里假设 align 是 2 的幂，使用位运算加速。如果不是，需改用 Math.ceilDiv 或常规取模

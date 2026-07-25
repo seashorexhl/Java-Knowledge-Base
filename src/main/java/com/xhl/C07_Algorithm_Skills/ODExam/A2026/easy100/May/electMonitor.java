@@ -22,7 +22,9 @@ public class electMonitor {
         String elected = electMonitor(students, votes);
         System.out.println(elected);
     }
-
+    /**
+     * 字符串处理 + 哈希表 + 集合操作
+     *  */
     public static String electMonitor(List<String> students, List<String> votes) {
         //
         int n = students.size();

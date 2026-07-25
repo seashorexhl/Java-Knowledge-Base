@@ -19,7 +19,9 @@ public class targetProfitZone {
         List<Integer> list = tpz.targetZone(ops, vals);
         System.out.println(list.toString());
     }
-    // 前缀和  + 哈希表
+    /**
+     *   前缀和  + 哈希表
+     * */
     public List<Integer> targetZone(String[] ops, int[] vals) {
         long prefix = 0;
         Map<Long, Integer> map = new HashMap<>();

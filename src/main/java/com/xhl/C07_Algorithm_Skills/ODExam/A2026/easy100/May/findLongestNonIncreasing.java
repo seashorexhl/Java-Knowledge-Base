@@ -17,9 +17,10 @@ public class findLongestNonIncreasing {
     static void main(String[] args) {
         int[] arr = {};
         findLongestNonIncreasing(arr);
-
     }
-    // 数组遍历 + 滑动窗口
+    /**
+     *  数组遍历 + 滑动窗口
+     * */
     public static void findLongestNonIncreasing(int[] arr) {
         int maxLen = 0;
         int start = 0;

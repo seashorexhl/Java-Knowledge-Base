@@ -23,7 +23,9 @@ public class isEquidistantBinary {
         System.out.println("等距二进制，请输出它的距离:"+equidistantBinary);
 
     }
-    // 位运算 + 字符串解析
+    /**
+     *  位运算 + 字符串解析
+     * */
     public static int isEquidistantBinary(int n) {
         if (n == 0) {
             return -1;

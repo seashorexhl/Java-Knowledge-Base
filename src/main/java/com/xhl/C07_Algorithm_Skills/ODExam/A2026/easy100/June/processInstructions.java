@@ -28,7 +28,9 @@ public class processInstructions {
         List<Integer> list = processInstructions(instructions);
         System.out.println(list);
     }
-    // 缓冲队列+状态转移  (双队列 + 哈希表 + 状态转移)
+    /**
+     *  缓冲队列+状态转移  (双队列 + 哈希表 + 状态转移)
+     * */
     public static List<Integer> processInstructions(List<String> instructions) {
         // 缓冲区队列：暂存接收到的消息，保持接收顺序
         Queue<Integer> bufQueue = new LinkedList<>();

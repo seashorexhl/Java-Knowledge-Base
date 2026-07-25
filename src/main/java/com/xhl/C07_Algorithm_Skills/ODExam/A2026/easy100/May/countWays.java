@@ -19,7 +19,7 @@ public class countWays {
     使用深度优先搜索（DFS）计算每个花色面子的组合方案数
             累加所有有效的胡牌组合数量*/
     /**
-     *
+     *  DFS
      * */
     private static int countWays(int[] arr, int i, Map<String, Integer> memo) {
         if (i > 9) return 1;

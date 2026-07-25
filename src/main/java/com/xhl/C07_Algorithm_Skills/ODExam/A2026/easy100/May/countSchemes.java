@@ -16,7 +16,9 @@ public class countSchemes {
         int i = countSchemes(timestamps, minInterval);
         System.out.println("一共有多少种合法的放行方案:"+i);
     }
-    // 动态规划
+    /**
+     *  动态规划
+     * */
     public static int countSchemes(int[] timestamps, int minInterval) {
         Arrays.sort(timestamps);
         int n = timestamps.length;

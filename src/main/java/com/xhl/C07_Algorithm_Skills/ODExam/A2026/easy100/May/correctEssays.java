@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * @Author: xhl
  * @Date: 2026-07-10 03:01
- * @Description:    correct essays 小学英语老师批改作文-100分
+ * @Description:   correct essays 小学英语老师批改作文-100分
  *
  * 输入：一个仅包含ASCII字符的本文字符串 story。
  * 输出：请你找出批改后的作文中，最长的不包含重复字符的子串长度。
@@ -18,7 +18,9 @@ public class correctEssays {
         System.out.println(function);
     }
 
-    // 滑动窗口
+    /**
+     *  滑动窗口
+     * */
     public static int function(String story) {
         // 第一步：边界检查与数据预处理
         if (story == null || story.isEmpty()) return 0;

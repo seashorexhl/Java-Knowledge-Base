@@ -16,7 +16,9 @@ public class findMaxDivisibleNumber {
         int number = findMaxDivisibleNumber(inputStr, inputDivisor);
         System.out.println(number);
     }
-    // 字符串解析 + 简单数学逻辑
+    /**
+     *  字符串解析 + 简单数学逻辑
+     * */
     /**
      * 核心逻辑：从混合字符串中提取连续数字，寻找能被指定除数整除的最大数字
      * @param inputStr 输入的混合字符串

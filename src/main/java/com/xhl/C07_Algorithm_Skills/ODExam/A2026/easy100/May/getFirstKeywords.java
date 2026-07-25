@@ -22,7 +22,9 @@ public class getFirstKeywords {
             System.out.println(s);
         }
     }
-    //
+    /**
+     *  字符串的 前缀匹配 + 状态边界处理以及集合的排序去重
+     * */
     public static List<String> getFirstKeywords(List<String> commands, String prefix) {
         Set<String> keywords = new HashSet<>();
 
