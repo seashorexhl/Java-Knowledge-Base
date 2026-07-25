@@ -36,7 +36,6 @@ public class ledController {
      * 1. 初始状态与返回值
      * 2. 指令解析的容错处理
      * 3. 位运算的精准映射
-     *
      */
     public int ledController1(String instructions) {
         int state = 0; // 初始状态全灭，二进制 00000000

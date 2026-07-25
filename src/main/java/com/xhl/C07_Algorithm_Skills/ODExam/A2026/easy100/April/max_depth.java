@@ -35,7 +35,6 @@ public class max_depth {
                     int childDepth = depth + 1;
                     maxDepth = Math.max(maxDepth, childDepth);
                     depths.add(childDepth);
-
                 }
                 nextIndex++;
             }

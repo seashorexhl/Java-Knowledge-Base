@@ -1,5 +1,7 @@
 package com.xhl.C07_Algorithm_Skills.ODExam.A2026.easy100.June;
 
+import com.xhl.C07_Algorithm_Skills.ODExam.A2026.easy100.ListNode;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -45,7 +47,6 @@ public class gameResult {
         List<Integer> keep =  new ArrayList<>();
         List<Integer> reLast =  new ArrayList<>();
 
-
         for (int num:list) {
             if (num % 3 == 0) {
                 continue;
@@ -78,14 +79,5 @@ public class gameResult {
             return sb.toString();
     }
 
-    public static class ListNode {
-        int val;
-        ListNode next;
-        ListNode() {}
-        ListNode(int x) { val = x; }
-        ListNode(int x, ListNode next) {
-            val = x;
-            this.next = next;
-        }
-    }
+
 }
