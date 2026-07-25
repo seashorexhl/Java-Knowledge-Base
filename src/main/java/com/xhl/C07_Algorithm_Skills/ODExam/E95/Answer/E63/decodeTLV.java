@@ -44,10 +44,6 @@ public class decodeTLV {
                 // 跳过当前信元
                 index += (2 + length + 1);
             }
-
-
         }
-
     }
-
 }

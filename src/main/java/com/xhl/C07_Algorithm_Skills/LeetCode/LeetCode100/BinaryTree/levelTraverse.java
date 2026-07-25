@@ -73,7 +73,9 @@ public class levelTraverse {
             depth++;
         }
     }
-    // 层序遍历 打印 按层输出
+    /**
+     *  层序遍历 打印 按层输出
+     * */
     public List<Integer> levelTraverse1(TreeNode root) {
         // 1. 空节点快速返回
         if (root == null) {

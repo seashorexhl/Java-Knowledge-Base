@@ -49,7 +49,9 @@ public class ClimbStairsDP {
 
         return dp[n]; // 返回 dp[n]
     }
-    /*滚动数组*/
+    /**
+     *  滚动数组
+     * */
     public int climbStairs2(int n) {
         if (n <= 1) return 1;
 

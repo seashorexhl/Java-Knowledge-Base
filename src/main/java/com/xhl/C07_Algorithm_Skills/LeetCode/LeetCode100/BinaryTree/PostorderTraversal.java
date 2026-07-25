@@ -25,7 +25,9 @@ public class PostorderTraversal {
         List<Integer> integers = pt.postorderTraversal(root);
         System.out.println(integers);
     }
-    // 后续 遍历
+    /**
+     *  后序遍历 二叉树
+     * */
     public List<Integer> postorderTraversal(TreeNode root) {
         List<Integer> res = new ArrayList<>();
         if (root == null) return res;

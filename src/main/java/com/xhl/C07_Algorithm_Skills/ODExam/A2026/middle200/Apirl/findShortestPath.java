@@ -8,7 +8,7 @@ import java.util.Queue;
  * @Author: xhl
  * @Date: 2026-07-14 13:33
  * @Description: 题目三 直捣黄龙 200分 ⭐⭐⭐
- *
+ *  BFS
  */
 public class findShortestPath {
 
@@ -21,7 +21,9 @@ public class findShortestPath {
         System.out.println(Arrays.toString(shortestPath));
         // 预期输出: [2, 2] (2条最短路径，长度为2)
     }
-    // 广度优先搜索
+    /**
+     *  广度优先搜索
+     * */
     public int[] findShortestPath(int n, Point[] soldiers) {
         int[] result = new int[2]; // [count, length]
 
@@ -88,7 +90,6 @@ public class findShortestPath {
             result[0] = count[endX][endY];
             result[1] = dist[endX][endY];
         }
-
         return result;
     }
 

@@ -27,6 +27,7 @@ public class moveZeroes {
             right++;
         }
     }
+    // 交换
     public void swap(int[] nums, int left, int right) {
         int temp = nums[left];
         nums[left] = nums[right];

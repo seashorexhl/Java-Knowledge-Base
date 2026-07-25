@@ -27,12 +27,16 @@ public class inorderTraversal {
         System.out.println(pt.inorder(root));
     }
 
-    // 中序遍历 二叉树
+    /**
+     *  中序遍历 二叉树
+     * */
     public List<Integer> inorder(TreeNode root) {
         Traversal(root);
         return res;
     }
-    // 遍历
+    /**
+     *  中序遍历
+     * */
     public void Traversal(TreeNode root) {
         if (root == null) {
             return ;

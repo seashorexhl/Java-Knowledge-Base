@@ -18,6 +18,7 @@ public class LCS {
         }
         sc.close();
     }
+
     public int LCSubstring(String str) {
         HashSet<Character> set = new HashSet<>();
         set.add('a');

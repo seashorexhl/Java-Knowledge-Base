@@ -12,7 +12,7 @@ import java.util.Queue;
  * @Author: xhl
  * @Date: 2026-06-07 18:12
  * @Description:  637. 二叉树的层平均值
- *
+ *  BFS
  */
 public class averageOfLevels {
     public static void main(String[] args) {

@@ -38,7 +38,7 @@ public class CountCharacter {
     }
 
 
-// 优化后
+    // 优化后
     public static void main1(String[] args) {
         Scanner sc = new Scanner(System.in);
         String str = sc.nextLine();

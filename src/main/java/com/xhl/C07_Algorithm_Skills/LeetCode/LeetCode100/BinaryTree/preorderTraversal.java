@@ -33,7 +33,9 @@ public class preorderTraversal {
         return  res;
 
     }
-    // 前序 遍历 二叉树
+    /**
+     *  前序 遍历 二叉树
+     * */
     void Traversal(TreeNode root){
         if (root == null) return;
 

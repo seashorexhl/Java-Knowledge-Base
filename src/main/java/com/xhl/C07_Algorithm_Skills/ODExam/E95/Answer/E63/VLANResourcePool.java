@@ -35,7 +35,7 @@ public class VLANResourcePool {
 
     // 解析VLAN资源池
     private static List<Integer> parseVlanPool(String input) {
-        List<Integer> vlanPool = new ArrayList<Integer>();
+        List<Integer> vlanPool = new ArrayList<>();
         // 根据逗号分割VLAN资源池中的VLAN
         String[] vlanGroup = input.split(",");
         for (String vlanItem : vlanGroup) {

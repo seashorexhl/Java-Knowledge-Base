@@ -17,5 +17,4 @@ public class StringReverse {
         }
         sc.close();
     }
-
 }

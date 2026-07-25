@@ -26,7 +26,9 @@ public class maximalSquareSolution {
         System.out.println(mss.maximalRectangle(matrix));
 
     }
-    //方法一、暴力法
+    /**
+     *  方法一、暴力法
+     * */
     public int maximalSquare(char[][] matrix) {
         int maxSide = 0;
         if (matrix == null || matrix.length == 0 || matrix[0].length == 0) {
@@ -65,7 +67,9 @@ public class maximalSquareSolution {
         return maxSquare;
 
     }
-    // 动态规划法
+    /**
+     *  动态规划法
+     * */
     public int maximalSquare1(char[][] matrix) {
         int maxSide = 0;
         if (matrix == null || matrix.length == 0 || matrix[0].length == 0) {
@@ -123,7 +127,9 @@ public class maximalSquareSolution {
         return maxArea;
     }
 
-    // 柱状图中最大的矩形（LeetCode 84 单调栈+哨兵解法）
+    /**
+     *  柱状图中最大的矩形（LeetCode 84 单调栈+哨兵解法）
+     * */
     private int largestRectangleArea(int[] heights) {
         int maxArea = 0;
         Deque<Integer> stack = new ArrayDeque<>();
