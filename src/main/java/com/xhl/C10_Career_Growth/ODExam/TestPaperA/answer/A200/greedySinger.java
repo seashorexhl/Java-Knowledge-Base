@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @Author: xhl
  * @Date: 2026-07-04 20:35
  * @Description: 03 greedy singer 贪心歌手
- *
+ *  贪心算法 + 优先级队列
  */
 public class greedySinger {
     static int t;

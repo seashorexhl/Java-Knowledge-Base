@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @Author: xhl
  * @Date: 2026-07-04 20:31
  * @Description:  01 高效的任务规划 Efficient scheduling
- *
+ *  贪心策略 + 流水线/前缀和模拟
  */
 public class efficientScheduling {
     // 输入获取
@@ -31,7 +31,9 @@ public class efficientScheduling {
         getResult(tasks);
     }
 
-    // 算法入口
+    /**
+     *  贪心策略
+     * */
     public static void getResult(int[][][] tasks) {
         for (int[][] task : tasks) {
             // 将每个任务中的机器工作顺序，按照运行时间降序排序

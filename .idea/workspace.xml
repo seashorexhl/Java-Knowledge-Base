@@ -4,23 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2cbcf97-3448-465b-8d35-77b683d9f8e0" name="更改" comment="changes develop 7.25 下午">
+    <list default="true" id="e2cbcf97-3448-465b-8d35-77b683d9f8e0" name="更改" comment="changes develop 7.26 上午">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/LeetCode/LeetCode100/BinaryTree/levelTraverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/LeetCode/LeetCode100/BinaryTree/levelTraverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/C0708/MeetingInMaze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/C0708/MeetingInMaze.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/C0708/SpellCombinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/C0708/SpellCombinations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/C0719/findDuplicateServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/C0719/findDuplicateServices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/C0719/maxRevenue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/C0719/maxRevenue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/C0719/warehouseAnalysis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/C0719/warehouseAnalysis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/TestPaperA/answer/A100/HappyMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/TestPaperA/answer/A100/HappyMatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/BaseConversion/baseConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/BaseConversion/baseConversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/Greedy/关于贪心算法.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/Greedy/关于贪心算法.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/常用 算法.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/常用 算法.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/middle/lowestCommonAncestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/middle/lowestCommonAncestor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/middle/rightSideView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/middle/rightSideView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/middle/zigzagLevelOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/middle/zigzagLevelOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/Collection/Map/HashMap/HashMapLifeStyle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/Collection/Map/HashMap/HashMapLifeStyle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/prePostBuildTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/prePostBuildTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C10_Career_Growth/ODExam/A177/Answer/CountNumsGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C10_Career_Growth/ODExam/A177/Answer/CountNumsGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C10_Career_Growth/ODExam/TestPaperA/TSTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C10_Career_Growth/ODExam/TestPaperA/TSTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C10_Career_Growth/ODExam/TestPaperA/answer/A200/combinedString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C10_Career_Growth/ODExam/TestPaperA/answer/A200/combinedString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C10_Career_Growth/ODExam/TestPaperA/answer/A200/efficientScheduling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C10_Career_Growth/ODExam/TestPaperA/answer/A200/efficientScheduling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C10_Career_Growth/ODExam/TestPaperA/answer/A200/greedySinger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C10_Career_Growth/ODExam/TestPaperA/answer/A200/greedySinger.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,10 +50,10 @@
     &quot;accountId&quot;: &quot;6255d20f-6d4e-4222-90b8-6bb0d663772c&quot;
   }
 }</component>
-  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -87,212 +77,212 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Maven.Java-Knowledge-Base [clean].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Notification.DisplayName-DoNotAsk-untracked.files.overwritten": "未跟踪的文件会阻止合并",
-    "Notification.DoNotAsk-untracked.files.overwritten": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "develop",
-    "git.auto.fetch.suggestion.counter": "1",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/sanya/Desktop/Java-Knowledge-Base/src/main/java/com/xhl/C01_Java_Core/Swing",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "项目",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "Errors",
-    "vue.rearranger.settings.migration": "true",
-    "应用程序.Attendance.executor": "Run",
-    "应用程序.BSPostorderTraversal.executor": "Run",
-    "应用程序.BSPreorderTraversal.executor": "Run",
-    "应用程序.BSTIterator.executor": "Run",
-    "应用程序.BinarySTIterator.executor": "Run",
-    "应用程序.BirthdayCounter.executor": "Run",
-    "应用程序.CalculateCarbonEmissionReductions.executor": "Run",
-    "应用程序.CanMakeSquare.executor": "Run",
-    "应用程序.ClimbingStairs.executor": "Run",
-    "应用程序.CoinChanges.executor": "Run",
-    "应用程序.CommandFileLister.executor": "Run",
-    "应用程序.CommandProcessor.executor": "Run",
-    "应用程序.DeskPet.executor": "Run",
-    "应用程序.DesktopPet.executor": "Run",
-    "应用程序.GetAllFile.executor": "Run",
-    "应用程序.GetAllFileSolution.executor": "Run",
-    "应用程序.HappyMatchGame.executor": "Run",
-    "应用程序.HashMapLifeStyle.executor": "Run",
-    "应用程序.HuaweiOD_MinSteps.executor": "Run",
-    "应用程序.HuffmanTree.executor": "Run",
-    "应用程序.IPSorter.executor": "Run",
-    "应用程序.IPV4ToInt.executor": "Run",
-    "应用程序.InsertInterval.executor": "Run",
-    "应用程序.LevelTraverse.executor": "Run",
-    "应用程序.LinkedList.executor": "Run",
-    "应用程序.Main.executor": "Run",
-    "应用程序.MainTest.executor": "Run",
-    "应用程序.MaxDepthSolution.executor": "Run",
-    "应用程序.MeetingInMaze.executor": "Run",
-    "应用程序.NativeFileLister.executor": "Run",
-    "应用程序.PandaDeskPet (1).executor": "Run",
-    "应用程序.PandaDeskPet (2).executor": "Run",
-    "应用程序.PandaDeskPet.executor": "Run",
-    "应用程序.Product.executor": "Run",
-    "应用程序.RecursiveJavaFileLister.executor": "Run",
-    "应用程序.RestoreNumericalSequence.executor": "Run",
-    "应用程序.SlideWindowFrameWork.executor": "Run",
-    "应用程序.SpellCombinations.executor": "Run",
-    "应用程序.StringElimination.executor": "Run",
-    "应用程序.StringEncryption.executor": "Run",
-    "应用程序.StringEncryptionUp.executor": "Run",
-    "应用程序.TraverseTree.executor": "Run",
-    "应用程序.TreeBuilder.executor": "Run",
-    "应用程序.TwoPointers.executor": "Run",
-    "应用程序.WriteJavaFilesContentsToTxt.executor": "Run",
-    "应用程序.WriteJavaFilesToTxt.executor": "Run",
-    "应用程序.averageOfLevels.executor": "Run",
-    "应用程序.baseConversion.executor": "Run",
-    "应用程序.buildArray.executor": "Run",
-    "应用程序.buildOrder.executor": "Run",
-    "应用程序.calculateElectricityCost.executor": "Run",
-    "应用程序.calculateWriteIndex.executor": "Debug",
-    "应用程序.canFinish.executor": "Run",
-    "应用程序.canMakeSquare.executor": "Run",
-    "应用程序.candy.executor": "Run",
-    "应用程序.classify_ip.executor": "Run",
-    "应用程序.climbStairs.executor": "Run",
-    "应用程序.climbingStairs.executor": "Run",
-    "应用程序.coinChange.executor": "Run",
-    "应用程序.com.xhl.C01_Java_Core.EffectiveJava.C01Introduction.example.Main.executor": "Run",
-    "应用程序.com.xhl.C03_Enterprise_Frameworks.NativeUtil.Util.Test.MainTest.executor": "Run",
-    "应用程序.com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Stack.MonotonicStack.portTrafficStatistics.executor": "Run",
-    "应用程序.com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.easy.isSubsequence.executor": "Run",
-    "应用程序.com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.Tree.BinaryTree.middle.BSTIterator.executor": "Run",
-    "应用程序.combine.executor": "Run",
-    "应用程序.connect.executor": "Run",
-    "应用程序.construct.executor": "Run",
-    "应用程序.containsNearbyDuplicate.executor": "Run",
-    "应用程序.convert.executor": "Run",
-    "应用程序.correctEssays.executor": "Run",
-    "应用程序.countGoodSubstrings.executor": "Run",
-    "应用程序.countNodesSolutions.executor": "Run",
-    "应用程序.countSchemes.executor": "Run",
-    "应用程序.countTreeNodes.executor": "Run",
-    "应用程序.countWays.executor": "Run",
-    "应用程序.decodeTLV.executor": "Debug",
-    "应用程序.deleteAndEarn.executor": "Run",
-    "应用程序.electMonitor.executor": "Run",
-    "应用程序.findCircleNum.executor": "Run",
-    "应用程序.findDuplicateServices.executor": "Run",
-    "应用程序.findDuplicateSubtrees.executor": "Run",
-    "应用程序.findKthLargest.executor": "Run",
-    "应用程序.findLHS.executor": "Run",
-    "应用程序.findMaxDivisibleNumber.executor": "Run",
-    "应用程序.findMinArrowShots.executor": "Run",
-    "应用程序.findPeakElement.executor": "Run",
-    "应用程序.findShortestPath.executor": "Run",
-    "应用程序.findSubstring.executor": "Run",
-    "应用程序.flattenBSTree.executor": "Run",
-    "应用程序.fullJustify.executor": "Run",
-    "应用程序.gameOfLife.executor": "Run",
-    "应用程序.gameResult.executor": "Run",
-    "应用程序.getFirstKeywords.executor": "Run",
-    "应用程序.getFlowRatesStat.executor": "Run",
-    "应用程序.getMinimumDifference.executor": "Run",
-    "应用程序.hasPathSum.executor": "Run",
-    "应用程序.hasPathSumSolution.executor": "Run",
-    "应用程序.intToRoman.executor": "Run",
-    "应用程序.invertTree.executor": "Run",
-    "应用程序.isEquidistantBinary.executor": "Run",
-    "应用程序.isPalindrome.executor": "Run",
-    "应用程序.isSubsequence.executor": "Run",
-    "应用程序.isSymmetric.executor": "Debug",
-    "应用程序.isSymmetricSolution.executor": "Run",
-    "应用程序.isValid.executor": "Run",
-    "应用程序.isValidSudoku.executor": "Run",
-    "应用程序.kthSmallest.executor": "Run",
-    "应用程序.lastStoneWeight.executor": "Run",
-    "应用程序.ledController.executor": "Run",
-    "应用程序.lengthOfLIS.executor": "Run",
-    "应用程序.lengthOfLongestSubstring.executor": "Run",
-    "应用程序.levelOrder.executor": "Run",
-    "应用程序.levelTraverse.executor": "Run",
-    "应用程序.loadFiles.executor": "Run",
-    "应用程序.longestNiceSubstring.executor": "Run",
-    "应用程序.longestValidSubchain.executor": "Run",
-    "应用程序.lowestCommonAncestor.executor": "Run",
-    "应用程序.magicCircleEnergyCollection.executor": "Run",
-    "应用程序.matrixReshape.executor": "Run",
-    "应用程序.maxAccuracy.executor": "Run",
-    "应用程序.maxChargeSum.executor": "Run",
-    "应用程序.maxDepth.executor": "Run",
-    "应用程序.maxEnvelopes.executor": "Debug",
-    "应用程序.maxEvents.executor": "Run",
-    "应用程序.maxPathSum.executor": "Run",
-    "应用程序.maxRevenue.executor": "Run",
-    "应用程序.maxSubArray.executor": "Run",
-    "应用程序.maxSubarraySumCircular.executor": "Run",
-    "应用程序.max_depth.executor": "Run",
-    "应用程序.mergeKLists (1).executor": "Run",
-    "应用程序.mergeKLists (2).executor": "Run",
-    "应用程序.mergeKLists.executor": "Run",
-    "应用程序.mergeLogs.executor": "Run",
-    "应用程序.mergeRanges.executor": "Run",
-    "应用程序.mergeTwoLists.executor": "Run",
-    "应用程序.midPostBuildTree.executor": "Run",
-    "应用程序.minAPCount.executor": "Run",
-    "应用程序.minDepth.executor": "Run",
-    "应用程序.minDistance.executor": "Run",
-    "应用程序.minProcessingTime.executor": "Run",
-    "应用程序.minWindow.executor": "Run",
-    "应用程序.multiDArray.executor": "Debug",
-    "应用程序.numDistinct.executor": "Run",
-    "应用程序.numIslands.executor": "Run",
-    "应用程序.partition.executor": "Run",
-    "应用程序.portTrafficStatistics.executor": "Run",
-    "应用程序.postorderTraversal.executor": "Run",
-    "应用程序.preMiddleBuildTree.executor": "Run",
-    "应用程序.prePostBuildTree.executor": "Run",
-    "应用程序.processExpression.executor": "Run",
-    "应用程序.processInstructions.executor": "Run",
-    "应用程序.processTasks.executor": "Run",
-    "应用程序.regexReplace.executor": "Run",
-    "应用程序.removeElement.executor": "Run",
-    "应用程序.reverseBits.executor": "Run",
-    "应用程序.reverseKGroup.executor": "Run",
-    "应用程序.reverseList.executor": "Run",
-    "应用程序.rob.executor": "Run",
-    "应用程序.rotateImage.executor": "Run",
-    "应用程序.rx_processing.executor": "Run",
-    "应用程序.scheduleCharging.executor": "Run",
-    "应用程序.searchInsert.executor": "Run",
-    "应用程序.searchMatrix.executor": "Run",
-    "应用程序.setZeroes.executor": "Run",
-    "应用程序.solve.executor": "Run",
-    "应用程序.sortList.executor": "Run",
-    "应用程序.sortResolutions.executor": "Run",
-    "应用程序.sumNumbers.executor": "Run",
-    "应用程序.targetProfitZone.executor": "Run",
-    "应用程序.taskScheduling.executor": "Run",
-    "应用程序.threeSum.executor": "Run",
-    "应用程序.trap.executor": "Run",
-    "应用程序.twoSum.executor": "Run",
-    "应用程序.validPath.executor": "Run",
-    "应用程序.wordBreak.executor": "Run",
-    "应用程序.zigzagLevelOrder.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Maven.Java-Knowledge-Base [clean].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-untracked.files.overwritten&quot;: &quot;未跟踪的文件会阻止合并&quot;,
+    &quot;Notification.DoNotAsk-untracked.files.overwritten&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;1&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sanya/Desktop/Java-Knowledge-Base/src/main/java/com/xhl/C01_Java_Core/Swing&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.Attendance.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.BSPostorderTraversal.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.BSPreorderTraversal.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.BSTIterator.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.BinarySTIterator.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.BirthdayCounter.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.CalculateCarbonEmissionReductions.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.CanMakeSquare.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ClimbingStairs.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.CoinChanges.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.CommandFileLister.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.CommandProcessor.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.DeskPet.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.DesktopPet.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.GetAllFile.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.GetAllFileSolution.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.HappyMatchGame.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.HashMapLifeStyle.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.HuaweiOD_MinSteps.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.HuffmanTree.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.IPSorter.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.IPV4ToInt.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.InsertInterval.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.LevelTraverse.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.LinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Main.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.MainTest.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.MaxDepthSolution.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.MeetingInMaze.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.NativeFileLister.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.PandaDeskPet (1).executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.PandaDeskPet (2).executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.PandaDeskPet.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Product.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.RecursiveJavaFileLister.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.RestoreNumericalSequence.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.SlideWindowFrameWork.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.SpellCombinations.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.StringElimination.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.StringEncryption.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.StringEncryptionUp.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.TraverseTree.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.TreeBuilder.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.TwoPointers.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.WriteJavaFilesContentsToTxt.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.WriteJavaFilesToTxt.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.averageOfLevels.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.baseConversion.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.buildArray.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.buildOrder.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.calculateElectricityCost.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.calculateWriteIndex.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.canFinish.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.canMakeSquare.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.candy.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.classify_ip.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.climbStairs.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.climbingStairs.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.coinChange.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.com.xhl.C01_Java_Core.EffectiveJava.C01Introduction.example.Main.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.com.xhl.C03_Enterprise_Frameworks.NativeUtil.Util.Test.MainTest.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.com.xhl.C06_Algorithm_Skills.SelfSummary.BaseDS.Stack.MonotonicStack.portTrafficStatistics.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.easy.isSubsequence.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.Tree.BinaryTree.middle.BSTIterator.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.combine.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.connect.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.construct.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.containsNearbyDuplicate.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.convert.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.correctEssays.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.countGoodSubstrings.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.countNodesSolutions.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.countSchemes.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.countTreeNodes.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.countWays.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.decodeTLV.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.deleteAndEarn.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.electMonitor.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.findCircleNum.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.findDuplicateServices.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.findDuplicateSubtrees.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.findKthLargest.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.findLHS.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.findMaxDivisibleNumber.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.findMinArrowShots.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.findPeakElement.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.findShortestPath.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.findSubstring.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.flattenBSTree.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.fullJustify.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.gameOfLife.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.gameResult.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.getFirstKeywords.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.getFlowRatesStat.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.getMinimumDifference.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.hasPathSum.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.hasPathSumSolution.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.intToRoman.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.invertTree.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.isEquidistantBinary.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.isPalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.isSubsequence.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.isSymmetric.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.isSymmetricSolution.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.isValid.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.isValidSudoku.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.kthSmallest.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lastStoneWeight.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ledController.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lengthOfLIS.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lengthOfLongestSubstring.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.levelOrder.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.levelTraverse.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.loadFiles.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.longestNiceSubstring.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.longestValidSubchain.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.lowestCommonAncestor.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.magicCircleEnergyCollection.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.matrixReshape.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.maxAccuracy.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.maxChargeSum.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.maxDepth.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.maxEnvelopes.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.maxEvents.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.maxPathSum.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.maxRevenue.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.maxSubArray.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.maxSubarraySumCircular.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.max_depth.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.mergeKLists (1).executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.mergeKLists (2).executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.mergeKLists.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.mergeLogs.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.mergeRanges.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.mergeTwoLists.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.midPostBuildTree.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.minAPCount.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.minDepth.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.minDistance.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.minProcessingTime.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.minWindow.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.multiDArray.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.numDistinct.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.numIslands.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.partition.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.portTrafficStatistics.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.postorderTraversal.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.preMiddleBuildTree.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.prePostBuildTree.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.processExpression.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.processInstructions.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.processTasks.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.regexReplace.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.removeElement.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.reverseBits.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.reverseKGroup.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.reverseList.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.rob.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.rotateImage.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.rx_processing.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.scheduleCharging.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.searchInsert.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.searchMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.setZeroes.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.solve.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.sortList.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.sortResolutions.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.sumNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.targetProfitZone.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.taskScheduling.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.threeSum.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.trap.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.twoSum.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.validPath.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.wordBreak.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.zigzagLevelOrder.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.xhl.C01_Java_Core.EffectiveJava.C02CreatingDestroyingObjects" />
@@ -398,15 +388,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1782643630254</updated>
-      <workItem from="1784956200446" duration="16360000" />
-    </task>
-    <task id="LOCAL-00040" summary="changes develop 7.18 晚上">
-      <option name="closed" value="true" />
-      <created>1784372495407</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1784372495407</updated>
+      <workItem from="1784956200446" duration="16688000" />
+      <workItem from="1784999582973" duration="496000" />
     </task>
     <task id="LOCAL-00041" summary="changes develop 7.18 晚上">
       <option name="closed" value="true" />
@@ -792,7 +775,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784964165924</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="changes develop 7.26 上午">
+      <option name="closed" value="true" />
+      <created>1784999371548</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1784999371548</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -822,7 +813,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="changes develop 7.17 晚上" />
     <MESSAGE value="changes develop 7.18 中午" />
     <MESSAGE value="changes develop 7.18 下午" />
     <MESSAGE value="changes develop 7.18 晚上" />
@@ -847,7 +837,8 @@
     <MESSAGE value="changes develop 7.24 晚上" />
     <MESSAGE value="changes develop 7.25 上午" />
     <MESSAGE value="changes develop 7.25 下午" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes develop 7.25 下午" />
+    <MESSAGE value="changes develop 7.26 上午" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes develop 7.26 上午" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>

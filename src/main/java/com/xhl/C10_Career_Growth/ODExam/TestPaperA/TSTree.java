@@ -6,7 +6,6 @@ import java.util.Scanner;
  * @Author: xhl
  * @Date: 2026-06-10 03:34
  * @Description: 61 三叉搜索树  计算最接近的数
- *
  */
 public class TSTree {
 
@@ -24,7 +23,9 @@ public class TSTree {
         System.out.println(height);  // 输出树的高度
     }
 
-    // 静态内部类：树
+    /**
+     *  静态内部类：树
+     * */
     static class Tree {
         // 插入方法：向树中插入值
         public TreeNode insert(TreeNode root, int val) {

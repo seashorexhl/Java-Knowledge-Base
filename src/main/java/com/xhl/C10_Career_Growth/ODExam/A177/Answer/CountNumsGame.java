@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @Author: xhl
  * @Date: 2026-04-11 22:51
  * @Description:  02 报数游戏 补种未成熟胡杨
- *
+ *  约瑟夫环问题 + 数组/列表的模拟操作 + 递归思想
  */
 public class CountNumsGame {
 
