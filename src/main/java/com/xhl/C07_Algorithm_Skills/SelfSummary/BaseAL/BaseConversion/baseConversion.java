@@ -9,7 +9,11 @@ import java.math.BigInteger;
  */
 public class baseConversion {
     public static void main(String[] args) {
-
+        int x =8;
+        String Binary = Integer.toBinaryString(x);
+        System.out.println(x+"的二进制数为" +Binary);
+        System.out.println(x+"的八进制数为" +Integer.toOctalString(x));
+        System.out.println(x+"的十六进制数为："+ Integer.toHexString(x));
     }
     /*1. 十进制转其他进制*/
     public class DecimalToOtherBase {

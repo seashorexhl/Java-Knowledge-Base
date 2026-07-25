@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * @Author: xhl
  * @Date: 2026-07-01 01:05
- * @Description: 889 根据 二叉树的前序 和 后序遍历 构建 二叉树
+ * @Description: 889 根据 二叉树的前序 和 后序遍历 构建 二叉树 ⭐⭐⭐
  * 注意：仅凭前序和后序遍历，是无法唯一确定一棵二叉树的！ 只有当二叉树是满二叉树或完全二叉树时，
  * 前序 + 后序才能唯一重构。如果某个节点只有一个子节点，前序和后序无法区分它是左孩子还是右孩子。
  */
@@ -31,7 +31,6 @@ public class prePostBuildTree {
         if (in_left > in_right) {
             return null;
         }
-
         // 选择 post_idx 位置的元素作为当前子树根节点
         int root_val = postorder[post_idx];
         TreeNode root = new TreeNode(root_val);

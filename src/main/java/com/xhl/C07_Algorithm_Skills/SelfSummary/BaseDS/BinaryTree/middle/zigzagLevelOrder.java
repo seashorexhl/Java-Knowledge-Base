@@ -24,11 +24,15 @@ public class zigzagLevelOrder {
         zigzagLevelOrder zlo = new zigzagLevelOrder();
         System.out.println("二叉树的 锯齿形遍历：");
         System.out.println(zlo.zigzagLevelOrder(root));
+        System.out.println("---------------------------");
+        List<Integer> ans = zlo.zigzagLevelOrder1(root);
+        System.out.println(ans);
     }
+
     /**
-     *  广度优先遍历
-     *  BFS 层序遍历 + 双端队列（Deque）动态调整插入方向
-     *  使用双端队列 (Deque) 代替普通列表
+     * 广度优先遍历
+     * BFS 层序遍历 + 双端队列（Deque）动态调整插入方向
+     * 使用双端队列 (Deque) 代替普通列表
      */
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
         // 1. 初始化结果集，用于存储每一层的遍历结果
@@ -82,4 +86,38 @@ public class zigzagLevelOrder {
         return ans;
     }
 
+    public List<Integer> zigzagLevelOrder1(TreeNode root) {
+        List<Integer> ans = new ArrayList<>();
+        if (root == null ){
+            return ans;
+        }
+        Queue<TreeNode> nodeQueue = new ArrayDeque<>();
+        nodeQueue.offer(root);
+        boolean isOrderLeft = true;
+        while(!nodeQueue.isEmpty()){
+            int size = nodeQueue.size();
+            Deque<Integer> levelList = new LinkedList<>();
+            for (int i = 0; i < size; i++) {
+                TreeNode curNode = nodeQueue.poll();
+                if (isOrderLeft){
+                    levelList.offerLast(curNode.val);
+                }else {
+                    levelList.offerFirst(curNode.val);
+                }
+                if (curNode.left != null){
+                    nodeQueue.offer(curNode.left);
+                }
+                if(curNode.right != null){
+                    nodeQueue.offer(curNode.right);
+                }
+            }
+            for (Integer val : levelList) {
+                ans.add(val);
+            }
+
+            isOrderLeft = !isOrderLeft;
+        }
+
+        return ans;
+    }
 }

@@ -47,7 +47,9 @@ public class levelTraverse {
         sb.append("]");
         System.out.println(sb.toString());
     }
-    // 分层遍历
+    /**
+     *  分层遍历 BFS
+     * */
     public  void   LevelTraverse(TreeNode root) {
         if (root == null) return;
         Queue<TreeNode> queue = new LinkedList<>();

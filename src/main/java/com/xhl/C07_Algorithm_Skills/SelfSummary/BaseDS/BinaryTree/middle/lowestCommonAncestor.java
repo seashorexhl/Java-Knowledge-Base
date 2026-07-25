@@ -16,7 +16,6 @@ import java.util.Set;
  */
 public class lowestCommonAncestor {
 
-
     /**
      *  方法一：递归
      * */
@@ -109,12 +108,11 @@ public class lowestCommonAncestor {
      * 方法二：存储父节点
      * */
     Map<Integer, TreeNode> parent = new HashMap<>();
-    Set<Integer> visited = new HashSet<Integer>();
+    Set<Integer> visited = new HashSet<>(); //访问记录表
 
     /**
      *  深度优先遍历
      * */
-
     public void dfs(TreeNode root) {
         if (root.left != null) {
             parent.put(root.left.val, root);
@@ -126,7 +124,7 @@ public class lowestCommonAncestor {
         }
     }
     /**
-     *
+     *  递归遍历
      * */
     public TreeNode lowestCommonAncestor1(TreeNode root, TreeNode p, TreeNode q) {
         dfs(root);

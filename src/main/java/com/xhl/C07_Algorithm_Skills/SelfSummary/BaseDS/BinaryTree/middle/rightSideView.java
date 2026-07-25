@@ -78,7 +78,6 @@ public class rightSideView {
     /**
      *  广度优先搜索 BFS 层序遍历
      * */
-
     public List<Integer> rightSideViewBFS(BSTreeNode root) {
         Map<Integer, Integer> rightmostValueAtDepth = new HashMap<>();
         int max_depth = -1;

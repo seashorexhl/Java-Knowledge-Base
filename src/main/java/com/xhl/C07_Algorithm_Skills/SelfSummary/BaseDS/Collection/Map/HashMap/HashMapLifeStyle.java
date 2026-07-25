@@ -1,6 +1,7 @@
 package com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.Collection.Map.HashMap;
 
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.Map;
 import java.util.Set;
 
@@ -25,7 +26,9 @@ public class HashMapLifeStyle {
         // 字符串映射到 数组的哈希表
         HashMap<String,int[]> map2 = new HashMap<>();
 
-        /*增删改查*/
+        /**
+         *  增删改查
+         * */
         map.put(3,"a");
         map.put(2,"b");
         map.put(4,"c");
@@ -33,7 +36,9 @@ public class HashMapLifeStyle {
         String s = map.get(2);
         System.out.println(s);
 
-        /*判断哈希表中是否存在键 Key*/
+        /**
+         *  判断哈希表中是否存在键 Key
+         * */
         boolean containsKey = map.containsKey(2);
         System.out.println(containsKey);
         // 如果key 存在 删除并返回对应的值
@@ -48,10 +53,34 @@ public class HashMapLifeStyle {
         map.putIfAbsent(2,null);
         System.out.println(map.get(2));
 
-        // HashMap 的遍历 使用 entrySet
+        /**
+         *  HashMap 的遍历 使用 entrySet
+         * */
         for (Map.Entry<Integer, String> entry : map.entrySet()) {
             System.out.println("键: " + entry.getKey() + ", 值: " + entry.getValue());
         }
 
+        /**
+         *  只需要 Key（键）时
+         * */
+        for (Integer key : map.keySet()) {
+            System.out.println("键: " + key);
+        }
+        /**
+         *  只需要 Value（值）时
+         * */
+        for (String value : map.values()) {
+            System.out.println("值: " + value);
+        }
+        /**
+         *  遍历中需要“删除元素”时
+         * */
+        Iterator<Map.Entry<Integer, String>> iterator = map.entrySet().iterator();
+        while (iterator.hasNext()) {
+            Map.Entry<Integer, String> entry = iterator.next();
+            if ("需要删除的键".equals(entry.getKey())) {
+                iterator.remove(); // 安全删除
+            }
+        }
     }
 }

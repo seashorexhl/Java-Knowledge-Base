@@ -6,7 +6,7 @@ import java.util.*;
  * @Author: xhl
  * @Date: 2026-07-19 16:38
  * @Description: Meeting in the Maze 迷宫相遇
- *
+ * 邻接表 + BFS + 模拟
  */
 public class MeetingInMaze {
     static void main(String[] args) {
@@ -18,7 +18,9 @@ public class MeetingInMaze {
         int meetRounds = m.minMeetRounds(n, edges, startA, patrolPath);
         System.out.println("meetRounds = " + meetRounds);
     }
-
+    /**
+     *  邻接表 + BFS + 模拟
+     * */
     public int minMeetRounds(int n, int[][] edges, int startA, int[] patrolPath) {
         // 1. 构建邻接表
         List<List<Integer>> graph = new ArrayList<>();

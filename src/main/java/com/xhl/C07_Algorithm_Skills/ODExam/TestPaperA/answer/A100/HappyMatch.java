@@ -32,7 +32,9 @@ public class HappyMatch {
         }
         System.out.println(result); // 输出矩阵中1的连通块数量
     }
-
+    /**
+     * DFS
+     * */
     public static void dfs(int[][] matrix, int x, int y) {
         matrix[x][y] = 0; // 将当前位置的值设为0，表示已经遍历过
         int rows = matrix.length; // 矩阵的行数

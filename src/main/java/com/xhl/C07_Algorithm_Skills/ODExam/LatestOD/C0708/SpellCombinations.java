@@ -17,7 +17,9 @@ public class SpellCombinations {
         SpellCombinations sc = new SpellCombinations();
         System.out.println(sc.magicFormations(fragments));
     }
-    // 回朔 + 筛选 + 排序
+    /**
+     *   回朔 + 筛选 + 排序
+     * */
     public List<String> magicFormations(String[] fragments) {
         List<String> pureFragments = new ArrayList<>();
 
@@ -46,7 +48,9 @@ public class SpellCombinations {
         return result;
     }
 
-    // 判断碎片是否纯净（内部无重复字母）
+    /**
+     * 判断碎片是否纯净（内部无重复字母）
+     * */
     private boolean isPure(String s) {
         boolean[] seen = new boolean[26];
         for (char c : s.toCharArray()) {
@@ -58,7 +62,9 @@ public class SpellCombinations {
         return true;
     }
 
-    // 回溯法生成全排列
+    /**
+     *  回溯法生成全排列
+     * */
     private void permute(List<String> pureFragments, boolean[] used, List<String> current, List<String> result) {
         if (current.size() == pureFragments.size()) {
             // 排列完成，用空格连接

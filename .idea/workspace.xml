@@ -5,20 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2cbcf97-3448-465b-8d35-77b683d9f8e0" name="更改" comment="changes develop 7.25 下午">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/June/processInstructions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/June/processInstructions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/June/targetProfitZone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/June/targetProfitZone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/May/calculateWriteIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/May/calculateWriteIndex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/May/correctEssays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/May/correctEssays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/May/countSchemes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/May/countSchemes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/May/countWays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/May/countWays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/May/electMonitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/May/electMonitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/May/findLongestNonIncreasing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/May/findLongestNonIncreasing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/May/findMaxDivisibleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/May/findMaxDivisibleNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/May/getFirstKeywords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/May/getFirstKeywords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/May/isEquidistantBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/May/isEquidistantBinary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/May/solve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/A2026/easy100/May/solve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/LeetCode/LeetCode100/BinaryTree/levelTraverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/LeetCode/LeetCode100/BinaryTree/levelTraverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/C0708/MeetingInMaze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/C0708/MeetingInMaze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/C0708/SpellCombinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/C0708/SpellCombinations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/C0719/findDuplicateServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/C0719/findDuplicateServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/C0719/maxRevenue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/C0719/maxRevenue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/C0719/warehouseAnalysis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/LatestOD/C0719/warehouseAnalysis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/TestPaperA/answer/A100/HappyMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/ODExam/TestPaperA/answer/A100/HappyMatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/BaseConversion/baseConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/BaseConversion/baseConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/Greedy/关于贪心算法.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/Greedy/关于贪心算法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/常用 算法.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseAL/常用 算法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/middle/lowestCommonAncestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/middle/lowestCommonAncestor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/middle/rightSideView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/middle/rightSideView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/middle/zigzagLevelOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/BinaryTree/middle/zigzagLevelOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/Collection/Map/HashMap/HashMapLifeStyle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/Collection/Map/HashMap/HashMapLifeStyle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/prePostBuildTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xhl/C07_Algorithm_Skills/SelfSummary/BaseDS/Tree/middle/prePostBuildTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +113,7 @@
     "project.structure.last.edited": "项目",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "Errors",
     "vue.rearranger.settings.migration": "true",
     "应用程序.Attendance.executor": "Run",
     "应用程序.BSPostorderTraversal.executor": "Run",
@@ -160,6 +162,7 @@
     "应用程序.WriteJavaFilesContentsToTxt.executor": "Run",
     "应用程序.WriteJavaFilesToTxt.executor": "Run",
     "应用程序.averageOfLevels.executor": "Run",
+    "应用程序.baseConversion.executor": "Run",
     "应用程序.buildArray.executor": "Run",
     "应用程序.buildOrder.executor": "Run",
     "应用程序.calculateElectricityCost.executor": "Run",
@@ -191,6 +194,7 @@
     "应用程序.deleteAndEarn.executor": "Run",
     "应用程序.electMonitor.executor": "Run",
     "应用程序.findCircleNum.executor": "Run",
+    "应用程序.findDuplicateServices.executor": "Run",
     "应用程序.findDuplicateSubtrees.executor": "Run",
     "应用程序.findKthLargest.executor": "Run",
     "应用程序.findLHS.executor": "Run",
@@ -236,6 +240,7 @@
     "应用程序.maxEnvelopes.executor": "Debug",
     "应用程序.maxEvents.executor": "Run",
     "应用程序.maxPathSum.executor": "Run",
+    "应用程序.maxRevenue.executor": "Run",
     "应用程序.maxSubArray.executor": "Run",
     "应用程序.maxSubarraySumCircular.executor": "Run",
     "应用程序.max_depth.executor": "Run",
@@ -285,7 +290,7 @@
     "应用程序.twoSum.executor": "Run",
     "应用程序.validPath.executor": "Run",
     "应用程序.wordBreak.executor": "Run",
-    "应用程序.zigzagLevelOrder.executor": "Debug"
+    "应用程序.zigzagLevelOrder.executor": "Run"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -310,13 +315,13 @@
       <recent name="com.xhl.C06_Algorithm_Skills.SelfSummary.BaseAL.TwoPointers.easy" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.isValid">
-    <configuration name="BirthdayCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.ODExam.A2026.easy100.April.BirthdayCounter" />
+  <component name="RunManager" selected="应用程序.maxRevenue">
+    <configuration name="baseConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.BaseConversion.baseConversion" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.ODExam.A2026.easy100.April.*" />
+          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.BaseConversion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -324,12 +329,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMapLifeStyle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.Collection.Map.HashMap.HashMapLifeStyle" />
+    <configuration name="findDuplicateServices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.ODExam.LatestOD.C0719.findDuplicateServices" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.Collection.Map.HashMap.*" />
+          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.ODExam.LatestOD.C0719.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -350,12 +355,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reverseBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.Bitwise.Easy.reverseBits" />
+    <configuration name="maxRevenue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.ODExam.LatestOD.C0719.maxRevenue" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.Bitwise.Easy.*" />
+          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.ODExam.LatestOD.C0719.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -363,12 +368,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="searchMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.BinarySearch.middle.searchMatrix" />
+    <configuration name="zigzagLevelOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.BinaryTree.middle.zigzagLevelOrder" />
       <module name="Java-Knowledge-Base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseAL.BinarySearch.middle.*" />
+          <option name="PATTERN" value="com.xhl.C07_Algorithm_Skills.SelfSummary.BaseDS.BinaryTree.middle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -378,11 +383,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.maxRevenue" />
+        <item itemvalue="应用程序.findDuplicateServices" />
+        <item itemvalue="应用程序.baseConversion" />
+        <item itemvalue="应用程序.zigzagLevelOrder" />
         <item itemvalue="应用程序.isValid" />
-        <item itemvalue="应用程序.HashMapLifeStyle" />
-        <item itemvalue="应用程序.BirthdayCounter" />
-        <item itemvalue="应用程序.reverseBits" />
-        <item itemvalue="应用程序.searchMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -393,15 +398,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1782643630254</updated>
-      <workItem from="1784956200446" duration="1234000" />
-    </task>
-    <task id="LOCAL-00039" summary="changes develop 7.18 下午">
-      <option name="closed" value="true" />
-      <created>1784370627172</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1784370627172</updated>
+      <workItem from="1784956200446" duration="16360000" />
     </task>
     <task id="LOCAL-00040" summary="changes develop 7.18 晚上">
       <option name="closed" value="true" />
@@ -787,7 +784,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784955855360</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="changes develop 7.25 下午">
+      <option name="closed" value="true" />
+      <created>1784964165924</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1784964165924</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
